@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T00:17:23+00:00",
-  "generated_local": "Fri Oct 2, 5:17 PM PDT",
+  "generated": "2026-10-03T00:18:10+00:00",
+  "generated_local": "Fri Oct 2, 5:18 PM PDT",
   "scores": [
     {
       "league": "NFL",
@@ -147,7 +147,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQlhyOHFxTFZ5WlFISl9BdmlZcHBIWEhlLVI5bFB3TVZ3TW5fdGJVaUZ1MlB0TVBBamZ5dEMwZWNyRmxHSk4zb05XUmRlTmplNUJFQzJ1RWgwUWdwNTQ2MVJrQUw3TVUwM1ozZzZqTEtnY2JUX09JWHVsWWNfYThtWDliSjlTd3RTemxIRUtVWXNBMW9KZENxa0kwWnA0aUtvMXphWk04RVdYdV9VeTJGTG1zN0hfY3pQMW45WFB3?oc=5",
       "ts": "2026-10-02T07:30:29+00:00",
       "category": "Hockey",
-      "score": 12.6,
+      "score": 12.59,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -156,7 +156,7 @@
     },
     {
       "title": "Seongnam Launches 'Safe Pharmacist Visit Program': Pharmacists to Check Medication for Seniors at Home",
-      "source": "아시아경제",
+      "source": "asiae.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44WmJsZzMwLXZ3NHNQVmtyTmxOYmZDYWZELTA4YUpXdWJuUW9IbmRsWTV0bU5ZUGVXZ3Q0NXVDUmthdUNab2FseHV3a0dtNUFaeGs1U1o1eXNIeUhfYUpCaDlLYzY?oc=5",
       "ts": "2026-10-01T06:27:25+00:00",
       "category": "Pharmacy",
@@ -168,11 +168,11 @@
     },
     {
       "title": "Tesla FSD to Get Navigation Improvements and Pothole Detection",
-      "source": "Not a Tesla App",
+      "source": "notateslaapp.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkN1UW5mX2g2X0NDTC1iSkdQOXlaOERCeFQ2MzdSTEk3aHRUV0pNVHd3Yms0T1ZzVkh0c2tYV2hHcnJ3RlV5MmFGRGJRZzFsSkpNVmszVjFOS2VMZTU4ejVINTZpMC04YVE2bEJOWktkZHQ3MVhPY2x4WGJMZFFIV0VfMmtMYmtvT0g1R3Q4cC1lNmpxeTR5anIyaEdwSFZ5VndZ?oc=5",
       "ts": "2026-10-02T19:11:00+00:00",
       "category": "Tesla/EV",
-      "score": 11.29,
+      "score": 11.28,
       "hits": [
         "tesla",
         "fsd"
@@ -185,16 +185,16 @@
     "GN Pharmacy": "ok (100)",
     "GN BC Health": "ok (1)",
     "GN Canucks": "ok (100)",
-    "ESPN NHL": "ok (13)",
+    "ESPN NHL": "no element found: line 1, column 0",
     "GN Fantasy Hockey": "ok (100)",
     "GN Fantasy Football": "ok (100)",
-    "ESPN NFL": "ok (26)",
+    "ESPN NFL": "no element found: line 1, column 0",
     "Electrek Tesla": "ok (100)",
     "GN Tesla": "ok (100)",
     "The Verge AI": "ok (10)",
     "GN AI": "ok (100)",
     "GN Classic Rock": "ok (100)",
-    "GN Comedy": "ok (56)",
+    "GN Comedy": "ok (54)",
     "NHL scores": "ok",
     "NFL scores": "ok"
   }
