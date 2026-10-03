@@ -1,28 +1,43 @@
-// Dave Brief — Scriptable widget, layout V2 (iOS "Liquid Glass" look): Everyone Must Know hero banner,
-// 5 team chips, glass headline cards. Large + Medium (small = top story only).
-// Reads feed.json from GitHub Pages. Public headlines only; no logins, no keys.
-// Setup: see README.md. Only edit FEED_URL below if the feed moves.
+// Dave Brief — Scriptable widget, layout V3 "Light editorial" (matches the Tesla dashboard palette).
+// Large: Everyone Must Know banner + 5 headline rows + team ticker, filling the whole widget.
+// Medium: banner + 2 headlines. Small: banner only. Light/dark follow the system (dark = "C" twin).
+// Size adapts to the phone via Device.screenSize(); layout picked by config.widgetFamily.
+// Reads ONLY feed.json (same single source as the dashboard). Public headlines; no logins, no keys.
 
 const FEED_URL = "https://wghtkbpxwx-a11y.github.io/news-widget-feed/feed.json";
 const STALE_HOURS = 8;        // feed is rebuilt every ~3h; warn if older than this
 const REFRESH_MINUTES = 30;   // hint to iOS (iOS decides the real timing)
 const CACHE_FILE = "news-widget-cache.json";
 
-const C = (hex, a) => new Color(hex, a === undefined ? 1 : a);
+const DC = (l, d) => Color.dynamic(new Color(l), new Color(d));
 const COL = {
-  text: C("#F5F7FB"), dim: C("#9AA3B8"), warn: C("#FF9F0A"),
-  glass: C("#FFFFFF", 0.10), glassHi: C("#FFFFFF", 0.16), edge: C("#FFFFFF", 0.20),
-  hero: C("#BF5AF2", 0.22), heroEdge: C("#BF5AF2", 0.55), red: C("#FF453A"), yellow: C("#FFD60A"), green: C("#30D158")
+  bg:    DC("#FFFFFF", "#080B10"),
+  text:  DC("#0F1319", "#F4F6FB"),
+  sub:   DC("#7A8494", "#6B7385"),
+  t2:    DC("#4B5566", "#8B95A8"),
+  div:   DC("#E7E9EC", "#1A1D22"),      // ~ rgba(12,16,22,.09) on white / rgba(255,255,255,.075) on near-black
+  mint:  DC("#0D8F74", "#2AF5C4"),
+  red:   new Color("#FF5A4F"),           // banner only
+  redBg: DC("#FFEEED", "#2A1415"),       // ~ red at .10 on white / .12 on near-black
+  warn:  new Color("#FF9F0A")
 };
-// section/category -> label, SF Symbol, colour
-const KIND = {
-  Local: ["LOCAL", "mappin.and.ellipse", "#0A84FF"], National: ["CANADA", "flag.fill", "#FF453A"], World: ["WORLD", "globe", "#BF5AF2"],
-  Health: ["HEALTH · RX", "pills.fill", "#30D158"], Money: ["MONEY", "dollarsign.circle.fill", "#64D2FF"],
-  Fantasy: ["FANTASY", "waveform.path.ecg", "#FFD60A"], Teams: ["TEAMS", "sportscourt.fill", "#FF9F0A"],
-  "Tesla/EV": ["TESLA", "bolt.fill", "#5AC8FA"], AI: ["AI", "sparkles", "#BF5AF2"], Tech: ["TECH", "bolt.fill", "#5AC8FA"]
+
+// ---- adaptive sizing --------------------------------------------------------------------
+// Known iPhone widget sizes in points, keyed by portrait screen width; unknown/new phones use the ratio fallback
+// (widget width ~ 0.846 x screen width; Large height ~ 1.048 x its width; Medium height ~ 0.467 x its width).
+const KNOWN = { // screen width: [mediumW, mediumH, largeH]
+  440: [364, 170, 382], 430: [364, 170, 382], 428: [364, 170, 382], 414: [360, 169, 379],
+  402: [338, 158, 354], 393: [338, 158, 354], 390: [338, 158, 354], 375: [329, 155, 345], 320: [292, 141, 311]
 };
-const TEAM_STYLE = { Canucks: ["C", "#00B86B"], Seahawks: ["S", "#69BE28"], "BC Lions": ["L", "#FF8A1F"], "Blue Jays": ["J", "#2F7BFF"], Raptors: ["R", "#E5173F"] };
-const TEAM_LEAGUE_LABEL = { NHL: "NHL", NFL: "NFL", CFL: "CFL", MLB: "MLB", NBA: "NBA" };
+function widgetSize(family) {
+  let sw = 393;
+  try { const s = Device.screenSize(); sw = Math.min(s.width, s.height); } catch (e) {}
+  let k = KNOWN[Math.round(sw)];
+  if (!k) { const w = Math.round(sw * 0.846); k = [w, Math.round(w * 0.467), Math.round(w * 1.048)]; }
+  if (family === "small") { const d = Math.round(k[1]); return { w: d, h: d }; }
+  if (family === "medium") return { w: k[0], h: k[1] };
+  return { w: k[0], h: k[2] };
+}
 
 async function loadFeed() {
   const fm = FileManager.local();
@@ -49,157 +64,122 @@ function ago(iso) {
 }
 function txt(parent, str, size, color, weight, lines) {
   const t = parent.addText(String(str));
-  t.font = weight === "bold" ? Font.boldSystemFont(size) : (weight === "semi" ? Font.semiboldSystemFont(size) : Font.systemFont(size));
+  t.font = weight === "bold" ? Font.boldSystemFont(size) : (weight === "semi" ? Font.semiboldSystemFont(size) : (weight === "med" ? Font.mediumSystemFont(size) : Font.systemFont(size)));
   t.textColor = color;
-  if (lines) { t.lineLimit = lines; t.minimumScaleFactor = 0.85; }
+  if (lines) { t.lineLimit = lines; t.minimumScaleFactor = 0.9; }
   return t;
 }
-function glass(parent, radius, pad, tint, edge) {
-  const s = parent.addStack();
-  s.backgroundColor = tint || COL.glass; s.cornerRadius = radius; s.borderWidth = 1; s.borderColor = edge || COL.edge;
-  s.setPadding(pad[0], pad[1], pad[2], pad[3]);
-  return s;
-}
-function symbol(parent, name, color, size) {
-  const img = parent.addImage(SFSymbol.named(name).image);
-  img.imageSize = new Size(size, size); img.tintColor = color;
-  return img;
-}
-function badge(parent, name, hex, d) {
-  const b = parent.addStack(); b.size = new Size(d, d); b.cornerRadius = d / 2; b.backgroundColor = C(hex, 0.22);
-  b.borderWidth = 1; b.borderColor = C(hex, 0.45); b.centerAlignContent();
-  symbol(b, name, C(hex), Math.round(d * 0.55));
-  return b;
-}
-function kindOf(it) {
-  if (it.fantasy || it.category === "Fantasy") return KIND.Fantasy;
-  if (it.category === "Tesla/EV" || it.category === "AI") return KIND[it.category];
-  if (it.section === "Tech") return KIND.Tech;
-  if (it.section === "Teams") return [(it.category || "TEAMS").toUpperCase().slice(0, 6), "sportscourt.fill", "#FF9F0A"];
-  return KIND[it.section] || KIND[it.category] || ["NEWS", "newspaper.fill", "#8E8E93"];
+function rule(parent, w) {   // hairline divider (not edge to edge: inset by widget padding)
+  const r = parent.addStack(); r.size = new Size(w, 0.5); r.backgroundColor = COL.div; return r;
 }
 
-// ---- pieces ----
-function header(w, feed, cached, size) {
-  const h = w.addStack(); h.centerAlignContent();
-  symbol(h, "star.fill", COL.text, size + 1); h.addSpacer(4);
-  txt(h, "DAVE BRIEF", size, COL.text, "bold");
-  h.addSpacer();
-  const stale = ageHours(feed.generated) > STALE_HOURS;
-  const when = feed.generated ? new Date(feed.generated).toLocaleString("en-CA", { weekday: "short", hour: "numeric", minute: "2-digit", timeZone: "America/Vancouver" }).replace(",", " •").replace(/\./g, "") + " PT" : "";
-  txt(h, (stale ? "stale · " : (cached ? "offline · " : "")) + when, size - 2, (stale || cached) ? COL.warn : COL.dim);
-}
-function banner(parent, stories, big) {
-  const b = glass(parent, 16, [8, 10, 8, 10], stories.length ? COL.hero : C("#30D158", 0.14), stories.length ? COL.heroEdge : C("#30D158", 0.4));
-  b.layoutVertically();
+// ---- pieces -----------------------------------------------------------------------------
+function banner(parent, stories, s, lines) {
+  const b = parent.addStack(); b.layoutHorizontally(); b.topAlignContent();
+  b.backgroundColor = stories.length ? COL.redBg : DC("#E8F7F2", "#0C2420");
+  b.cornerRadius = 14; b.setPadding(7 * s, 10 * s, 7 * s, 10 * s);
   if (stories[0]) b.url = stories[0].url;
-  const top = b.addStack(); top.centerAlignContent();
-  const dot = top.addStack(); dot.size = new Size(6, 6); dot.cornerRadius = 3; dot.backgroundColor = stories.length ? COL.red : COL.green;
-  top.addSpacer(5);
-  txt(top, stories.length ? "EVERYONE MUST KNOW" : "ALL CLEAR", 9, stories.length ? C("#FFB4AE") : COL.green, "bold");
-  top.addSpacer();
-  if (stories.length) txt(top, stories.length + (stories.length === 1 ? " STORY" : " STORIES"), 8.5, COL.dim, "bold");
-  b.addSpacer(3);
-  if (!stories.length) { txt(b, "Nothing major right now.", 12, COL.text, "semi", 1); return b; }
-  txt(b, stories[0].title, big ? 13.5 : 12.5, COL.text, "bold", big ? 3 : 4);
-  stories.slice(1, 3).forEach(s => {
-    b.addSpacer(3);
-    const r = b.addStack(); r.centerAlignContent(); r.url = s.url;
-    const d = r.addStack(); d.size = new Size(5, 5); d.cornerRadius = 2.5; d.backgroundColor = COL.yellow; r.addSpacer(5);
-    txt(r, s.title, 10.5, C("#E6EAF5"), "semi", 1);
-  });
+  const dotWrap = b.addStack(); dotWrap.setPadding(4 * s, 0, 0, 0);
+  const dot = dotWrap.addStack(); dot.size = new Size(6, 6); dot.cornerRadius = 3; dot.backgroundColor = stories.length ? COL.red : COL.mint;
+  b.addSpacer(9 * s);
+  const col = b.addStack(); col.layoutVertically();
+  txt(col, stories.length ? "EVERYONE MUST KNOW" : "ALL CLEAR", 9.5 * s, stories.length ? COL.red : COL.mint, "bold");
+  col.addSpacer(1);
+  txt(col, stories.length ? stories[0].title : "Nothing major right now.", 12 * s, COL.text, "semi", stories.length ? lines : 1);
+  b.addSpacer();           // keep text left-aligned, full width
   return b;
 }
-function chips(parent, teams, compact) {
-  const row = parent.addStack(); row.centerAlignContent(); row.spacing = 4;
-  (teams || []).slice(0, 5).forEach((t, i) => {
-    const st = TEAM_STYLE[t.team] || [(t.team || "?")[0], "#8E8E93"];
-    const chip = glass(row, 13, [3, 4, 3, 4], COL.glass, COL.edge); chip.centerAlignContent(); chip.spacing = 3;
-    const d = compact ? 14 : 16;
-    const logo = chip.addStack(); logo.size = new Size(d, d); logo.cornerRadius = d / 2; logo.backgroundColor = C(st[1], 0.9); logo.centerAlignContent();
-    txt(logo, st[0], d * 0.55, C("#FFFFFF"), "bold");
-    const col = chip.addStack(); col.layoutVertically();
-    const l1 = t.last ? t.last.split(" ").slice(0, 2).join(" ") : (t.record || t.league || "—");
-    const m = (t.next || "").match(/^(vs|@) (\S+) (.*)$/);
-    const l2 = m ? m[3].replace(/ ?[AP]M$/, "").replace("Today", "Tdy") : (t.note === "Season over" ? "done" : (t.next || "headlines"));
-    txt(col, l1, compact ? 7.5 : 8.5, COL.text, "bold", 1);
-    txt(col, l2, compact ? 7 : 8, COL.dim, null, 1);
-    if (i < 4) row.addSpacer();
+function row(parent, it, s, h, lines, w) {
+  const r = parent.addStack(); r.layoutVertically(); r.centerAlignContent(); r.url = it.url;
+  if (h) r.size = new Size(w, h);
+  txt(r, it.title, 12.5 * s, COL.text, "semi", lines);
+  r.addSpacer(2);
+  txt(r, it.source + (it.ts ? " · " + ago(it.ts) : ""), 10.5 * s, COL.sub, "med", 1);
+  return r;
+}
+function tickerText(t) {
+  const m = (t.next || "").match(/^(vs|@) (\S+) (.*)$/);
+  if (m) return m[3].replace(/ ?[AP]M$/, "") + " " + (m[1] === "@" ? "@" : "") + m[2];
+  const l = (t.last || "").match(/^([WLT]) (\d+)-(\d+) (?:vs|@) (\S+)/);
+  if (l) return l[1] + " " + l[2] + "–" + l[3] + " " + l[4];
+  return null;
+}
+function ticker(parent, teams, s, w, extra) {
+  const items = (teams || []).map(t => ({ name: t.team, text: tickerText(t) })).filter(x => x.text).slice(0, 3);
+  const r = parent.addStack(); r.centerAlignContent(); r.size = new Size(w, 14 * s);
+  items.forEach((x, i) => {
+    const t = r.addStack(); t.centerAlignContent();
+    txt(t, x.name, 10.5 * s, COL.mint, "semi"); t.addSpacer(4);
+    txt(t, x.text, 10.5 * s, COL.t2, null, 1);
+    if (i < items.length - 1) r.addSpacer();
   });
-  return row;
+  if (extra) { r.addSpacer(); txt(r, extra, 9 * s, COL.warn, "semi"); }
+  return r;
 }
-function card(parent, it, lines, compact) {
-  const k = kindOf(it);
-  const c = glass(parent, 14, [6, 8, 6, 8], COL.glass, COL.edge); c.centerAlignContent(); c.spacing = 7; c.url = it.url;
-  badge(c, k[1], k[2], compact ? 20 : 24);
-  const body = c.addStack(); body.layoutVertically();
-  txt(body, it.title, compact ? 10.5 : 11.5, COL.text, "semi", lines);
-  const meta = body.addStack();
-  txt(meta, k[0], 8, C(k[2]), "bold"); txt(meta, " • " + it.source + (it.ts ? " • " + ago(it.ts) : ""), 8, COL.dim, null, 1);
-  return c;
-}
-// choose cards: roster headline first, then one per section for variety
+// choose rows: roster headline first, then one per section for variety
 function pickCards(feed, n, mkUrls) {
   const out = [];
   const fant = (feed.fantasy_items || [])[0];
-  if (fant) out.push(fant);
-  const used = new Set(out.map(i => i.section || i.category));
+  const used = new Set();
   const pool = (feed.items || []).filter(i => !mkUrls.has(i.url) && i.category !== "Fantasy");
-  for (const it of pool) { if (out.length >= n) break; const s = it.section || it.category; if (used.has(s)) continue; used.add(s); out.push(it); }
+  for (const it of pool) { if (out.length >= n) break; const sec = it.section || it.category; if (used.has(sec)) continue; used.add(sec); out.push(it); }
   for (const it of pool) { if (out.length >= n) break; if (!out.includes(it)) out.push(it); }
+  if (fant && n >= 3) out.splice(Math.min(2, out.length), 0, fant);   // roster headline sits 3rd, not first
+  else if (fant && out.length >= n) out[n - 1] = fant;
   return out.slice(0, n);
 }
 
 async function buildWidget() {
   const w = new ListWidget();
-  const g = new LinearGradient();
-  g.colors = [C("#1A2347"), C("#0A0E1D"), C("#14102E")]; g.locations = [0, 0.55, 1]; g.startPoint = new Point(0, 0); g.endPoint = new Point(1, 1);
-  w.backgroundGradient = g;
+  w.backgroundColor = COL.bg;
   w.refreshAfterDate = new Date(Date.now() + REFRESH_MINUTES * 60000);
   const family = config.widgetFamily || "large";
+  const sz = widgetSize(family);
+  const s = Math.max(0.85, Math.min(1.2, sz.w / 364));       // type scale relative to the 364pt reference
+  const padX = 16 * s, padT = 13 * s, padB = 11 * s;
+  const innerW = sz.w - 2 * padX;
 
   const { feed, cached, error } = await loadFeed();
   if (!feed) {
+    w.setPadding(padT, padX, padB, padX);
     txt(w, "Dave Brief: no data yet", 14, COL.text, "bold");
-    txt(w, "Check your connection.\n" + (error || ""), 11, COL.dim, null, 4);
+    txt(w, "Check your connection.\n" + (error || ""), 11, COL.sub, null, 4);
     return w;
   }
   const mk = feed.must_know || [];
-  const mkUrls = new Set(mk.map(s => s.url));
+  const mkUrls = new Set(mk.map(x => x.url));
+  const stale = ageHours(feed.generated) > STALE_HOURS;
+  const flag = stale ? "stale" : (cached ? "offline" : "");
 
   if (family === "small") {
     w.setPadding(10, 10, 10, 10);
-    header(w, feed, cached, 9); w.addSpacer(4);
-    banner(w, mk.slice(0, 1), false);
+    banner(w, mk.slice(0, 1), 0.85, 5);
     return w;
   }
   if (family === "medium") {
-    w.setPadding(9, 11, 8, 11);
-    header(w, feed, cached, 10); w.addSpacer(4);
-    const mid = w.addStack(); mid.spacing = 6; mid.topAlignContent();
-    const left = mid.addStack(); left.layoutVertically(); left.size = new Size(165, 0);
-    const lb = glass(left, 16, [8, 9, 8, 9], mk.length ? COL.hero : C("#30D158", 0.14), mk.length ? COL.heroEdge : C("#30D158", 0.4));
-    lb.layoutVertically(); if (mk[0]) lb.url = mk[0].url;
-    const t = lb.addStack(); t.centerAlignContent();
-    const d = t.addStack(); d.size = new Size(6, 6); d.cornerRadius = 3; d.backgroundColor = mk.length ? COL.red : COL.green; t.addSpacer(4);
-    txt(t, mk.length ? "EVERYONE MUST KNOW" : "ALL CLEAR", 8, mk.length ? C("#FFB4AE") : COL.green, "bold");
-    lb.addSpacer(3);
-    txt(lb, mk.length ? mk[0].title : "Nothing major right now.", 11.5, COL.text, "bold", 4);
-    if (mk.length > 1) { lb.addSpacer(2); txt(lb, "+" + (mk.length - 1) + " more • tap to open", 8, C("#FFB84D"), "semi", 1); }
-    const right = mid.addStack(); right.layoutVertically(); right.spacing = 5;
-    pickCards(feed, 2, mkUrls).forEach(it => card(right, it, 2, true));
-    w.addSpacer(4);
-    chips(w, feed.my_teams, true);
+    w.setPadding(10 * s, padX, 8 * s, padX);
+    banner(w, mk.slice(0, 1), s, 2);
+    w.addSpacer();
+    const picks = pickCards(feed, 2, mkUrls);
+    picks.forEach((it, i) => { row(w, it, s, 0, 1, innerW); if (i < picks.length - 1) { w.addSpacer(); rule(w, innerW); w.addSpacer(); } });
+    w.addSpacer();
     return w;
   }
-  // large
-  w.setPadding(12, 12, 10, 12);
-  header(w, feed, cached, 11); w.addSpacer(6);
-  banner(w, mk, true); w.addSpacer(6);
-  chips(w, feed.my_teams, false); w.addSpacer(6);
-  const cards = pickCards(feed, mk.length >= 2 ? 3 : 4, mkUrls);
-  cards.forEach((it, i) => { card(w, it, 2, false); if (i < cards.length - 1) w.addSpacer(5); });
+  // large: fill the whole widget — banner, N equal rows, ticker
+  w.setPadding(padT, padX, padB, padX);
+  banner(w, mk.slice(0, 1), s, 2);
+  const bannerH = 54 * s, tickerH = 14 * s + 16 * s;          // estimates (banner 2 lines / ticker + rule + gap)
+  const n = sz.h >= 340 ? 5 : 4;
+  const rowH = Math.max(34, (sz.h - padT - padB - bannerH - tickerH - 3) / n);
+  w.addSpacer(3);
+  const picks = pickCards(feed, n, mkUrls);
+  picks.forEach((it, i) => {
+    row(w, it, s, rowH, 2, innerW);
+    if (i < picks.length - 1) rule(w, innerW);
+  });
   w.addSpacer();
+  rule(w, innerW); w.addSpacer(8 * s);
+  ticker(w, feed.my_teams, s, innerW, flag);
   return w;
 }
 

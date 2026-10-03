@@ -14,7 +14,7 @@ const mk = () => new Proxy(function(){}, {
   set(t, p, v) { t[p] = v; return true; }
 });
 const ctx = { console, Date, JSON, String, Array, Error, Promise, Math, Set, Intl, Object,
-  Color: class{constructor(h,a){this.h=h}}, Size: class{}, Point: class{}, Font: {boldSystemFont:()=>1,semiboldSystemFont:()=>1,systemFont:()=>1},
+  Color: class{constructor(h,a){this.h=h} static dynamic(a,b){return a}}, Device:{screenSize:()=>({width:+(process.env.SW||393),height:852})}, Size: class{}, Point: class{}, Font: {mediumSystemFont:()=>1,boldSystemFont:()=>1,semiboldSystemFont:()=>1,systemFont:()=>1},
   LinearGradient: class{}, SFSymbol: {named: () => ({image: {}})},
   ListWidget: class { constructor(){ return mk(); } }, config: {runsInWidget:true, widgetFamily: family},
   Request: class{ async loadJSON(){ return JSON.parse(fs.readFileSync(feedPath)) } },
