@@ -1,1 +1,9 @@
 __pycache__/
+fantasy_players.local.json
+extra_players.txt
+mockups/pool.json
+mockups/
+topic-picker.html
+TOPIC_PICKS_*.md
+FANTASY_TODO.md
+news-widget-deploy/

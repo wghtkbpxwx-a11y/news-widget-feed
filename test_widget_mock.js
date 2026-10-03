@@ -1,15 +1,25 @@
-// Runs widget.js against a mocked Scriptable API using the local feed.json (smoke test only).
+// Runs widget.js against a tolerant mocked Scriptable API using a local feed (smoke test only).
+// usage: node test_widget_mock.js [feed.json] [large|medium|small]
 const fs = require("fs"), vm = require("vm");
+const feedPath = process.argv[2] || "feed.json", family = process.argv[3] || "large";
 const log = [];
-class Stk { constructor(){this.k=[]} addText(s){const t={s,font:null};log.push(s);return t} addStack(){return new Stk()} addSpacer(){} centerAlignContent(){} topAlignContent(){} setPadding(){} layoutVertically(){} }
-class LW extends Stk { }
-const ctx = { console, Date, JSON, String, Array, Error, Promise, Math,
-  Color: class{constructor(h){this.h=h}}, Size: class{}, Font: {boldSystemFont:()=>1,semiboldSystemFont:()=>1,systemFont:()=>1},
-  ListWidget: LW, config: {runsInWidget:false},
-  Request: class{ async loadJSON(){ return JSON.parse(fs.readFileSync("feed.json")) } },
+const mk = () => new Proxy(function(){}, {
+  get(t, p) {
+    if (p === "addText") return s => { log.push(s); return mk(); };
+    if (/^(addStack|addImage|addSpacer|addDate)$/.test(p)) return () => mk();
+    if (p === "image") return {};
+    if (p === Symbol.toPrimitive) return () => "";
+    return t[p] !== undefined ? t[p] : (/^(set|center|top|layout|present)/.test(p) ? () => mk() : undefined);
+  },
+  set(t, p, v) { t[p] = v; return true; }
+});
+const ctx = { console, Date, JSON, String, Array, Error, Promise, Math, Set, Intl, Object,
+  Color: class{constructor(h,a){this.h=h}}, Size: class{}, Point: class{}, Font: {boldSystemFont:()=>1,semiboldSystemFont:()=>1,systemFont:()=>1},
+  LinearGradient: class{}, SFSymbol: {named: () => ({image: {}})},
+  ListWidget: class { constructor(){ return mk(); } }, config: {runsInWidget:true, widgetFamily: family},
+  Request: class{ async loadJSON(){ return JSON.parse(fs.readFileSync(feedPath)) } },
   FileManager:{local:()=>({joinPath:(a,b)=>a+"/"+b,documentsDirectory:()=>"/tmp",writeString:(p,s)=>fs.writeFileSync(p,s),fileExists:p=>fs.existsSync(p),readString:p=>fs.readFileSync(p,"utf8")})},
-  Script:{setWidget(){},complete(){console.log("complete")}} };
-LW.prototype.presentLarge = async()=>console.log("presentLarge ok");
+  Script:{setWidget(){console.log("setWidget ok")},complete(){console.log("complete")}} };
 vm.createContext(ctx);
 vm.runInContext(fs.readFileSync("widget.js","utf8"), ctx);
-setTimeout(()=>console.log(log.length+" text nodes:\n"+log.join("\n")),300);
+setTimeout(()=>console.log(family + ": " + log.length+" text nodes:\n"+log.join("\n")),300);
