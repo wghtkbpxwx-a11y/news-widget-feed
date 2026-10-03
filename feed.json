@@ -1,0 +1,201 @@
+{
+  "generated": "2026-10-03T00:17:23+00:00",
+  "generated_local": "Fri Oct 2, 5:17 PM PDT",
+  "scores": [
+    {
+      "league": "NFL",
+      "text": "PIT 24 @ CLE 27 F",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872964/steelers-browns"
+    },
+    {
+      "league": "NHL",
+      "text": "NYR 1 @ DET 0 LIVE",
+      "url": "https://www.nhl.com/gamecenter/nyr-vs-det/2026/10/02/2026020017"
+    },
+    {
+      "league": "NHL",
+      "text": "WSH 4 @ CAR 0 LIVE",
+      "url": "https://www.nhl.com/gamecenter/wsh-vs-car/2026/10/02/2026020018"
+    },
+    {
+      "league": "NHL",
+      "text": "BOS 0 @ WPG 0 LIVE",
+      "url": "https://www.nhl.com/gamecenter/bos-vs-wpg/2026/10/02/2026020019"
+    },
+    {
+      "league": "NFL",
+      "text": "IND @ WSH Sun 6:30 AM",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872965/colts-commanders"
+    },
+    {
+      "league": "NFL",
+      "text": "NE @ BUF Sun 10:00 AM",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401872971/patriots-bills"
+    }
+  ],
+  "items": [
+    {
+      "title": "American Pharmacists Month 2026 Celebrates 250 Years of Pharmacy Care",
+      "source": "Pharmacy Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGhmQmlWZ0doZ09mUDJEWnRBd0dtVWxzVTZxc3hNaW1CeGZqeHlGemZFNFpEX19BTmJydDFqX016ZW1EMHFtUjhNeUFzTWRxYjE3aXFuR01jMTlaVElxcWN6eG54VElLcnhjVWV6eEQ2Mm9LeTZBd2dPZVE2ZlRmdjZRSFB4LVIwYTBzeU1XbVhWOHV0THA2aXBjY1hSZFpQWUFNbFYwcw?oc=5",
+      "ts": "2026-10-02T18:09:59+00:00",
+      "category": "Pharmacy",
+      "score": 13.16,
+      "hits": [
+        "pharmacy",
+        "pharmacists"
+      ]
+    },
+    {
+      "title": "Edmonton Oilers, Vancouver Canucks take lessons from high-scoring games",
+      "source": "CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcV95OFgyS2dwYnBudVV3TlRKT242ZE9UUHZJemtOS1hfNlkzU3AwLV9VLU1uUFZrVHdhNmprOG9mWm9JbER6MXhuSU5GNURYNDNNcllNanF3UjlGZWxHZFo1LVV1MTBxLWd2UkdQUVlNMS11amdTeGZreWVDekstYkZZYi15TDJqaEd6UlMwcWNJbHhMR05DeHU2dTc5T1lmWUVrUlBULWVBcnlPUThuN2J2bzU?oc=5",
+      "ts": "2026-10-02T13:36:12+00:00",
+      "category": "Hockey",
+      "score": 13.15,
+      "hits": [
+        "canucks",
+        "vancouver canucks",
+        "vancouver"
+      ]
+    },
+    {
+      "title": "Tesla sales surge in September as Model Y drives Australian EV growth",
+      "source": "WhichCar",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmNUQkdqWERJbHloTDd6NmFFSFhnM3doNFRTTEFCMWJRczlfWlNWR25XUmVOLW4tMGtudlU2TjhoX0VQa0RrOXctVUpnX2hGMndxUEs1TzExdjVrLWVQTmI4aHJrQzR0a2M2ZVNNdnUxcEpaQzFXcWhjQUc3WW5uNTloRzBPQUprQzBBVkVoc2Y5R1pXSWRGbmYxRXU?oc=5",
+      "ts": "2026-10-03T00:03:19+00:00",
+      "category": "Tesla/EV",
+      "score": 11.46,
+      "hits": [
+        "tesla",
+        "model y",
+        "ev"
+      ]
+    },
+    {
+      "title": "Fantasy football waiver wire lookahead: 5 players to stash before Week 4",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQekVKRWFLSDZiZEhDX2Q4STNlS1A0dDlwWFR2WVpHQmQyTS11Q2todURRTUw2SkdZMGtSalBiWS1mOTA5bkJ6enluUXBmNm9iNXc2SGJtcW91RW9aUUpWaTJuZ1l2RmItdVhWQUJDTURkOE9JbGNWc0ZWNGFQckJZQkFvWDNxRENHN0ZseVZaSVUzVzhBOFJ1dXpXX3VuY3pNdXpKOG1POTV3VWJrSmpDWk1BckFJRkxnSGtrNUR5OWUwSG14S1lzckJURVE?oc=5",
+      "ts": "2026-10-02T20:26:00+00:00",
+      "category": "Football",
+      "score": 10.45,
+      "hits": [
+        "fantasy football",
+        "waiver"
+      ]
+    },
+    {
+      "title": "Anthropic Is Training 10,000 Engineers to Install Claude Inside the World’s Largest Enterprises",
+      "source": "forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmpQLTdOa2h3ZF80QnVwSHVfU3V5T3VlMmNwQnhkeDRzeFd4cjFDN0hDMFZNLVRFX19pelpLOTJpN0FSU1lZcXhfb20xMGRZMjVFdnZfemFiVldmcTRmbTFPMDJmMmd6eXM1ZHNoeFVPaWp5blB1UFQyRHJ0NndWYzZTeGU2RXdUdFBrakk4cVNQY3NQOEgwazhFeGlRRUNybjBGVGFFcnVrUHpHb0VoTHVnYlhYZw?oc=5",
+      "ts": "2026-10-02T23:25:15+00:00",
+      "category": "AI",
+      "score": 9.37,
+      "hits": [
+        "anthropic",
+        "claude"
+      ]
+    },
+    {
+      "title": "B.C. man sentenced to 8 months in jail for antisemitic graffiti on Victoria synagogue",
+      "source": "CBC BC",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-man-sentenced-8-months-in-jail-antisemitic-graffiti-victoria-synagogue-9.7367841?cmp=rss",
+      "ts": "2026-10-02T23:02:10+00:00",
+      "category": "BC",
+      "score": 6.81,
+      "hits": [
+        "b.c."
+      ]
+    },
+    {
+      "title": "‘I Hate Pink Floyd’: the 10 rock ‘dinosaurs’ punk tried to sweep aside (no. 5 had the best comeback)",
+      "source": "Classical-Music.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aME9Tdi1WN0xKQ1oyVXR0YWtVV3FfRmZjaU5ZN2JXWlV4LVJ2VkdYRHRYQTg1dE1kNUNtN3FkTUJ1bVFDSlVxclV1Y3BBWHRCMkEtaGY1a2lJS2xPQVhyRlRTS3Q4MGVlck1ERDlTTGswS0k?oc=5",
+      "ts": "2026-10-02T21:10:56+00:00",
+      "category": "Music",
+      "score": 6.55,
+      "hits": [
+        "pink floyd"
+      ]
+    },
+    {
+      "title": "Andy Samberg Stand-Up Special Set for Hulu (Exclusive)",
+      "source": "Nexus Point News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRnl0d0cyTV9VSDFzdUsxMGlpYmt0dUFoVnd5RzFNRFZqZHZPUUZOdzBubTlJc0x3U1BSRkhBbGJWaEtrWl9YNW9XM21aUGRCUWVpS1NMejYwWTI1YXV5VUEtQTNpQmQ0d2tsX2E5UHNnZHZ5b2cwRHBQc3hIUGNpcmNUYS1pUEU?oc=5",
+      "ts": "2026-10-02T19:02:23+00:00",
+      "category": "Comedy",
+      "score": 6.27,
+      "hits": [
+        "stand-up"
+      ]
+    },
+    {
+      "title": "Canucks News & Rumours: Rossi, Pettersson & a Team That Doesn’t Quit",
+      "source": "thehockeywriters.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRFcwZHpjRVJuUENHNGkxTHBLU1VEa0tLXzdYUVY1Z2ctNU1OMkhvc3J4UjVYMTdBbWtna2ZjNVIzaTVlcGZ0dElidm9HWWJJX0x4bmJuTFdhOGcxck9lRkZHQ1hLZk93S2xfTkpTVEdzOTliSktZblZpN3VxV2FYQ0J3T2FyLThDc0NhMDBoTVpnS0JKdmc?oc=5",
+      "ts": "2026-10-02T19:55:00+00:00",
+      "category": "Hockey",
+      "score": 12.88,
+      "hits": [
+        "canucks",
+        "pettersson"
+      ]
+    },
+    {
+      "title": "Vancouver Canucks Straight Up: Trying to piece together what happened in 9-7 loss to the Oilers",
+      "source": "The Georgia Straight",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQlhyOHFxTFZ5WlFISl9BdmlZcHBIWEhlLVI5bFB3TVZ3TW5fdGJVaUZ1MlB0TVBBamZ5dEMwZWNyRmxHSk4zb05XUmRlTmplNUJFQzJ1RWgwUWdwNTQ2MVJrQUw3TVUwM1ozZzZqTEtnY2JUX09JWHVsWWNfYThtWDliSjlTd3RTemxIRUtVWXNBMW9KZENxa0kwWnA0aUtvMXphWk04RVdYdV9VeTJGTG1zN0hfY3pQMW45WFB3?oc=5",
+      "ts": "2026-10-02T07:30:29+00:00",
+      "category": "Hockey",
+      "score": 12.6,
+      "hits": [
+        "canucks",
+        "vancouver canucks",
+        "vancouver"
+      ]
+    },
+    {
+      "title": "Seongnam Launches 'Safe Pharmacist Visit Program': Pharmacists to Check Medication for Seniors at Home",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44WmJsZzMwLXZ3NHNQVmtyTmxOYmZDYWZELTA4YUpXdWJuUW9IbmRsWTV0bU5ZUGVXZ3Q0NXVDUmthdUNab2FseHV3a0dtNUFaeGs1U1o1eXNIeUhfYUpCaDlLYzY?oc=5",
+      "ts": "2026-10-01T06:27:25+00:00",
+      "category": "Pharmacy",
+      "score": 11.8,
+      "hits": [
+        "pharmacist",
+        "pharmacists"
+      ]
+    },
+    {
+      "title": "Tesla FSD to Get Navigation Improvements and Pothole Detection",
+      "source": "Not a Tesla App",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkN1UW5mX2g2X0NDTC1iSkdQOXlaOERCeFQ2MzdSTEk3aHRUV0pNVHd3Yms0T1ZzVkh0c2tYV2hHcnJ3RlV5MmFGRGJRZzFsSkpNVmszVjFOS2VMZTU4ejVINTZpMC04YVE2bEJOWktkZHQ3MVhPY2x4WGJMZFFIV0VfMmtMYmtvT0g1R3Q4cC1lNmpxeTR5anIyaEdwSFZ5VndZ?oc=5",
+      "ts": "2026-10-02T19:11:00+00:00",
+      "category": "Tesla/EV",
+      "score": 11.29,
+      "hits": [
+        "tesla",
+        "fsd"
+      ]
+    }
+  ],
+  "_status": {
+    "CBC BC": "ok (20)",
+    "Health Canada Recalls": "ok (3)",
+    "GN Pharmacy": "ok (100)",
+    "GN BC Health": "ok (1)",
+    "GN Canucks": "ok (100)",
+    "ESPN NHL": "ok (13)",
+    "GN Fantasy Hockey": "ok (100)",
+    "GN Fantasy Football": "ok (100)",
+    "ESPN NFL": "ok (26)",
+    "Electrek Tesla": "ok (100)",
+    "GN Tesla": "ok (100)",
+    "The Verge AI": "ok (10)",
+    "GN AI": "ok (100)",
+    "GN Classic Rock": "ok (100)",
+    "GN Comedy": "ok (56)",
+    "NHL scores": "ok",
+    "NFL scores": "ok"
+  }
+}

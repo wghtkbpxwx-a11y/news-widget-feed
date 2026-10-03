@@ -1,0 +1,192 @@
+{
+  "_help": "Dave: edit this file. favorite_teams use NHL/NFL abbreviations. Higher weight = more important. Canucks is an ASSUMPTION - change it.",
+  "max_items": 12,
+  "max_per_category": 3,
+  "max_age_hours": 72,
+  "recency_half_life_hours": 18,
+  "tz": "America/Vancouver",
+  "favorite_teams": {
+    "NHL": [
+      "VAN"
+    ],
+    "NFL": []
+  },
+  "scores_max": 6,
+  "category_boost": {
+    "Pharmacy": 3.0,
+    "Hockey": 2.5,
+    "Football": 2.0,
+    "Tesla/EV": 2.0,
+    "BC": 1.5,
+    "AI": 1.5,
+    "Music": 1.0,
+    "Comedy": 1.0
+  },
+  "keywords": {
+    "canucks": 4,
+    "vancouver canucks": 2,
+    "quinn hughes": 3,
+    "pettersson": 3,
+    "demko": 2,
+    "fantasy hockey": 3,
+    "fantasy football": 3,
+    "waiver": 2,
+    "injury": 1.5,
+    "injured": 1.5,
+    "trade": 1,
+    "pharmacist": 4,
+    "pharmacy": 3,
+    "pharmacare": 3,
+    "pharmacists": 4,
+    "recall": 3,
+    "shortage": 3,
+    "drug shortage": 4,
+    "health canada": 2,
+    "bccdc": 3,
+    "vaccine": 2,
+    "flu shot": 2,
+    "covid": 1,
+    "ozempic": 2,
+    "semaglutide": 2,
+    "glp-1": 2,
+    "naloxone": 2,
+    "college of pharmacists": 4,
+    "tesla": 3,
+    "fsd": 3,
+    "model y": 2,
+    "cybertruck": 1,
+    "supercharger": 2,
+    "nacs": 2,
+    "ev": 0.5,
+    "openai": 2,
+    "anthropic": 2,
+    "claude": 2,
+    "grok": 2,
+    "xai": 2,
+    "gpt": 1.5,
+    "gemini": 1,
+    "llm": 1,
+    "agent": 1,
+    "led zeppelin": 2,
+    "pink floyd": 2,
+    "the who": 1.5,
+    "tour": 1,
+    "reunion": 2,
+    "new album": 2,
+    "stand-up": 2,
+    "netflix special": 3,
+    "comedy special": 3,
+    "joe rogan": 0.5,
+    "b.c.": 1.5,
+    "vancouver": 2,
+    "british columbia": 1.5
+  },
+  "negative_keywords": {
+    "horoscope": -5,
+    "celebrity": -2,
+    "kardashian": -5,
+    "sponsored": -5,
+    "deal of the day": -3,
+    "bitcoin": -2,
+    "estonia": -4,
+    "tallinn": -4,
+    "philippines": -3,
+    "businessworld": -3,
+    "australia": -2,
+    "india": -2,
+    "nigeria": -3,
+    "pakistan": -3
+  },
+  "source_weight": {
+    "CBC": 1.0,
+    "Health Canada": 1.5,
+    "BCCDC": 1.5,
+    "Electrek": 0.5,
+    "The Verge": 0.5,
+    "BusinessWorld": -3
+  },
+  "feeds": [
+    {
+      "name": "CBC BC",
+      "category": "BC",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-canada-britishcolumbia"
+    },
+    {
+      "name": "Health Canada Recalls",
+      "category": "Pharmacy",
+      "url": "https://recalls-rappels.canada.ca/en/feed/health-products-alerts-recalls",
+      "source": "Health Canada"
+    },
+    {
+      "name": "GN Pharmacy",
+      "category": "Pharmacy",
+      "url": "https://news.google.com/rss/search?q=%28pharmacist+OR+pharmacare+OR+%22drug+shortage%22+OR+%22College+of+Pharmacists+of+BC%22%29+when%3A3d&hl=en-CA&gl=CA&ceid=CA:en"
+    },
+    {
+      "name": "GN BC Health",
+      "category": "Pharmacy",
+      "url": "https://news.google.com/rss/search?q=%28BCCDC+OR+%22B.C.+pharmacists%22+OR+%22B.C.+vaccine%22%29+when%3A3d&hl=en-CA&gl=CA&ceid=CA:en"
+    },
+    {
+      "name": "GN Canucks",
+      "category": "Hockey",
+      "url": "https://news.google.com/rss/search?q=Canucks+when%3A2d&hl=en-CA&gl=CA&ceid=CA:en"
+    },
+    {
+      "name": "ESPN NHL",
+      "category": "Hockey",
+      "url": "https://www.espn.com/espn/rss/nhl/news",
+      "source": "ESPN"
+    },
+    {
+      "name": "GN Fantasy Hockey",
+      "category": "Hockey",
+      "url": "https://news.google.com/rss/search?q=%22fantasy+hockey%22+when%3A3d&hl=en-CA&gl=CA&ceid=CA:en"
+    },
+    {
+      "name": "GN Fantasy Football",
+      "category": "Football",
+      "url": "https://news.google.com/rss/search?q=%22fantasy+football%22+waiver+OR+injury+when%3A2d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "ESPN NFL",
+      "category": "Football",
+      "url": "https://www.espn.com/espn/rss/nfl/news",
+      "source": "ESPN"
+    },
+    {
+      "name": "Electrek Tesla",
+      "category": "Tesla/EV",
+      "url": "https://electrek.co/guides/tesla/feed/",
+      "source": "Electrek"
+    },
+    {
+      "name": "GN Tesla",
+      "category": "Tesla/EV",
+      "url": "https://news.google.com/rss/search?q=Tesla+FSD+OR+Supercharger+OR+%22Model+Y%22+when%3A2d&hl=en-CA&gl=CA&ceid=CA:en"
+    },
+    {
+      "name": "The Verge AI",
+      "category": "AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source": "The Verge"
+    },
+    {
+      "name": "GN AI",
+      "category": "AI",
+      "url": "https://news.google.com/rss/search?q=%28OpenAI+OR+Anthropic+OR+xAI+OR+Grok%29+when%3A2d&hl=en-CA&gl=CA&ceid=CA:en"
+    },
+    {
+      "name": "GN Classic Rock",
+      "category": "Music",
+      "url": "https://news.google.com/rss/search?q=%22classic+rock%22+OR+%22Pink+Floyd%22+OR+%22Led+Zeppelin%22+OR+%22alt+rock%22+when%3A3d&hl=en-CA&gl=CA&ceid=CA:en"
+    },
+    {
+      "name": "GN Comedy",
+      "category": "Comedy",
+      "url": "https://news.google.com/rss/search?q=%22stand-up+comedy%22+special+when%3A5d&hl=en-CA&gl=CA&ceid=CA:en"
+    }
+  ],
+  "nhl_scoreboard": "https://api-web.nhle.com/v1/scoreboard/now",
+  "nfl_scoreboard": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard"
+}
