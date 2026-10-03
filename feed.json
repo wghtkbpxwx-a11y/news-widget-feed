@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T13:19:14+00:00",
-  "generated_local": "Sat Oct 3, 6:19 AM PDT",
+  "generated": "2026-10-03T14:19:27+00:00",
+  "generated_local": "Sat Oct 3, 7:19 AM PDT",
   "scores": [
     {
       "league": "NBA",
@@ -78,35 +78,35 @@
   "layout": "v2",
   "must_know": [
     {
-      "title": "Trump touts G7 plan to release oil and diesel reserves to address high prices",
-      "source": "Gulf Coast News and Weather",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYV94VDFQZ2ZMU3FtYk4xUEw3YzJOd29hT1h3UkRNSWVBTUdFd2daYkloOGc4eUwxdDJMT2o5M2NxODJZemo0SGU1aWw5aTBOTjdkcE9SUS1xckxESzQ4bFM3YXdRbEF1ZzlVLWJDRnNoTlZDaUd3dWhSeVpVSGFaR3dkRUt3bGFITWlGNzVzb1phVUlUNGdlR0NwQnpOZDNi?oc=5",
-      "ts": "2026-10-03T12:34:00+00:00",
+      "title": "G7 nations agree to release 100 million barrels of oil, including diesel, amid energy crunch",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iLU80bkV4enhLTVNvSkc4VllYc2k1ZGd0NVJiS3FPakZtSlZaQ2Fhb3RfeEVKOVNCQVpycDQ3Q0UwZFcybEg0ZWFmMWxEYy1LZTdJcV9TVGlqX0JWTThVYmRnY01GNUUwZ1VnUWhVVy1EVjFBSmpaeDFUZGZDV0E?oc=5",
+      "ts": "2026-10-02T18:02:01+00:00",
       "category": "World",
       "section": "World",
       "feed": "GN Geopolitics",
-      "score": 8.39,
+      "score": 7.33,
       "hits": [
         "g7"
       ],
-      "sources": 46,
+      "sources": 45,
       "severity": 5.5,
       "reason": "multi-source + severity"
     },
     {
-      "title": "5 Indians arrested in extortion, violence case in Canada, 23-year-old who was lured from India nabbed at Toro",
-      "source": "India.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONVhUbHRjR0NCY05IVFZoSWlxcWxlNXh4aGtYZDA3aGw2MDNYaU1TVzNIaGtyTFd1TERLWkxYdGpyczRkZ2l5b2tqS3JXSWVxdUhMelNVZnYwRnRUTmZrX3ZXV3ltSW4tdFkydmJsODZ0WVBNSW9aWVpPS0R0Ri1rMkJ5c0FOSGM0cGR1SG9OLXRoQmxQQkF6RzhrTUJkeDlLZlpaU3UyeVlseXE5VTVMd2R4WkNtYXZVaHNONzZzTm00bG96MzZoSEJYNUJBNFEtbnd6dEI1bld2T3RweXoyUUwtQTJKbC1hR2RXNC1zUzRhSjBvR1U00gH3AUFVX3lxTE41WFRsdGNHQ0JjTkhUVmhJaXFxbGU1eHhoa1hkMDdobDYwM1hpTVNXM0hoa3JMV3VMREtaTFh0anJzNGRnaXlva2pLcldJZXF1SEx6U1VmdjBGdFROZmtfdldXeW1Jbi10WTJ2Ymw4NnRZUE1Jb1pZWk9LRHRGLWsyQnlzQU5IYzRwZHVIb04tdGhCbFBCQXpHOGtNQmR4OUtmWlpTdTJ5WWx5cTlVNUx3ZHhaQ21hdlVoc043NnNObTRsb3ozNmhIQlg1QkE0US1ud3p0QjVuV3ZPdHB5ejJRTC1BMkpsLWFHZFc0LXNTNGFKMG9HVTQ?oc=5",
-      "ts": "2026-10-03T08:16:31+00:00",
+      "title": "B.C. arrests 5 foreign nationals tied to extortion and other crimes",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55SWJDVmlWYS1ONUhjdHZKU0R5QmVwNVZCbGFhOGY4VG1aRjRCVUdfQTJpcWVWdnlGdjNwZFJkVUVwZ2wyemJBbDlGTUFMZEtuRzI5dUVRVTNMQQ?oc=5",
+      "ts": "2026-10-03T02:06:34+00:00",
       "category": "Local",
       "section": "Local",
-      "feed": "GN Local Safety",
-      "score": 4.29,
+      "feed": "GN Langley",
+      "score": 9.0,
       "hits": [
-        "extortion",
-        "india"
+        "b.c.",
+        "extortion"
       ],
-      "sources": 16,
+      "sources": 17,
       "severity": 2,
       "reason": "multi-source + severity"
     },
@@ -118,7 +118,7 @@
       "category": "BC",
       "section": "Local",
       "feed": "GN BC Hazards",
-      "score": 6.49,
+      "score": 6.39,
       "hits": [
         "evacuation"
       ],
@@ -128,38 +128,6 @@
     }
   ],
   "fantasy_items": [
-    {
-      "title": "Fantasy Football Injury Update: Does Alvin Kamara or Kendre Miller See a Bigger Boost with Travis Etienne Jr on IR?",
-      "source": "Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSThkN0ZQb1hEX3RBWnlYbjl0NHJkZXFwSFJxQzdGZl83RExjdFpjNElRM0g5aXBEZlBfQnU0LVJKV2VoVHdXS09UVmZoUkNNaTc4RlFEdF9KVFFDcWNEWWJmYm1SckFzMHp2QmIzM2E5VkNjN1owNm04ODQzdkxfTFNaZ3FpVmdXMGx3ZThVTnNOVHRMM3FLNUctNHdlTU5Tal9fYWhmNzNETkp1Sy1hNkktOF8tZ1FXTzA2QUxfdGZMQXIxeUU1ZUJ6TTlrRTFLMGQ3VVpqdXBGNkFXWFh6a1Fydw?oc=5",
-      "ts": "2026-10-01T21:28:30+00:00",
-      "category": "Fantasy",
-      "section": "Teams",
-      "feed": "GN Fantasy NFL 1",
-      "score": 14.36,
-      "hits": [
-        "fantasy football",
-        "injury",
-        "ir"
-      ],
-      "fantasy": true
-    },
-    {
-      "title": "Travis Etienne Jr injury: What it means for fantasy football after Saints RB goes on IR",
-      "source": "ClutchPoints",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQU83ZDlWNXFmYU9MVlJHWWxpOUZWcGdBd1ZUVW9uM0kxUkVHNi02UWw5Z212WEZjaHNGMjIwdGFSYjdONmY4bERSUE9zajgxdFM3dmRYRUd2VnQ0S1JmM1ZrQWZaLVhXSkYtUWt2MmpVWjl5THlndzRyQ3gtSnBnUFo1bWN2U1E0LVNmY29nMWFNZlZQX1NDWUM5TDkxYmhTaUJQZnZHUGs3bi1zTVRRX0RNcw?oc=5",
-      "ts": "2026-10-02T12:31:06+00:00",
-      "category": "Fantasy",
-      "section": "Teams",
-      "feed": "GN Fantasy NFL 2",
-      "score": 12.04,
-      "hits": [
-        "fantasy football",
-        "injury",
-        "ir"
-      ],
-      "fantasy": true
-    },
     {
       "title": "Fantasy Football Start/Sit: Alvin Kamara, Keenan Allen, Devaughn Vele",
       "source": "FantasyPros",
@@ -185,7 +153,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 14.3,
+      "score": 14.16,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -200,7 +168,7 @@
       "category": "Local",
       "section": "Local",
       "feed": "GN Langley",
-      "score": 13.86,
+      "score": 13.77,
       "hits": [
         "b.c.",
         "eby",
@@ -209,14 +177,14 @@
       ]
     },
     {
-      "title": "Rookie RB Price ruled out by Seahawks for Week 4 with chest injury",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/50086884/rb-jadarian-price-ruled-seattle-seahawks-week-4",
-      "ts": "2026-10-03T12:49:44+00:00",
+      "title": "Seahawks RB Jadarian Price 'Re-Aggravated' Injury, Ruled Out Week 4",
+      "source": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWJxaWFuT1hzN2NmX1NUc2pKQ0V1bDkyZnh2TVJHbGRmVTdkYnVSODhOa0hNaGpLOWhNX3ZqX20zaFVLRVZpLTZtVWpOT1hSX3U1YVVIc01taUVPdXZKdF95RmJSTlUtZ3Z3dW5CVmZnNlhyUVJYb1NPSGdEbmJGajdXbWtrd0xObWtWRHFCc3dXbkxDZDVJTjlBV19aYXFPTlI0WdIBpAFBVV95cUxOSTF1LThoTzkzTUhuaGJUQTViRHVLNG92T2FaX2VPVElmZmV3Ni1zdmJuWXRRV0xHVC1mUXo0VW9tZlNvSWxPNXZ3SnpmZ3ZKTWs0cmlxemczNDdPcUlZY192YWFCa3BvNlZwWl8tZDhuQzJrNWlHaGVXcWhYRFRzSk16LVBqVHpkZzZjNFp2cVBpTW9IR2tHUjNnVDlOdHRVVWxKNQ?oc=5",
+      "ts": "2026-10-02T23:14:41+00:00",
       "category": "Football",
       "section": "Teams",
-      "feed": "ESPN NFL",
-      "score": 13.42,
+      "feed": "GN Seahawks",
+      "score": 11.74,
       "hits": [
         "injury",
         "seahawks",
@@ -224,17 +192,17 @@
       ]
     },
     {
-      "title": "Injury Report, Week 4 at Eagles: Puka Nacua and Kamren Kinchens good to go; Colby Parkinson questionable; Terrance Ferguson, Jaylen Watson and Aaron Donald ruled out",
-      "source": "Rams",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQkx4MEhZS0ZVeG5TM0FiYk9GSk9ySDlCZURpYzNnb2ZHNFdPVE4ySnhqOUQ0VE15SUp4YkNuNDNTREZQMFdxc21XQlZubUR0bkQteUZPbnBXQ1ZNWEJ5OFdqU0tVbEJnZXZvaVo3VGJQN2xHTm9VMWg5bWVlSUkybWhHQjJ4cFo1cldPTnhMQzM2OWFJQ1VUZ3RtdjI4VDJPS1JMVTg0aE5YcTZjRmNQbzV2Vi12d2FkZV9sejhsc1o3c3JHa2xCVVV2WERwSGRWMFRRNUhrVUpOYlprVkdCc05LZkFISGlrMHNkTVlrczJSb3E1WE9Vd1cxeE41YW4tQXJ0dm90ZW9XMWc?oc=5",
-      "ts": "2026-10-03T03:18:09+00:00",
-      "category": "Fantasy",
+      "title": "WATCH ON 10: Miami Heat open preseason against Toronto Raptors",
+      "source": "WPLG Local 10",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnoxc010RDI2bE44a01OazhWY2lKVDAySTR5OGNhZ19FQ2dUSmJNbzV6OVRSZmR4b2RDTGhoT19FZzRUSDd2UkZSRlp2eFp2VmJhOTN1cExRUEJEQ1VsZHZ6YU5CY21iZ1pHUUR0dzdOa0diaDBWT05sWEF1eUxjZ29HeS1RUGhXa1daaHlDT3Y1eHEwVDAtRmFfSUs2WHM?oc=5",
+      "ts": "2026-10-03T14:06:57+00:00",
+      "category": "NBA",
       "section": "Teams",
-      "feed": "GN Fantasy NFL 3",
-      "score": 11.72,
+      "feed": "GN Raptors",
+      "score": 11.47,
       "hits": [
-        "injury",
-        "ruled out"
+        "raptors",
+        "toronto raptors"
       ]
     },
     {
@@ -245,7 +213,7 @@
       "category": "Tesla/EV",
       "section": "Tech",
       "feed": "GN Tesla",
-      "score": 11.56,
+      "score": 11.42,
       "hits": [
         "tesla",
         "fsd"
@@ -259,24 +227,38 @@
       "category": "MLB",
       "section": "Teams",
       "feed": "GN Blue Jays",
-      "score": 11.49,
+      "score": 11.34,
       "hits": [
         "blue jays",
         "jays"
       ]
     },
     {
-      "title": "Miami Heat tipoff preseason vs. Toronto Raptors",
-      "source": "WPLG Local 10",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXpRTmphV0JybzFwY1d3TTBDdC1rWHhsbG5vWjFyMzBwNzFtcTIyUG5DRTg4RnNwM2VUV0hZMjdHVUVGLUFQNTNITzVXU1NXVHktZzZWbWtWektnV1N4QUY5ZnR2akxjTmp1cURrWlQ1bTREcUZZa1hucmh1d0hldThxOFRmMndIeDBCTnFWdDg2eks5akRtN0pEWQ?oc=5",
-      "ts": "2026-10-03T11:57:41+00:00",
-      "category": "NBA",
-      "section": "Teams",
-      "feed": "GN Raptors",
-      "score": 11.3,
+      "title": "How outdated data hinders B.C. wildfire forecasting",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LTXV4R1FnTjVkdU9ZLXlrVmRmbmtyblVRdnNKak5ORk8wN2lnYjUxVlc2UWc0TWZ3Mi1uNmFicERrNDNZcHRoTzA4RkhLSk1RUWtnajVYanc?oc=5",
+      "ts": "2026-10-03T14:07:12+00:00",
+      "category": "BC",
+      "section": "Local",
+      "feed": "GN BC Hazards",
+      "score": 10.97,
       "hits": [
-        "raptors",
-        "toronto raptors"
+        "b.c.",
+        "wildfire"
+      ]
+    },
+    {
+      "title": "Possible measles exposure at The Pas hospital ER waiting room, province warns",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWwyemhXS2w2WmdGT2lqMW5tYkVFaUlfNDFmZWpLYnNPd0FwaFh2cHJwTUlvSlVSdjQxWTlTZlBsbnhySm9rVFotcTJ2aDNfQzYzYkZSamFFZmJHVkJEOWZweFotRUpTUE9vN202UjI2TnBadU4xTWtDWE5xUllMblZ1RzItd29yV01yLUw2Yw?oc=5",
+      "ts": "2026-10-02T20:33:07+00:00",
+      "category": "Pharmacy",
+      "section": "Health",
+      "feed": "GN BC Health",
+      "score": 10.52,
+      "hits": [
+        "measles",
+        "measles exposure"
       ]
     },
     {
@@ -287,40 +269,12 @@
       "category": "National",
       "section": "National",
       "feed": "Globe and Mail Canada",
-      "score": 9.74,
+      "score": 9.72,
       "hits": [
         "b.c.",
         "election",
         "eby",
         "gas prices"
-      ]
-    },
-    {
-      "title": "Possible measles exposure at The Pas hospital ER waiting room, province warns",
-      "source": "cbc.ca",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWwyemhXS2w2WmdGT2lqMW5tYkVFaUlfNDFmZWpLYnNPd0FwaFh2cHJwTUlvSlVSdjQxWTlTZlBsbnhySm9rVFotcTJ2aDNfQzYzYkZSamFFZmJHVkJEOWZweFotRUpTUE9vN202UjI2TnBadU4xTWtDWE5xUllMblZ1RzItd29yV01yLUw2Yw?oc=5",
-      "ts": "2026-10-02T20:33:07+00:00",
-      "category": "Pharmacy",
-      "section": "Health",
-      "feed": "GN BC Health",
-      "score": 9.6,
-      "hits": [
-        "measles",
-        "measles exposure"
-      ]
-    },
-    {
-      "title": "B.C. Conservatives pledge $400M to buy water bombers in wildfire plan",
-      "source": "myeastkootenaynow.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVk1NNmJ4SURiS1E4OGY5SzZ2UEpkdWhPOGZvcHdpQ0NIRkR2V1B4Nm15aEJpcHBNTmdIMDFBUlhBOXJpdjlyY2NNOHVyQkFJemRFeHlGMUNZNElqWmJ1dDJxb1E1S2ZuVl9QLWNvVGFRQm00bUhSZ0R5V19na2NrMVZMdmduRk8zM1VfeTF4aUY3Qmk2RjFadVMtQ1ZqaHZOSHM1WHRvUWtyamxiWjctU0RwbnhyX3g4T1dhaDNuRnNsMzV5M3FQWHREZGdHcENrMTNvejZPVQ?oc=5",
-      "ts": "2026-10-03T08:05:32+00:00",
-      "category": "BC",
-      "section": "Local",
-      "feed": "GN BC Hazards",
-      "score": 9.27,
-      "hits": [
-        "b.c.",
-        "wildfire"
       ]
     },
     {
@@ -331,7 +285,7 @@
       "category": "AI",
       "section": "Tech",
       "feed": "GN AI",
-      "score": 9.12,
+      "score": 8.98,
       "hits": [
         "anthropic",
         "claude"
@@ -345,7 +299,7 @@
       "category": "World",
       "section": "World",
       "feed": "BBC World",
-      "score": 8.95,
+      "score": 8.8,
       "hits": [
         "ukraine",
         "bridge"
@@ -353,13 +307,13 @@
     },
     {
       "title": "Warmington challenges Gov. Ayotte on tariffs as NH election nears",
-      "source": "Foster's Daily Democrat",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzk3ZUZtZldhYmVwZG1JNS1lWFlxblJsTUtRSmJvVjJxc2ZyeG5aMEVtVXZfTURtXzRWWUhxR1NHYTBFZHAzSHU4SlYwbFBfdXV2NEVUaTdaUDhfV2ZwSWV2QUluZzQ5VW1Ebm1YY2J2Ymo1SGNpM3gtMFI5UU44cEk5WDdIMVlTX2ptUW1Ec2ZNYThYLTNneWduQ0RRZzl3YW5ZS09iM0dpbWdmY25nTE1GTll2MGRidjdubkp0VEJrRkU?oc=5",
+      "source": "seacoastonline.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbl9iUldBOWVxSWFRUVFuSzJtbHppRFZfZ05ad25tVVhuTUlJeVZkRFltYWpnV25PNGVmbW5XcEhVYXBmTzZ0c2ROejY5bTR2SnN0dnh3cmprUnc4eFdXclZDU1lfMjViNjNJX2pwM0ZvWm00aldHdW81NEN3Ui1jSFU5ZGNXdTNwVGJuM0lWU0xzalB0TlFob1diT0Vvb2hXVDhRZHIzWFdmZTN6Y1Z4bjRvbklyNndWSm9hRHI4WUZVSDZYNXB1R2NkWHQ?oc=5",
       "ts": "2026-10-03T09:06:00+00:00",
       "category": "Money/Policy",
       "section": "National",
       "feed": "GN Tariffs & Trade",
-      "score": 8.9,
+      "score": 8.77,
       "hits": [
         "tariffs",
         "election"
@@ -373,7 +327,7 @@
       "category": "CFL",
       "section": "Teams",
       "feed": "GN BC Lions",
-      "score": 7.48,
+      "score": 7.45,
       "hits": [
         "bc lions",
         "lions"
@@ -381,13 +335,13 @@
     },
     {
       "title": "Edmonton Oilers, Vancouver Canucks take lessons from high-scoring games",
-      "source": "CTV News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcV95OFgyS2dwYnBudVV3TlRKT242ZE9UUHZJemtOS1hfNlkzU3AwLV9VLU1uUFZrVHdhNmprOG9mWm9JbER6MXhuSU5GNURYNDNNcllNanF3UjlGZWxHZFo1LVV1MTBxLWd2UkdQUVlNMS11amdTeGZreWVDekstYkZZYi15TDJqaEd6UlMwcWNJbHhMR05DeHU2dTc5T1lmWUVrUlBULWVBcnlPUThuN2J2bzU?oc=5",
-      "ts": "2026-10-02T13:36:12+00:00",
+      "source": "Castanet",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPemJ3YVZsNDVJSHhjeExrVjRheDVIeF9ZMVROY3BMQ1M5X3FiYU11V0hPalJsTVNyY0lObDBwQzFFblZSMGJBUjUwaERrc215MzVfX0NtZDhySFlYbUpXZHNfVzVHQTQ3MGZDa3FoNXo0NWpnbGJQdVhncnk3ODNzSXJRaHBLdHBSaXNVdVZzZE5tTXZyc0h2OFN1ZVlxMmdyYVd6OHg2cDZ0TXlkdFJBLXV2SGc?oc=5",
+      "ts": "2026-10-02T11:00:00+00:00",
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 12.1,
+      "score": 11.9,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -402,7 +356,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 11.77,
+      "score": 11.72,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -410,60 +364,73 @@
       ]
     },
     {
-      "title": "Canucks Hopeful Thatcher Demko Will Return Before Christmas - NHL Rumors",
-      "source": "NHL Rumors - ProHockeyRumors.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzZrZE5qaDBFVkpqZWxqVVhfTThpUzFkYzNKd2xpM0VuODdLQ2psTVVkeF82MnhNdWhPWGE3VDV0SWxFbXY5SzN4R085MFRsMUx3X2x2Szg5c2RSZ191dGF3dHhtVjFwYXkxNmdvY01YRzB3S1Rvb0YwS29US0NKc0hXZEp5eDNodkxWaWk4M1lQNDVQTUFCdDhTR0tRTXVGNnNMMDRvSQ?oc=5",
-      "ts": "2026-10-03T03:00:13+00:00",
+      "title": "McDavid puts up five points, Edmonton Oilers outlast Vancouver Canucks for 9-7 win",
+      "source": "Castanet",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVN5UHpHTG5XRzlDcG5QUHZvbEt1aEhOMWtMc19mbXdocTd1ZEhVU2g5b3FoRXRMQ2RJREpxMnY0d2VaRE9YT2prREs1RS1xbEhNQnowVUdrWHZQeklMX2RjWWFIY09WSk5JeUhCWjdkOUVaOWVCdTdjaEstM1NTWllKRFBHcW1rTzhsZnZ4YWJSRWNRMFBmcS1GaTN6b1ZicnlBTWk2Z0ViSmQ5X2tFeW82UnJGc1l3bHNvcTVzQ1gxcnc?oc=5",
+      "ts": "2026-10-02T05:00:00+00:00",
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 11.69,
+      "score": 11.61,
       "hits": [
         "canucks",
-        "demko",
-        "nhl"
+        "vancouver canucks",
+        "vancouver"
       ]
     },
     {
-      "title": "Seahawks Injury Report: Jadarian Price Officially Ruled Out",
+      "title": "Cubs Rumors: Blue Jays already circling Seiya Suzuki reveals an uphill climb for Chicago",
+      "source": "Cubbies Crib",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWkJHdXdJaFA2TFFQQ1RONUVfX04zZEw0WW9WSGFqU0JzQ2pXZXZ2d184NEFWTENBdTU2YmJxUXBScnhYR3pPUVNxRlNkTERUaUhDUUQ3MmVPSmc4NDhKS0U2ZGtzS2JyZDluNWc5OTd4NndrV3NuaXl3a1YzQ0Jsc08yMTBoeFZWdmxBUElEb1d5MEdEOVBIaU5jQ3IzTDBqaVRsb19zVjlnRHkzeGdNeg?oc=5",
+      "ts": "2026-10-03T13:00:06+00:00",
+      "category": "MLB",
+      "section": "Teams",
+      "feed": "GN Blue Jays",
+      "score": 11.3,
+      "hits": [
+        "blue jays",
+        "jays"
+      ]
+    },
+    {
+      "title": "Predicted Arbitration Amounts for Eight Blue Jays Players This Offseason",
       "source": "Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTFLT1Z2cE5BMGtkT3ZiNHdIVXNsc09jWWRDTVphTk9MUVZqSjhIRzFmTGVmUWgzbE5mTERsOXN3dHpidm1wXzdJcmtVVUQyWXN5SGpzV1lOa1UxOTJqS2hMa3ZzNEpzVFI5dUFkdFFKR3ZiSjFpX2d1Zk9meU9HYTRWMDRmeTVLV1RDa29RMXA1X3VYX0ZVdU5vNA?oc=5",
-      "ts": "2026-10-02T21:09:51+00:00",
-      "category": "Football",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV21TS0poOGhoMWFYOGw2N2FnaWxEazEybXZuemhISmVpNzlRbkhDLXV2ZHZDRXo0ci1ZaktzQlRZZXNlQjZ3WGZRU1lnS3ZIWTV0WWhDUDJFMmNCejdOTkhzcDhuUEUtMld4MXpKS1FjZkNDOWtRbzNjOVBYZndFWXBKQlQ5Z0F3UU4zVFFSa2VDLVFnT0FJeEdMazFaWjN6emZXUFVxTTE?oc=5",
+      "ts": "2026-10-03T12:00:00+00:00",
+      "category": "MLB",
       "section": "Teams",
-      "feed": "GN Seahawks",
-      "score": 11.65,
+      "feed": "GN Blue Jays",
+      "score": 11.16,
       "hits": [
-        "injury",
-        "seahawks",
-        "ruled out"
+        "blue jays",
+        "jays"
       ]
     },
     {
-      "title": "Fantasy Football injury report Week 4: Lamar Jackson, Puka Nacua, Justin Jefferson & more",
+      "title": "Langley pro basketball team heads to Haida Gwaii",
+      "source": "Langley Advance Times",
+      "url": "https://langleyadvancetimes.com/2026/10/02/langley-pro-basketball-team-heads-to-haida-gwaii/",
+      "ts": "2026-10-03T03:00:00+00:00",
+      "category": "Local",
+      "section": "Local",
+      "feed": "Langley Advance Times",
+      "score": 11.09,
+      "hits": [
+        "langley"
+      ]
+    },
+    {
+      "title": "Blue Jays’ Former All-Star Cuts Ties With Team Immediately After Season Ends",
       "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHRWME5FZV9rOEJPVHFWbHVZbWhoS1c3Zkdrdmsxdkh0SThMdnZZbXptR091Y3pKdE9RbTJqLVFlaDBWcFplbW94cHozUXFYYjdPTDBTTlJLSFFjYlAyMUt1QnVaOTF3UWxzVjN6M1ZsQ0g4MkRhSTFvME9OQnllbEN2b2NHb0gwbXFQMw?oc=5",
-      "ts": "2026-10-02T14:17:44+00:00",
-      "category": "Fantasy",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnZzeFRpWHNJVzZjbkhMVFc2cWR6MnY3VDdEcjF1VkNGNG1pUTUyOEdOLXdDMnVsZkYyN3JtaWFGaXVjMXpTZGNWemtSUkhhTzlHUHdxZ01LTm4teXBSY1F1cWpDSjlCR0M1cWwzNWlYeXR2a3QtclQtMXE1bllvaw?oc=5",
+      "ts": "2026-10-03T10:00:00+00:00",
+      "category": "MLB",
       "section": "Teams",
-      "feed": "GN Fantasy NFL 3",
-      "score": 11.65,
+      "feed": "GN Blue Jays",
+      "score": 10.89,
       "hits": [
-        "fantasy football",
-        "injury"
-      ]
-    },
-    {
-      "title": "George Pickens Week 4 Outlook for Fantasy Football (2026)",
-      "source": "RotoBaller",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlhpVFNEYUZNaUNESUE2c1FuTWlNMnNLenNyeVpkbXhmdTFlWklQbkVia19JQjI3cmdWZU9PZ3J1MjlCNTdqYkZHUW1NQTdWOWRwRkRGcERZSjF6TEoyRkxqMS1hOU13b2FDSXlraGRsbl80YlBkUFZMdjUwaXhENHpKV254S2JEeUNMdVBsR0JmQTl3Sm8xV2NSWWdUVXdOcG94UlVWNlRiY2pkR1VTaHVYcm85bGFpcFE?oc=5",
-      "ts": "2026-10-03T06:08:09+00:00",
-      "category": "Fantasy",
-      "section": "Teams",
-      "feed": "GN Fantasy NFL 2",
-      "score": 11.53,
-      "hits": [
-        "fantasy football"
+        "blue jays",
+        "jays"
       ]
     }
   ],
@@ -472,51 +439,40 @@
     "Global News BC": "ok (10)",
     "Vancouver Is Awesome": "ok (20)",
     "Langley Advance Times": "ok (10)",
-    "GN Langley": "ok (28)",
-    "GN BC Hazards": "ok (36)",
+    "GN Langley": "ok (29)",
+    "GN BC Hazards": "ok (37)",
     "CBC Canada": "ok (20)",
     "CBC Politics": "ok (20)",
     "Globe and Mail Canada": "ok (100)",
     "CBC Business": "ok (20)",
     "Bank of Canada": "ok (10)",
     "GN Rates & Housing": "ok (100)",
-    "GN Tariffs & Trade": "ok (97)",
-    "GN Canada Post & Transport": "ok (22)",
+    "GN Tariffs & Trade": "ok (92)",
+    "GN Canada Post & Transport": "ok (20)",
     "BBC World": "ok (42)",
     "CBC World": "ok (20)",
     "GN Geopolitics": "ok (100)",
-    "GN Pharmacy": "ok (80)",
+    "GN Pharmacy": "ok (78)",
     "GN BC Health": "ok (24)",
     "GN Health Policy": "ok (1)",
     "GN Canucks": "ok (100)",
-    "ESPN NHL": "ok (13)",
+    "ESPN NHL": "no element found: line 1, column 0",
     "GN Seahawks": "ok (100)",
-    "ESPN NFL": "ok (27)",
+    "ESPN NFL": "no element found: line 1, column 0",
     "GN BC Lions": "ok (100)",
     "GN Blue Jays": "ok (100)",
     "GN Raptors": "ok (100)",
     "Electrek Tesla": "ok (100)",
-    "GN Tesla": "ok (35)",
+    "GN Tesla": "ok (36)",
     "The Verge AI": "ok (10)",
     "GN AI": "ok (100)",
-    "GN Local Safety": "ok (35)",
+    "GN Local Safety": "ok (36)",
     "GN TransLink": "ok (17)",
     "GN BC Election": "ok (100)",
-    "GN Cost of Living": "ok (37)",
+    "GN Cost of Living": "ok (41)",
     "GN Apple": "ok (100)",
     "GN AI Health": "ok (4)",
-    "GN Fantasy NHL 1": "ok (32)",
-    "GN Fantasy NHL 2": "ok (16)",
-    "GN Fantasy NHL 3": "ok (32)",
-    "GN Fantasy NHL 4": "ok (43)",
-    "GN Fantasy NHL 5": "ok (33)",
-    "GN Fantasy NHL 6": "ok (35)",
-    "GN Fantasy NHL 7": "ok (31)",
-    "GN Fantasy NHL 8": "ok (13)",
-    "GN Fantasy NFL 1": "ok (48)",
-    "GN Fantasy NFL 2": "ok (66)",
-    "GN Fantasy NFL 3": "ok (100)",
-    "fantasy": "roster read at build time: 3 player headlines",
+    "fantasy": "no roster on this runner: carried over 1 items from previous feed",
     "NHL scores": "ok",
     "NFL scores": "ok",
     "CFL scores": "ok",
