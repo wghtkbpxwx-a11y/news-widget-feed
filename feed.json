@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-07T06:03:01+00:00",
-  "generated_local": "Tue Oct 6, 11:03 PM PDT",
+  "generated": "2026-10-07T13:27:22+00:00",
+  "generated_local": "Wed Oct 7, 6:27 AM PDT",
   "scores": [
     {
       "league": "NFL",
@@ -21,15 +21,15 @@
       "fav": false
     },
     {
-      "league": "NHL",
-      "text": "NSH 4 @ TOR 5 F",
-      "url": "https://www.nhl.com/gamecenter/nsh-vs-tor/2026/10/06/2026020044",
-      "fav": false
-    },
-    {
       "league": "NBA",
       "text": "BKN 124 @ CHA 90 F",
       "url": "https://www.espn.com/nba/game/_/gameId/401901820/nets-hornets",
+      "fav": false
+    },
+    {
+      "league": "NHL",
+      "text": "PIT @ WSH 4:30 PM",
+      "url": "https://www.nhl.com/gamecenter/pit-vs-wsh/2026/10/07/2026020053",
       "fav": false
     },
     {
@@ -79,14 +79,30 @@
   "layout": "v2",
   "must_know": [
     {
-      "title": "Update: IHIT confirms 23-year-old Langley resident shot, killed Monday night",
-      "source": "Fraser Valley Today",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVhMV2oyWGhPc2RzNUhGQmZBR1dtWWxGMnh6RDl3YTh2QXdiakt0RkRfZkp2Tk9POFF3SDNVTmxBeGhLNXRTNF9oSkdXYVduVm5QdFkyWF9pUVlLUkZqSjBIekMwWExLSG5LUWVOYmRmc1VsV2NiMXdxNUhBaDQ5a1JIc25Qd3FDZ0lpTW8xY2NaM25PQTJSS0ZJMU1udXB1TEJmWlNPUnBfQmRYbHFDRndn?oc=5",
-      "ts": "2026-10-07T03:18:06+00:00",
+      "title": "Dow Jones Top Energy Headlines at 7 AM ET: Oil Prices Rise as Houthi Attacks, U.S. Gulf Storm Raise Supply Risks | Shell's ...",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjBXWnpoSjZpT3RxVlN0NVF3OE9EY09yM2J6bHp0NXpXQ0VKaWhVblB5OHJCQUptdE9ualJDc3kzTFFZUlM2QnpZbmUzZi1vRG5yeC1iSlBKRUVyaXZEWnJKLVEtUmJQT1F0em84dll0YW5CTFJtSHQteTFvWnQwWkhPLTVldDhvcXcxajRreEwwR1U?oc=5",
+      "ts": "2026-10-07T11:18:41+00:00",
+      "category": "World",
+      "section": "World",
+      "feed": "GN Geopolitics",
+      "score": 7.18,
+      "hits": [
+        "oil prices"
+      ],
+      "sources": 11,
+      "severity": 3,
+      "reason": "multi-source + severity"
+    },
+    {
+      "title": "RCMP, IHIT investigating homicide outside Langley restaurant",
+      "source": "CityNews Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDlKNHNOb0YzdGNDZmw4dEFCZnpPQWd5MVZNSGVfZU1RQktSZlF6aDJlUGRqT3Y2Xy1JUVNsMndnRHdkZjdTN0pUN3pZZE00M3RGYzdLMGpldGhmU0tod1NEU3RBbUJqQjRlMjFJZVdGdU5WQkozakZwYnpWNFJPcHpRYW1TdE9HMGpySE5YR2ZPT2tlRVo2bUNXZWhDOGNI?oc=5",
+      "ts": "2026-10-07T07:48:15+00:00",
       "category": "Local",
       "section": "Local",
-      "feed": "GN Local Safety",
-      "score": 10.1,
+      "feed": "GN Langley",
+      "score": 9.72,
       "hits": [
         "langley"
       ],
@@ -102,25 +118,9 @@
       "category": "Local",
       "section": "Local",
       "feed": "Langley Advance Times",
-      "score": 7.7,
+      "score": 6.91,
       "hits": [],
-      "sources": 6,
-      "severity": 4,
-      "reason": "multi-source + severity"
-    },
-    {
-      "title": "Kenya confirms 1st Ebola case imported from Congo",
-      "source": "CBC",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Xb2I3TXoyeUdqNXBEZTJfOEt5NzRaa2Jpa1BaU3R6Uk9oUVltcG10SVhWSEJxRzJ6enduOG9MZllZRjdRaHA1V2JGYkZoSmd5d1Q3eER4RkdvVl9Dc1RfUndR?oc=5",
-      "ts": "2026-10-06T16:34:02+00:00",
-      "category": "Pharmacy",
-      "section": "Health",
-      "feed": "GN BC Health",
-      "score": 6.88,
-      "hits": [
-        "ebola"
-      ],
-      "sources": 4,
+      "sources": 5,
       "severity": 2,
       "reason": "multi-source + severity"
     }
@@ -132,11 +132,11 @@
       "title": "Vancouver Canucks @ Carolina Hurricanes: Live game updates, stats, play-by-play",
       "source": "Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNam43MTZHelpVZW4xSWpqMTFkLVJaYWpRTlZZTkVCLVdTWWxZNl9aUXBqS2VudGpqbFZ5M0RHVkpoNkd5QlNKUFVfdGNRa3NYeDRnS2RzY1d2LTVXMkJVWmN1RjA3ei02d2RHS3l6ZnNuZXFBaktqcE81ajIzckViMU5Cemk?oc=5",
-      "ts": "2026-10-07T03:33:45+00:00",
+      "ts": "2026-10-07T11:03:46+00:00",
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 14.13,
+      "score": 14.15,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -144,17 +144,30 @@
       ]
     },
     {
-      "title": "Langley Township candidate injured in crash",
+      "title": "Langley health-care charity welcomes new leadership",
       "source": "Langley Advance Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHBpc283eTh5TTYxVHo4YktGOEYxWVREdkNBSnZNVFBzVjNIWU5mdHRzNnNaMk5haGJqWGRuSnYzUU56RC0zbGQyVld4SnNOVnVmZUcwYi0za01LcU1vNjdOSklaV2RLRU5ocHNSSjl5VjRKMGxndnd5aXJWQlRFMXB1eGFBdm1RQzdXU2JSZkw?oc=5",
-      "ts": "2026-10-06T22:24:19+00:00",
+      "url": "https://langleyadvancetimes.com/2026/10/07/langley-health-care-charity-welcomes-new-leadership/",
+      "ts": "2026-10-07T12:00:00+00:00",
       "category": "Local",
       "section": "Local",
-      "feed": "GN Local Safety",
-      "score": 12.98,
+      "feed": "Langley Advance Times",
+      "score": 12.28,
       "hits": [
-        "injured",
         "langley"
+      ]
+    },
+    {
+      "title": "Tesla steps up pressure on EU regulators as experts question FSD safety claims",
+      "source": "bdnews24.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzVHhxd0VVMXZYY0hhdlh4dFZzU2VLTU04VDhKTlhxTGVOb25zX3d6X1l6NzRCRk5aQmlPZmVfUEV6N1ozWEtIUHRMV195dWY1ZkJqUA?oc=5",
+      "ts": "2026-10-07T12:39:00+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "GN Tesla",
+      "score": 11.88,
+      "hits": [
+        "tesla",
+        "fsd"
       ]
     },
     {
@@ -165,7 +178,7 @@
       "category": "NBA",
       "section": "Teams",
       "feed": "GN Raptors",
-      "score": 12.48,
+      "score": 11.74,
       "hits": [
         "vancouver",
         "raptors",
@@ -180,7 +193,7 @@
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 12.06,
+      "score": 11.3,
       "hits": [
         "fantasy football",
         "waiver",
@@ -188,75 +201,59 @@
       ]
     },
     {
-      "title": "Kevin Gausman Could Return to the Blue Jays as a Free Agent",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNEdMbFhIYWU4NTJFRTM4eWN4Z3RTbjFnd1MwNDZjMmRocDduLVRZMC10bTdJSE5veEd1cGYxNHlUNV9qai1taHAwSVY2LXJMd3dVeVZVN3FLd0xjR3RzaUREN1pJVzd1RmJkYlliVDItUDFiU1dqdm82NkVqdGJMS1dVbFUtTk0?oc=5",
-      "ts": "2026-10-07T01:01:05+00:00",
+      "title": "How Blue Jays Should Change Approach to Build Better Offense in 2027",
+      "source": "Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGFZY2dNUzlRM2dWZm1vWjFnM0ZXclp5UFNLdThBdnJnejhpcUhfcVBwdDBWVzNMRTNIem45THJhR0RQTnBPTi0zTEtTVkRFMHAxNUdabWlyT25vWGxTdGt0TjhFLWZRRGo0R2xaMFNoWkhHSVlISkxHUjZsSnNjd3FYeU5fNFM0c25ISzJzY2JCNjNQMWFZek8zXzNBMDlqOUowMkFzMkw?oc=5",
+      "ts": "2026-10-07T12:00:03+00:00",
       "category": "MLB",
       "section": "Teams",
       "feed": "GN Blue Jays",
-      "score": 11.8,
+      "score": 11.28,
       "hits": [
-        "agent",
         "blue jays",
         "jays"
       ]
     },
     {
-      "title": "Tesla Bull Case ‘Unraveling In Real Time’? Analyst Says SpaceX Tie-Up Could Leave Trillions Of FSD, Optimus Value ‘On the Table’",
-      "source": "Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNzNhaERwREhsUTRfelpuTmhodVJ1bnQtQkUtaG5xWGxfX25MVzJDZ0R4ZjJ1X2pfakhNcEhQeF9hSktHbG1VOGc4QmYtdjVuanhYSkJuZkU2ZzBEbXlqWTYtTVVFNjdIXzFJMmEzNFhydW14YU5tcjFJa2ZyTmNiZU1hZFJjb09HWnVnTTdZSUhGcDd0RWJyS3ljM3F5bS1UQjAtNnd1eHNXOXMzWFE1amFvUGktTnJRajBfOVd0WlprNDJtNEdBZzVFd0V4Nk9BYy1R?oc=5",
-      "ts": "2026-10-06T22:52:01+00:00",
-      "category": "Tesla/EV",
-      "section": "Tech",
-      "feed": "GN Tesla",
-      "score": 11.03,
-      "hits": [
-        "tesla",
-        "fsd"
-      ]
-    },
-    {
-      "title": "Pharmacist explains reason for independent pharmacy closures in West Michigan",
-      "source": "WWMT",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWU1Xa2M0cTNuRC1KVU1vYnRWaHlGTTFCeXQ3SlFMZjhDbGh0alQtWlRQWmhHX2YteDZLd1FLeTBlZzRyVlR0NlNiR3JOQjEzQVFKWlIzdkctNzVDSWYwcFZhU0NRWTc4cFV6WkhZbE9rVnpaZUlOWE9QZDdONldpOHNnUkF2VHJwZUtSMzZLNEZaWFBFYTR4anRNR24xUTNwZDZTZEdZMG8yNTZMYkVDMnFnYWN4M3dCZTFUdk50ZEtyVWt1UjV1QVJYdFVscmlSVTZRUjFoQmFLbUhsSTJjR2gxVlJRUWhCWFNiSk9NbzU1em9ucFNRMFFjeWhCQklvaGZFbnNPN2loT3c?oc=5",
-      "ts": "2026-10-06T21:16:50+00:00",
+      "title": "DHS North & Middle Andaman Recruitment 2026 – Apply Offline for 7 Pharmacist, Public Health Nurse and more Posts",
+      "source": "FreeJobAlert.Com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdFNrT3NTNGRsNEp0c0RqMWtkdm9JS1Y1Y0NJZ0ZFcVB1bjJZR0pfbTdVRHhLZlEzQXFQWXphZ2REMTdObkFrSkh2Zm1WXzdLZXVGb3JQSkZFSHJuUXpwbzBEd3RhSm1kM2xOWjZkYmZkZnBMOUxnc2hmVUFLR2lWaHFIQ2VXd3M1a0NRM0R4WGdHN3dVWUR0elVtNDBFZ2lxRDR4OEVPbzh6X0hhSHJOYW84NzA5MW9La1JWSVUxUEJUUXBCenQxN2VKMncyV0VDaGs2ZHFBSXdGUVNzSUtNWmY1TG9fT2pp?oc=5",
+      "ts": "2026-10-07T10:46:28+00:00",
       "category": "Pharmacy",
       "section": "Health",
       "feed": "GN Pharmacy",
-      "score": 10.35,
+      "score": 10.11,
       "hits": [
         "pharmacist",
-        "pharmacy"
+        "public health"
       ]
     },
     {
-      "title": "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
-      "source": "The Register",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcWY4dUh1dUExNEs0Mng4cHZfS0FhSGwzX1Y5UmxxanI4S0JucjBRdWR5TUZwZTBJckd0SUhLRk80V0pnOTFHdVZvX2tGVEc4eDZWR3F2Q01USzZwV2NSVUhPc3JDZzhaWTB3NW81NjBHRTBCYmJSM3NvUTdiZzVLVlNDVWdLUGpWRnZUYS1LbUxydmlVMTl4UUx0YmtGRnFobUc1Y2JhVEhyM3ZpekxxUnh0cVkza0hVT09yemU3RFJ4Y3BsRDFmaEg3bVRwS3V4?oc=5",
-      "ts": "2026-10-06T21:11:38+00:00",
-      "category": "AI",
-      "section": "Tech",
-      "feed": "GN AI",
-      "score": 10.34,
-      "hits": [
-        "openai",
-        "anthropic",
-        "claude"
-      ]
-    },
-    {
-      "title": "Oil prices rise amid Gulf of Mexico storm, Middle East tensions",
-      "source": "Pajhwok Afghan News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVlnb1RrQW5XUlpMN1ZaNC1vbWdrWHRTdHc3STRWampkVjh4ODRPWm1SWnNaQThON3VKWWlYa000S0ZtaEVSc082U0pmM1JuUTF3c0V5N2o0RXNXSkhESktoZ2RKZ2FpSDcxdVh5VVJQREFOOEdkTXE0ZmVUelllT2NHNmZfb0ZxTHluZ3I5Rlo3ZWw5NEowcGJR?oc=5",
-      "ts": "2026-10-07T05:23:27+00:00",
+      "title": "Oil prices are under pressure from the American storm and tensions in the Middle East",
+      "source": "المتداول العربي",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcTlfc3NHQ2pleldpa3d0R1JuaHYwdVpCcXY0Q2x4ajFCOEhUTHRLSzUteHFVT1oyYkotUVpidlBOcGxTZmE3TnVzT3dFbE1JY1VwMl9ody1WbnhGOEZtVk85b2dEckdHZDJibjc5U3NPcW9kY3lNWEVTSldoeFQ5alBxX2F4V1pjVGhVSUNLdG1tc253X2ZRWm1SNS1jRkc5bk9JYXBnX0ZBazYzcUpkM1dkQlNzckFMVUxKekFKVV9nRjJtS1lWX2FlMUZOaWZzTjFFZnZWNlU?oc=5",
+      "ts": "2026-10-07T09:38:01+00:00",
       "category": "World",
       "section": "World",
       "feed": "GN Geopolitics",
-      "score": 9.9,
+      "score": 9.45,
       "hits": [
         "middle east",
         "oil prices"
+      ]
+    },
+    {
+      "title": "s ‘chatbot monogamy’ the future? How OpenAI and Anthropic can stand out",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVlJMXVQMFhjS2h6WjdjQ1ZSdWQyOENxdXdmZWxGeTZoby10YUNfTDZvQkxVd21uTV8zNGF1N3dxMW5NVTlYMDNSdHc1Umd2bXdlRlRmaU12UVFqaWlWSzIwSGVRYXc3MG1UaVdNeWVOVjFTN2ZLZWhaYTVEemtFdldBYTFSRGRITDVfak5TTFM?oc=5",
+      "ts": "2026-10-07T11:15:00+00:00",
+      "category": "AI",
+      "section": "Tech",
+      "feed": "GN AI",
+      "score": 9.17,
+      "hits": [
+        "openai",
+        "anthropic"
       ]
     },
     {
@@ -267,7 +264,7 @@
       "category": "CFL",
       "section": "Teams",
       "feed": "GN BC Lions",
-      "score": 9.36,
+      "score": 9.15,
       "hits": [
         "vancouver",
         "bc lions",
@@ -275,31 +272,31 @@
       ]
     },
     {
-      "title": "Which Side Are You On? Eby’s Election Moment",
-      "source": "The Tyee",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yM0t0Qzk3amJ3VTNhbFByYXNud3lRSXNQcFlCTm9pY01SRkx1NkJJX2NqOW5fMVNxemJxZTNQZXBqSk5iUnBBN0gwRm5lYmhCZVI1Wlk3c0c3MnBDNTdZSUctNTNqMUNlSGc?oc=5",
-      "ts": "2026-10-07T04:09:27+00:00",
+      "title": "Lorne Gunter: Eby's proposed ‘millionaire’s tax’ likely to drive wealth out of B.C.",
+      "source": "Edmonton Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc01xWGxVdlkzckpSYnEyTzBWNE1KNHJBMC1GeGJRWEFqLVc4VjkxeERENk96NGpoa01iN0pLWHgxdE9WaWs3UnpvcmVjR0xDS21ualZjTGczVGFBZmJJRTRMVzJhVGZWMUJLRkdoVHZybkJJMzBVUGx4Q2Y1N05adEdPUURlTVdfMEUxWmJQbF9sZC04SUpGTjFraVZnMmNTTmVxTkdwdnNjSmVKc3NJb002Y1lNZXBtbzY2TnRUc1Azdw?oc=5",
+      "ts": "2026-10-07T11:06:43+00:00",
       "category": "BC",
       "section": "Local",
       "feed": "GN BC Election",
-      "score": 9.22,
+      "score": 9.15,
       "hits": [
-        "election",
+        "b.c.",
         "eby"
       ]
     },
     {
-      "title": "Canada posts $4.2bn August trade surplus as energy exports surge ahead of new US tariffs",
-      "source": "cedarnews.net",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVENQTVRTN2tmaGliMm1HbnB1UGJremV4aHM1RWk4eWZuWkF3R2lSZFR3MmgxR0RzRlVhWnE3WmZ0ME1lUURMMkxMRm41UFAxR1E3UVIzWl9Ec2JJbU9kcEN6aWtMbGtOOGo3VUZHUFE2akRJTURJSHJFM0x0MkRaM19ub2tVUjQ?oc=5",
-      "ts": "2026-10-07T03:01:33+00:00",
+      "title": "Trump’s Tariffs Give Carney Cover to Fast-Track Canada Building Push",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTDZ3VUhieXUwS1ItekR1Y2wwVl9lVFJTeVE1ZTgwTEExTFo4aGg1ZENzS0JxMkFWYktwN2pJb1F4V0dqalhxaG5MQXYzZkZuRDk5RUd1dVpPTzNmRktOaVhHTUJhSXhIWlR3VHB4TXRfbGk5MFNQLXFEUE1KMkp5aHkxRk81cG1uNDZDNnZ3OHJKZFdkNGplQUoyZXNNQ3RGUTV1R3hmVXg5TkM3MkxNVmhrUGNVb00xOFp0ZWtVV01DbkZNUjkxTg?oc=5",
+      "ts": "2026-10-07T10:00:00+00:00",
       "category": "Money/Policy",
       "section": "National",
       "feed": "GN Tariffs & Trade",
-      "score": 8.56,
+      "score": 9.0,
       "hits": [
-        "trade",
-        "tariffs"
+        "tariffs",
+        "carney"
       ]
     },
     {
@@ -310,10 +307,25 @@
       "category": "National",
       "section": "National",
       "feed": "Globe and Mail Canada",
-      "score": 8.35,
+      "score": 7.76,
       "hits": [
         "vaccine",
         "public health"
+      ]
+    },
+    {
+      "title": "Vancouver Canucks vs. New Jersey Devils 10/10/26 - Stream the Game Live",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVFiTUpKRTRpRl9XQ1JVclk4UTFFQnQ1NDIwQjVPZ0NNVGhISE9ZR19zRkZyaGtVT2RrZy1WQXFRc0RHVV9qLXBPZlpTaUlNcTdGdmxReU5JN29mNEdFNF9zaWpiWF9TWFZIank0ZkFfaG1kSGRfUDZzX0dGRDNHNGxnd2FrRFBNdjA0V0V2MjhNZw?oc=5",
+      "ts": "2026-10-07T02:25:05+00:00",
+      "category": "Hockey",
+      "section": "Teams",
+      "feed": "GN Canucks",
+      "score": 13.11,
+      "hits": [
+        "canucks",
+        "vancouver canucks",
+        "vancouver"
       ]
     },
     {
@@ -324,11 +336,25 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 13.23,
+      "score": 12.55,
       "hits": [
         "canucks",
         "vancouver canucks",
         "vancouver"
+      ]
+    },
+    {
+      "title": "Langley Township candidate injured in crash",
+      "source": "Langley Advance Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHBpc283eTh5TTYxVHo4YktGOEYxWVREdkNBSnZNVFBzVjNIWU5mdHRzNnNaMk5haGJqWGRuSnYzUU56RC0zbGQyVld4SnNOVnVmZUcwYi0za01LcU1vNjdOSklaV2RLRU5ocHNSSjl5VjRKMGxndnd5aXJWQlRFMXB1eGFBdm1RQzdXU2JSZkw?oc=5",
+      "ts": "2026-10-06T22:24:19+00:00",
+      "category": "Local",
+      "section": "Local",
+      "feed": "GN Local Safety",
+      "score": 12.24,
+      "hits": [
+        "injured",
+        "langley"
       ]
     },
     {
@@ -339,7 +365,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 12.5,
+      "score": 12.0,
       "hits": [
         "canucks",
         "waiver",
@@ -347,72 +373,45 @@
       ]
     },
     {
-      "title": "How Elias Pettersson's Physical Edge Is Reinventing His Game With The Canucks",
-      "source": "The Hockey News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMDRFWXVHNlc2V2d3VzVvcm1mRWs0WVRIZnowN09RdFJlbTc1VlJRLThCSWxYNklreS1DSnpvdzRqdnpaMkZjNTJnVC1Lbzkya1RPVkRCaEZyLUFJVnp1NkFIT3pObjNjRFZ4RkJZVmxLUDFKX0F5Tlo4aEV3eElnY0ZCaEpFQ0N5ZzRyNURGV093QXplYUZpR3hqU3VORE9RdlMwUEppQ0Y3eUE5NFZ1blE1bHQ5Wk9iSzA4?oc=5",
-      "ts": "2026-10-06T18:59:32+00:00",
-      "category": "Hockey",
-      "section": "Teams",
-      "feed": "GN Canucks",
-      "score": 12.11,
+      "title": "Elon Musk Welcomes German Push for Tesla FSD Approval",
+      "source": "CEO Today",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXJLcXhsT0lyMmRXdjNkS1hPb2pJelI5TWFVRnh5bnBwTkJWUHo1QTJ5TFd0SG00N0VndWZQYVJXTzl4UUN2SzduQVZjYW9oRXhLSDBlUUlKV2U0bUJ4TU1YTks4SkhzZ0ZQRmpaUVpmQkVuNEg4Yk4yYW9SRUV4TTd6UDZ1aFBIMFZZZ3BpbWZPNWdTb3J1SnNhbw?oc=5",
+      "ts": "2026-10-07T10:39:00+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "GN Tesla",
+      "score": 11.59,
       "hits": [
-        "canucks",
-        "pettersson"
+        "tesla",
+        "fsd"
       ]
     },
     {
-      "title": "COMMUNITY CALENDAR: Langley happenings",
-      "source": "Langley Advance Times",
-      "url": "https://langleyadvancetimes.com/2026/10/06/community-calendar-langley-happenings-10/",
-      "ts": "2026-10-06T22:00:00+00:00",
-      "category": "Local",
-      "section": "Local",
-      "feed": "Langley Advance Times",
-      "score": 11.43,
+      "title": "Tesla FSD Gets a Boost in Europe as Germany Pushes for Faster EU Approval — Elon Musk Says ‘Danke Schön!’",
+      "source": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcTBJd3gzSG5Xb0JaSmpvWnlMZHRWYmZwXzdHMGhjV0Z5SGZuTExHSE51Q29QN0Qwb3lRVm1UbDByOUh6cndPU19DdmlPeV9PNmNDWno2TnN6NXktRW1OQ3RsSllOZEIzcFYwaXZWNGt0dndpYmVvUURRb1N2QV85WTlGaWJ0RUpKbVRJcHB4cjRuaUFHNUpySi1hcnZtWElieG9QLTI0R1BBOGZDTGNXU0d6V0JOdGd1bEU5NkxUbkNEaDVtUVlQOVVXZXF1UHVyTGs4WU1MQWNNcERVdDl3dzV5eHBnZ1pB?oc=5",
+      "ts": "2026-10-07T09:32:34+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "GN Tesla",
+      "score": 11.44,
       "hits": [
-        "langley"
+        "tesla",
+        "fsd"
       ]
     },
     {
-      "title": "This Would Change *EVERYTHING* For The Blue Jays Next Season…. | Blue Jays Rumours & Breakdown",
-      "source": "KTVB",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMWVEUlVLWWd5bDBMd2NrWjEweEFOdENWY3M5WmNpeFI1UE9MbjBzZHcyRlpiNGxxOXdGWVVMT3dQRE40b1Y4aDNUcTB5VDVORkxZZ0dlUkQ1UlFmMU0tT3JvR1FFRHl1UEpHZ1g4cTRWNGJqNERsUTVjX0VBbHpKTFB3OGRtWW5MRGNxT2lHYURxQ0dlYlR2cW5OQTlUc3NmeENRZlJNU0dEcVdpWi1EOVFMYzF5dDJVaXpWelZHcFpiYVN3MmdpeGlBaElrTGZkN3NuU1JLMlRXU2hwUnZXWTlXSVdWSFBXcVdTaEZ2RGFicHYzLUk2TF9NdlBYSjdUODIzRFFQV1FTMXF1X1pJLU1KWDJVSjRhSV9PUU1yWHE2dkE?oc=5",
-      "ts": "2026-10-07T04:07:00+00:00",
-      "category": "MLB",
-      "section": "Teams",
-      "feed": "GN Blue Jays",
-      "score": 11.21,
+      "title": "Incorrect overtaking and speeding stop Tesla from launching FSD in Europe ᐉ News from Fakti.bg - Auto",
+      "source": "Fakti.bg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFZuR1B6WW1IajNhdGZ3Mk1sbURhTC02cWp1T1R1alhER1ZQWnNSdE9NeklSSDRPS0dPN3E5LUNBX3VweGgteHdKUTRjbUFSRUpkbzFtY3dOeF9yaE9mNHMyejNYdzB5aDFGYUVMc2lPYmxIUDNrRmdIQmxKNzNIUGxHMG9MMlQtWlhXYm5XTS14SkJmajBqNUZJUHpvQkFMYVUzZVZHdV9LeDVMY0o4?oc=5",
+      "ts": "2026-10-07T08:28:00+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "GN Tesla",
+      "score": 11.3,
       "hits": [
-        "blue jays",
-        "jays"
-      ]
-    },
-    {
-      "title": "Toronto Blue Jays: How Much Guaranteed Money is on the Books?",
-      "source": "roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVNXRExva0IwN1pOamJ6bzJFMDRxakFDQVdJTHphQzQyVjdFZGt4aUNWRnVvUnlvaXJwVjF6b1VNMS1idVFldWxXUXJQNF9KX0ZHdktjb3VpNHNSa1h3QnZ1Yk94M3U5a2ZaMXhjLU1tXzdudFdEX1M2ZGRGM29XVXZYeW02VS16cTllZUpjVmw1SkY4R3pFci1ZRExCVEtOZTUtWFZmcS1LZw?oc=5",
-      "ts": "2026-10-07T04:00:22+00:00",
-      "category": "MLB",
-      "section": "Teams",
-      "feed": "GN Blue Jays",
-      "score": 11.2,
-      "hits": [
-        "blue jays",
-        "jays"
-      ]
-    },
-    {
-      "title": "MIRROR IMAGE: Orlando Magic and Toronto Raptors SHARE philosophies, WALK different paths",
-      "source": "WLTX",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNQ2poUHdEc3ZoQk1NeTFSWWkzNjVaZDZObDJ6WU15MW55Z25Fd0ctRjNOTDhYU3Z5MHVkMW9QVEZjRUtRakIyTTJzbzhLRjZOWHlVSVBmdHJxSDh2TXNiYVhyVE83a1VPTDVKUkdkZkZzb2txbTJ6OG45YTV6d3ZIQ1FqN2x0cDdQUGY3WlpvQTR6X3JsUnlpNXlmYnVQM2RoemttTVVDTzh5Z0w3X1VJeFJKc3hJYS01bnZ3aUNwZlN2cjJCT3hUOU8xZTFpWmt0M01NNjlYR0tuZXpEOXhDVW1DU0R5cERPT05pbm9BVjRzZG9jM2JmRHJubDdCa1o4V25reWNZVHkwY1VhNENtVk1iZ3hDWXM5R3RTTDln?oc=5",
-      "ts": "2026-10-07T03:02:00+00:00",
-      "category": "NBA",
-      "section": "Teams",
-      "feed": "GN Raptors",
-      "score": 11.06,
-      "hits": [
-        "raptors",
-        "toronto raptors"
+        "tesla",
+        "fsd"
       ]
     }
   ],
@@ -422,20 +421,20 @@
     "Vancouver Is Awesome": "ok (20)",
     "Langley Advance Times": "ok (10)",
     "GN Langley": "ok (22)",
-    "GN BC Hazards": "ok (43)",
+    "GN BC Hazards": "ok (44)",
     "CBC Canada": "ok (20)",
     "CBC Politics": "ok (20)",
     "Globe and Mail Canada": "ok (100)",
     "CBC Business": "ok (20)",
     "Bank of Canada": "ok (10)",
-    "GN Rates & Housing": "ok (82)",
+    "GN Rates & Housing": "ok (86)",
     "GN Tariffs & Trade": "ok (100)",
-    "GN Canada Post & Transport": "ok (21)",
-    "BBC World": "ok (20)",
+    "GN Canada Post & Transport": "ok (23)",
+    "BBC World": "ok (23)",
     "CBC World": "ok (19)",
     "GN Geopolitics": "ok (100)",
-    "GN Pharmacy": "ok (68)",
-    "GN BC Health": "ok (42)",
+    "GN Pharmacy": "ok (76)",
+    "GN BC Health": "ok (44)",
     "GN Health Policy": "ok (2)",
     "GN Canucks": "ok (100)",
     "ESPN NHL": "no element found: line 1, column 0",
@@ -445,13 +444,13 @@
     "GN Blue Jays": "ok (100)",
     "GN Raptors": "ok (100)",
     "Electrek Tesla": "ok (100)",
-    "GN Tesla": "ok (47)",
+    "GN Tesla": "ok (61)",
     "The Verge AI": "ok (10)",
     "GN AI": "ok (100)",
-    "GN Local Safety": "ok (47)",
-    "GN TransLink": "ok (19)",
+    "GN Local Safety": "ok (50)",
+    "GN TransLink": "ok (18)",
     "GN BC Election": "ok (100)",
-    "GN Cost of Living": "ok (43)",
+    "GN Cost of Living": "ok (45)",
     "GN Apple": "ok (100)",
     "GN AI Health": "ok (3)",
     "fantasy": "no roster on this runner: carried over 0 items from previous feed",
