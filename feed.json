@@ -1,13 +1,7 @@
 {
-  "generated": "2026-10-16T11:27:22+00:00",
-  "generated_local": "Fri Oct 16, 4:27 AM PDT",
+  "generated": "2026-10-16T16:41:25+00:00",
+  "generated_local": "Fri Oct 16, 9:41 AM PDT",
   "scores": [
-    {
-      "league": "NBA",
-      "text": "TOR 120 @ NY 122 F",
-      "url": "https://www.espn.com/nba/game/_/gameId/401908945/raptors-knicks",
-      "fav": true
-    },
     {
       "league": "NFL",
       "text": "SEA 14 @ DEN 17 F",
@@ -15,15 +9,21 @@
       "fav": true
     },
     {
-      "league": "MLB",
-      "text": "TB 2 @ CLE 3 F",
-      "url": "https://www.espn.com/mlb/game/_/gameId/401908025/rays-guardians",
-      "fav": false
+      "league": "NBA",
+      "text": "TOR @ DET Fri 4:00 PM",
+      "url": "https://www.espn.com/nba/game/_/gameId/401908946/raptors-pistons",
+      "fav": true
     },
     {
       "league": "NBA",
-      "text": "OKC 89 @ HOU 116 F",
-      "url": "https://www.espn.com/nba/game/_/gameId/401908622/thunder-rockets",
+      "text": "MIA @ ORL Fri 4:00 PM",
+      "url": "https://www.espn.com/nba/game/_/gameId/401898406/heat-magic",
+      "fav": false
+    },
+    {
+      "league": "MLB",
+      "text": "TB @ CLE Fri 5:00 PM",
+      "url": "https://www.espn.com/mlb/game/_/gameId/401908026/rays-guardians",
       "fav": false
     },
     {
@@ -79,20 +79,21 @@
   "layout": "v2",
   "must_know": [
     {
-      "title": "Mnemonic Collects Ten Testimonies from Jews about the Holocaust, War and Evacuation",
-      "source": "Єврейські Новини",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdDNOTkNaWnB4ejFPX1N3R3BWSmRwcHlFQUozamZpd1VmSi12dlB3SHpZV2hXc1h6cjFLTE9vQkpDV2ZnQU5NdDNGYVlKNjNCRFhqQ1V0Y0pyMjFpOTd5NFllRjl2ZmpYdUxxMXNJUFYxZlNiUlZHV0RQSVhfLWo4LVRRMFZlWFJTb1FqSXRKYS0wVGlvMW14V2hZWEc3RFVlam04UVNyamRVbkhRdE03ZXhxWGs5eUR5NGFN?oc=5",
-      "ts": "2026-10-15T15:23:48+00:00",
-      "category": "BC",
-      "section": "Local",
-      "feed": "GN BC Hazards",
-      "score": 5.85,
+      "title": "Oil prices head for weekly gains amid Middle East risks, US inventory draw",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkFPSkx6UEp5R2NaRkxRRFViX3hhOFQ0ajM3VWxDZGVTajdSUkdoOUwtS1l3Y1ZmeFJBcXh0ME0yRzFZVEVYY1Vjc0RpOTRWbWd6Yk5yRTJqVGVKYl82ZzRxSkZyUWNMTjVTSjR1UUJxanVkX3ZibHhMRW0zd3pKS21vLWdXdjVQM2VzQ3AzeHpSSzFjZWJIaUlfZlBmWHhiN1JMblNSdWJPUzV0SndHT2t4aEQ5Z9IBvgFBVV95cUxQd3N2ek80QTZ3cUg1VlliTGg3SFh0WnZVYUN2aGkyT0luVTF4WGd2SE9leWtOaGNmMGJqby1NZFBCbXAwUmVnV2xuNWxQbWpxUUY4SHd4MlpZSzNyZ1ZfZ1RncFdzZDZhQVVHdUN1SVNHWDFkMm11LV9sWXNkSlloX1Y4ZHlaUzdJQTNxQ01peF93S1N4b2tMal9KOXFDS2Y1VVUyVDZERUZYYjN5b05HVlB6bWw5dnp1SmRYbkRB?oc=5",
+      "ts": "2026-10-16T13:49:28+00:00",
+      "category": "World",
+      "section": "World",
+      "feed": "GN Geopolitics",
+      "score": 9.58,
       "hits": [
-        "evacuation"
+        "middle east",
+        "oil prices"
       ],
-      "sources": 1,
-      "severity": 6,
-      "reason": "alert + severity"
+      "sources": 17,
+      "severity": 2.5,
+      "reason": "multi-source + severity"
     }
   ],
   "fantasy_items": [],
@@ -102,15 +103,29 @@
       "title": "Tkachuk nets 3 as Florida Panthers rally to edge Vancouver Canucks 3-2",
       "source": "Langley Advance Times",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSWYweWRWeHR5TVl6UmJBRWNHODhDclMwTlE3V2VYbW1vOUxMS3Ztdk5yWmcyN3ViRUFwQU92WU1nNUZwUGlvZWpWN1dNMTlLdHhLYjFESVM0N1JvQzI2cWlMMFhfdTU1T181b19JaUVKaHpIN21YeHNGRXVHQlZsSU4zM2NhMUFZaHBKNnllVmJwZjFpcmxiMXc3dFFncmRFTnBRX2JvelV0RFlRUDBLa0lBcGo?oc=5",
-      "ts": "2026-10-16T08:03:45+00:00",
+      "ts": "2026-10-16T08:03:57+00:00",
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 16.01,
+      "score": 15.37,
       "hits": [
         "canucks",
         "vancouver canucks",
         "vancouver"
+      ]
+    },
+    {
+      "title": "Langley City, casino sued over fall and injury",
+      "source": "Langley Advance Times",
+      "url": "https://langleyadvancetimes.com/2026/10/16/langley-city-casino-sued-over-fall-and-injury/",
+      "ts": "2026-10-16T16:00:00+00:00",
+      "category": "Local",
+      "section": "Local",
+      "feed": "Langley Advance Times",
+      "score": 13.9,
+      "hits": [
+        "injury",
+        "langley"
       ]
     },
     {
@@ -121,7 +136,7 @@
       "category": "MLB",
       "section": "Teams",
       "feed": "GN Blue Jays",
-      "score": 13.69,
+      "score": 13.29,
       "hits": [
         "blue jays",
         "jays",
@@ -136,7 +151,7 @@
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 12.46,
+      "score": 11.92,
       "hits": [
         "fantasy football",
         "seahawks",
@@ -144,74 +159,60 @@
       ]
     },
     {
-      "title": "Oil prices rise due to the situation in the Middle East, not Ukraine’s strikes on Russian oil refineries — Reuters",
-      "source": "Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWVBMVEthRmstUW1GV2YtVE1hZTUyUTNDY0loU3pPYUp0d3pBazlEYXg2aXMweHgyOFZ3SVl1UDQ3Z1NfT3d0eThTd2FfUF9KMmh1Tlo1aTA3TFIzUkEwN202aFdaZktOT3V4cjlmQk0tcllMZmVheW94cDBlc05GdFJKMjk1b3FaUDA1TExZT3N3LVdiX3FKQlFJU1Y3dGh4UUwzalgzN0tzMHQ5aDItbllhTmRsOW5fNnMwcnJvRXNzVkpuX0JvT1hpbEZlUdIBzAFBVV95cUxPQzlIUURpUU5EZWNPaURkTG1pUzllRElLSEpCUDFVeFExMWVDbXBZbjdlblM2NHB4eGY2RmNRWDR5dWR0aW1hWnNVWlh6TlZwYjc4Um1aR2xuT2F1MmRyZVpuODlsaXRyNUxoV0ZoaHY4YUdCcnpvaElFazBpYlY5eFhRUU1OakdaYzhKSldtTnExZEg0c3R3cFJ2QnFnYmtGczktWUdzZ2lXdENqQ1pPQjd5ZzNSQ0Z3REZqSzBpdmZSYTdVYlpXQlZ3Nkg?oc=5",
-      "ts": "2026-10-16T04:57:56+00:00",
-      "category": "World",
-      "section": "World",
-      "feed": "GN Geopolitics",
-      "score": 11.62,
-      "hits": [
-        "ukraine",
-        "middle east",
-        "oil prices"
-      ]
-    },
-    {
-      "title": "Advance voting for B.C. election begins today",
-      "source": "Langley Advance Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGZtTERCODQ0NmgtT0locUZROTZuZjAxcGpyNm1JbGNYVC1KOTk1YjBZUlcxQ1V1VDV5RkxlWkRrOGN0RkU1Vkp4Sy1xVFdxLUk1YV9iVHZUZDdxb2xJNFpBUFJ3ODBCQ0dNak9HR0Y0TWJkM1pwbE9ieHlMWGxIQzNLY2NZODYwSUlaNjcxbkxhZw?oc=5",
-      "ts": "2026-10-16T11:03:34+00:00",
-      "category": "Local",
-      "section": "Local",
-      "feed": "GN Langley",
-      "score": 11.44,
-      "hits": [
-        "b.c.",
-        "election"
-      ]
-    },
-    {
-      "title": "Tesla drops the FSD name in Europe, now called Tesla Assisted Driving",
-      "source": "Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOUtUdmpEVnh3dUxDZ1ZSa2psLTZHMGtZUzNQNnZGV3Z6aDVYalpBNnJFb19JSTE1angyX3ctU0Rlay1Id2xCVVYxV2V3cktaX3JYSDF3UmJKSXE3TFpsTHY4RjRFbEZzeGdQNUp3dWFvc2F4eGZqdC1YX0UxVGV0ODRmTQ?oc=5",
-      "ts": "2026-10-16T07:32:52+00:00",
+      "title": "Tesla FSD approved in Slovakia: what the rollout could earn",
+      "source": "www.techi.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxWUsydWhPMy1FbExMOGhENXFkT09HdVdpdHp4S0ZtTGVXYlRsdk5TUHhmNXdyR05WQ2Nmb1QtU2Vlb2l0MGdaMDhOYkVNbXJmeFVMaURTMlhPeXNGZGdwX2tqYVBMMnN2NVBId3NBYXQ?oc=5",
+      "ts": "2026-10-16T15:57:35+00:00",
       "category": "Tesla/EV",
       "section": "Tech",
       "feed": "GN Tesla",
-      "score": 11.44,
+      "score": 11.89,
       "hits": [
         "tesla",
         "fsd"
       ]
     },
     {
-      "title": "Toronto Raptors at Detroit Pistons - Where to Watch, Stream Info, TV Channel, and Live Updates (October 16, 2026)",
-      "source": "Fubo",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWDNvbXRFdmhXZ0xvTmM2LWZxVlpuNTV0TXRuUTFLckNJdGFOek96VElERXpDRHpid1QwU010cHpkcTBmc0o2a1BvOENIVkVBSDNpT056MHJhZldYWUZ2QkIwLTN3SVQ5TUU5Y2cxQ3oxcTJ2bUEzdkRNc2I1LVhEYi1ZdWJZN0Q1U05qZGhCOFB4ZUxnRlhBWG9HM0Vqd3A4cmx3dEhPQ1ptSkk5am9SdmF6eE16MnZxU3hsbWMyY2wzTmllZGM0ZjZSN2x3MXZS?oc=5",
-      "ts": "2026-10-16T08:04:04+00:00",
+      "title": "OFFENSIVE WAGON? The Toronto Raptors offense will be good -- could it potentially be ELITE?",
+      "source": "kens5.com",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUkVudHNXQndHa3Q2cF80MUxRNElmYWlRNWsxNTVTY0ZwS0dNMUFaUXR1aG9nRDd1M0wtT2I3T3d6V285RHB4UEo0MXFaV1hoaFhEaXNxTXdHNEhaSVJYeVktYVQ0Sm9DTldHZ1FFeTAxYU9GdTM1dEJDOW1JbDVmYkpNdjNRVnJQQ0pncFdxWW5qaEFDS1VkOUVIMGdadGljdzhYUnR1dVVTVzZPa3ByS1B6WGJuaFhrbXU0RVVqTjJERGVSN3czQkk3OXhYXzl6cWRwYk1wMnVoY0ZwRlpVc1psaXI5aDlPMHBoZUE4MFBVQnRSbGNDUU1yQmJEN3pIZzJpczYtb2pWY1BNWTd0SlZNY181a2IwaHpZUG94WnBZUQ?oc=5",
+      "ts": "2026-10-16T15:10:00+00:00",
       "category": "NBA",
       "section": "Teams",
       "feed": "GN Raptors",
-      "score": 11.01,
+      "score": 11.27,
       "hits": [
         "raptors",
         "toronto raptors"
       ]
     },
     {
-      "title": "Bank of Canada’s Tiff Macklem sees energy price challenges for interest rate outlook",
-      "source": "The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVFk2cWZoQXNTR0haWVlzMlNJb2JfTkxBZWhCN3ptOS0wWHBESUR1R0pfNDFRMkRGdnVWNXlDQVdETUhUeGxJM2hEeEhuTXVrWVlIdEc0SHFhQzNmQUV1aHRfWXdtWU5sRXpRYjZ2d3p0b0N6U3lPRWFacmJpdl9tb0U4YTBVRGxaWUc0ejNWdWtMS0JxaVMyblR0eExaSFlxUW5hWExiRkJJSUwyd0MtSERxa0M0RXdKY2JtTDh4OTZtYnBmS3Zz?oc=5",
-      "ts": "2026-10-16T09:17:57+00:00",
-      "category": "Money/Policy",
-      "section": "National",
-      "feed": "GN Rates & Housing",
-      "score": 10.68,
+      "title": "Where do B.C.’s parties stand on housing policies ahead of the provincial election?",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmRQODdRZXZrT3dBLVRfZER4MU43TmpTLW9TbTlHT25HWHhhWnZyUkkzNk5VelVWTTV2eE82Y1oyeFFORG5jVERaQ3dVcHdJSXlqQXlFUHh5Ty0xMEIzT2xQVTYyQ2pFLVNWSlBLOEwzeWV0Rno1NG9FVktWNDBWaHpJc2F1WkU0d3dIS18zRDdYT2Y2RW9ZZDl3SUxRV09i?oc=5",
+      "ts": "2026-10-16T13:00:00+00:00",
+      "category": "BC",
+      "section": "Local",
+      "feed": "GN BC Election",
+      "score": 10.97,
       "hits": [
-        "interest rate",
-        "bank of canada"
+        "b.c.",
+        "housing",
+        "election"
+      ]
+    },
+    {
+      "title": "‘Show and Tell’ in AI. Anthropic, Microsoft & Tesla. ARD #186",
+      "source": "AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmVaQUZMak52bHVRbkZnVlU5aDJ1UG8zR2pVSG5DeHAwS3VsQjV5el9HVnFuU0pkZGhQVnE2WlhnbGQ5RVJQLVhsemdGRC1xOXJSU1NnR04tRVlnX0lTZDg5YjNIOU5PbWc5eDNFdW4yUy1lYjJPUnFMRlI3cUw0ZHR3?oc=5",
+      "ts": "2026-10-16T15:38:38+00:00",
+      "category": "AI",
+      "section": "Tech",
+      "feed": "GN AI",
+      "score": 10.34,
+      "hits": [
+        "tesla",
+        "anthropic"
       ]
     },
     {
@@ -222,24 +223,24 @@
       "category": "Pharmacy",
       "section": "Health",
       "feed": "GN Pharmacy",
-      "score": 10.59,
+      "score": 10.21,
       "hits": [
         "pharmacist",
         "pharmacists"
       ]
     },
     {
-      "title": "Futures Mixed; Anthropic Value, Tesla Roadster In Focus",
-      "source": "Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU2WGRpRzlyZGptcTdpR19RN2d5WVNxWWt6MnlPWEowaTdIdVc0enNEb1ZxbDlHWXNGaVFjT2dJa3cwT1h1SHlJbEVUWXV2WGY0WXhSaW56a0hqX2NyWkJ6R0tFQnJINHlJQnRDX0EyVll3Yzl5TWV5YUZyS3p4WXhKcmZnSkRCWVRiQWlERENCcDllTU1xUjJLaDAzT01SX2lRM1hIcUdDNURsa05mTQ?oc=5",
-      "ts": "2026-10-16T03:11:00+00:00",
-      "category": "AI",
-      "section": "Tech",
-      "feed": "GN AI",
-      "score": 9.41,
+      "title": "Bank of Canada’s Tiff Macklem sees energy price challenges for interest rate outlook",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVFk2cWZoQXNTR0haWVlzMlNJb2JfTkxBZWhCN3ptOS0wWHBESUR1R0pfNDFRMkRGdnVWNXlDQVdETUhUeGxJM2hEeEhuTXVrWVlIdEc0SHFhQzNmQUV1aHRfWXdtWU5sRXpRYjZ2d3p0b0N6U3lPRWFacmJpdl9tb0U4YTBVRGxaWUc0ejNWdWtMS0JxaVMyblR0eExaSFlxUW5hWExiRkJJSUwyd0MtSERxa0M0RXdKY2JtTDh4OTZtYnBmS3Zz?oc=5",
+      "ts": "2026-10-16T09:17:57+00:00",
+      "category": "Money/Policy",
+      "section": "National",
+      "feed": "GN Rates & Housing",
+      "score": 10.01,
       "hits": [
-        "tesla",
-        "anthropic"
+        "interest rate",
+        "bank of canada"
       ]
     },
     {
@@ -250,36 +251,34 @@
       "category": "CFL",
       "section": "Teams",
       "feed": "GN BC Lions",
-      "score": 9.22,
+      "score": 8.73,
       "hits": [
         "bc lions",
         "lions"
       ]
     },
     {
-      "title": "Here is everyone running in Surrey in the B.C. election",
-      "source": "Surrey Citizen",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmlFYmlPajZadTh3U1E0Z0Z1NXBpSEpFNFhBM0N0U2lSUENIajVOekNYSVhtV0RMdWF2Nm9hVVNmcGlTY1E5UVdhRU10N3doam1RLWNPbWJRZnlPRGtaMkZ0OFB0X2xhZkVPOVdVdFZMcEFJS3hQWTJpQ2ZWZThOSV9ZY0FyREVM?oc=5",
-      "ts": "2026-10-15T17:51:11+00:00",
-      "category": "BC",
-      "section": "Local",
-      "feed": "GN BC Election",
-      "score": 9.03,
+      "title": "Tesla unveils Roadster that can flip in the air and land using thrusters",
+      "source": "CBC World",
+      "url": "https://www.cbc.ca/news/world/tesla-roadster-9.7383239?cmp=rss",
+      "ts": "2026-10-16T14:32:07+00:00",
+      "category": "World",
+      "section": "World",
+      "feed": "CBC World",
+      "score": 8.18,
       "hits": [
-        "b.c.",
-        "surrey",
-        "election"
+        "tesla"
       ]
     },
     {
-      "title": "Before you hit the pump, see today’s Gas Prices",
-      "source": "Lanarkleedstoday.ca",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVU1pMEZ2NmhOd1pHZTZId25iYlpDOFNmV25iZ1pOakQyTFJ1b2pkZzB4VFB1VWZuX0d4d3FhdGhTVDFmRlJFS0pEbi04Sko1UnVpUW5NVHhEdHFINEJINkptUGRLd2c1dEtmOHJjaE9yRlNwY0NtQjdwbXNleVlBSE5NUWpPelE1cFY3bDZTZTE?oc=5",
-      "ts": "2026-10-16T10:14:46+00:00",
+      "title": "These are the states being hit hardest by gas prices as result of Iran war - and they are Trump strongholds",
+      "source": "Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41MFVCa1MxOHFEcHVrTjl1bEtaMkFqdnpVd0tzaW80RENBZlF6VUxOTGNLdnFiLVVSd3ZnLW9sWll0b3p4OXdET0RwaTkwS3U5MjdRSnljcGowUDdqVmpmQXZrRUhaSXdOTFpmeHhXeTBSd1ptWkszbQ?oc=5",
+      "ts": "2026-10-16T16:07:46+00:00",
       "category": "National",
       "section": "National",
       "feed": "GN Cost of Living",
-      "score": 7.82,
+      "score": 7.91,
       "hits": [
         "gas prices"
       ]
@@ -292,7 +291,23 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 14.01,
+      "score": 13.55,
+      "hits": [
+        "canucks",
+        "vancouver canucks",
+        "trade",
+        "vancouver"
+      ]
+    },
+    {
+      "title": "Aatu Räty clears waivers: Why a trade from the Vancouver Canucks seems likely",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkRvMWdZY0NoWENKNGdSMmp0Mk5DQ2V2SWRGdWJqQ0lETTlNNXNRWUtlclRONXpQVmVubGRPMFB3eXB6d29icGE5dHF2dXhsVTNROVhXbkxIRktaTWl4blJBbmZZQy0zLTJtTDZSRnl2VFVvLVNBQlZ4NlJ2MTc4Z3FoZEpDelBGcjZBeVk1X3h0dw?oc=5",
+      "ts": "2026-10-15T18:32:00+00:00",
+      "category": "Hockey",
+      "section": "Teams",
+      "feed": "GN Canucks",
+      "score": 13.2,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -308,7 +323,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 13.78,
+      "score": 13.18,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -316,74 +331,55 @@
       ]
     },
     {
-      "title": "Aatu Räty clears waivers: Why a trade from the Vancouver Canucks seems likely",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkRvMWdZY0NoWENKNGdSMmp0Mk5DQ2V2SWRGdWJqQ0lETTlNNXNRWUtlclRONXpQVmVubGRPMFB3eXB6d29icGE5dHF2dXhsVTNROVhXbkxIRktaTWl4blJBbmZZQy0zLTJtTDZSRnl2VFVvLVNBQlZ4NlJ2MTc4Z3FoZEpDelBGcjZBeVk1X3h0dw?oc=5",
-      "ts": "2026-10-15T18:32:00+00:00",
-      "category": "Hockey",
-      "section": "Teams",
-      "feed": "GN Canucks",
-      "score": 13.58,
-      "hits": [
-        "canucks",
-        "vancouver canucks",
-        "trade",
-        "vancouver"
-      ]
-    },
-    {
-      "title": "Blue Jays Send Brett Bateman Warning After Trade Surprise",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV21LdTRTVWYyR21qQk4xdnRZa2tDYy1EMXpCLU8yUWU5ckRtZ3NvdXN5b0ppSlhxVUZ3cVM5d2xfbDlweEJhUXM3Z3FDNFJHOXRKVnY4aWNjV1IzWHNSWXNxdVRDeFUtSUVFRkZ2TnpGQkE3MHJZMjluV3hfTW82aFBObmhFblpPbkczN1J1TWxPQXhiSUU4WHpKd3JwRy1FNEw1Z0JYV0RVWFpXUjZPSw?oc=5",
-      "ts": "2026-10-16T10:00:00+00:00",
-      "category": "MLB",
-      "section": "Teams",
-      "feed": "GN Blue Jays",
-      "score": 12.28,
-      "hits": [
-        "trade",
-        "blue jays",
-        "jays"
-      ]
-    },
-    {
-      "title": "Broncos survive Seahawks in OT after Sam Darnold’s INTs: Seattle slipping from NFL’s elite?",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWxsaWJtak1JTzdDNTRCWUZ3cmY2Wkw4WE1Gc0F4WGpyeHJ2Wm9TTEpYWlNyZDJRcE9hcTd4VTUxT1R0LVhpXzlvOUk2TlJ1cGxlRE5lUXczU2VnU3ZudVpRenpxbjNSc0RnR1NOVzVjZmgtY0x2MHFySWF3OEowRHBoSjJDTjB0WDltaDhHUDBHaFl1ZGhsQ3B3aUxJaThUVDJz?oc=5",
-      "ts": "2026-10-16T04:56:00+00:00",
+      "title": "Should Seahawks Bench Sam Darnold? Seattle Legend Says Yes",
+      "source": "Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHNfWTVjcURQM0Rtd0E2S2dtaUpqaUw5WDJsTUZySDdVQVNTbTJOWm9sR09MTE51ZW9TVmxBMzM4UTlyZUs5OVlpVHN5N1pUM3dwbkRPSlpvNmQxa20xRnVUTHpGeHZrMUF1Sk14YXhwd3RNOHpHZXJBaXQyTHk1aDNIM1ZWLXREdi1ueDhaSEdaTUJKelJuUnZB?oc=5",
+      "ts": "2026-10-16T16:00:01+00:00",
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 11.61,
-      "hits": [
-        "seahawks",
-        "sam darnold",
-        "nfl"
-      ]
-    },
-    {
-      "title": "Seahawks Urged to Bench QB Sam Darnold for Drew Lock Minutes After Loss vs. Broncos",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNVdNZnVBWXhNNmg1VTZWMjNRQXBsREFwVGwtLTVqcERKZEZoaks1b21XNjAyNHh1SjAwMWpqNkczSDJvWmw0dzZsbElUWDIzbXhkSFJBaTFlWmxFaEZkLXlHeWFrb1plN2M2cUxhWS1EcTNLZGZ5ajZDbkFKQlRvS1Bn?oc=5",
-      "ts": "2026-10-16T08:21:04+00:00",
-      "category": "Football",
-      "section": "Teams",
-      "feed": "GN Seahawks",
-      "score": 11.55,
+      "score": 11.9,
       "hits": [
         "seahawks",
         "sam darnold"
       ]
     },
     {
-      "title": "Sam Darnold Breaks Silence After Seahawks Fans Question Benching",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3RGUTlmTy0yaDhjY2pFeE5mbm5LM2dSSXdmRjRBRXFuVUxEc3JsU3ExX2JUX3lrRks3SDZIcmFFcS1HaW1XUDB4VVhpRHQtX2lsU0h3ZHJrRE5MUlBFWU81YUo1cEV0NGFRSExacDlSN1puc2htdlhwN0pUYUQwbnRDcFhfcEhNSDZSVQ?oc=5",
-      "ts": "2026-10-16T08:20:24+00:00",
+      "title": "Street drug deaths rose in Langley over summer",
+      "source": "Langley Advance Times",
+      "url": "https://langleyadvancetimes.com/2026/10/16/street-drug-deaths-rose-in-langley-over-summer/",
+      "ts": "2026-10-16T12:00:00+00:00",
+      "category": "Local",
+      "section": "Local",
+      "feed": "Langley Advance Times",
+      "score": 11.84,
+      "hits": [
+        "langley"
+      ]
+    },
+    {
+      "title": "Autopilot/FSD Was “Engaged” When Tesla Crossed Median and Killed a Man, Company Confirms",
+      "source": "Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3FLTXUtRHhyZVpDWE0tZDBITkh6bEw0R09wQWwzZzFGSk9qeUg3OXY5NUU1U3RUdnYxM3ZpaHA4NWpqbzg0Nk5yZDcxdFdhSVRhU3BsWWw4NzlnVktoWjJpT05YdDJSMFZ4Y1pFNWp2T09fREF4ckpvazVpUkVmZlVfRE1ZdlgzYkFIUWZjbGlFUElTZnIxT1lPX1BJdEI1Y2I2dmt1NEJ1YnRBY1IzWTVVSzU?oc=5",
+      "ts": "2026-10-16T15:33:40+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "GN Tesla",
+      "score": 11.83,
+      "hits": [
+        "tesla",
+        "fsd"
+      ]
+    },
+    {
+      "title": "Seattle Seahawks officially have a Sam Darnold problem",
+      "source": "Lyndy's Sports Annuals",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2FnLURzamJVUHNRT2k5OEtMZWVrb1l3ZDhvcndjQW1DbmsxanEtN21LMml5QW1WdGFFbXFqdHZRZFhPV0VjRnB3Q1lPUURNVGlkZFVKUWNGTnZkVWRSNXFuV2VyRWUxVEoyTmI3d0VfaV94NTE3Nk1aNC1DNXExcGdfYjItenpHTGVV?oc=5",
+      "ts": "2026-10-16T14:15:12+00:00",
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 11.55,
+      "score": 11.64,
       "hits": [
         "seahawks",
         "sam darnold"
@@ -395,20 +391,20 @@
     "Global News BC": "ok (10)",
     "Vancouver Is Awesome": "ok (20)",
     "Langley Advance Times": "ok (10)",
-    "GN Langley": "ok (34)",
-    "GN BC Hazards": "ok (57)",
+    "GN Langley": "ok (31)",
+    "GN BC Hazards": "ok (39)",
     "CBC Canada": "ok (20)",
     "CBC Politics": "ok (20)",
     "Globe and Mail Canada": "ok (100)",
     "CBC Business": "ok (20)",
     "Bank of Canada": "ok (10)",
     "GN Rates & Housing": "ok (100)",
-    "GN Tariffs & Trade": "ok (80)",
-    "GN Canada Post & Transport": "ok (26)",
-    "BBC World": "ok (37)",
+    "GN Tariffs & Trade": "ok (81)",
+    "GN Canada Post & Transport": "ok (23)",
+    "BBC World": "ok (36)",
     "CBC World": "ok (20)",
     "GN Geopolitics": "ok (100)",
-    "GN Pharmacy": "ok (96)",
+    "GN Pharmacy": "ok (100)",
     "GN BC Health": "ok (10)",
     "GN Health Policy": "ok (1)",
     "GN Canucks": "ok (100)",
@@ -419,15 +415,15 @@
     "GN Blue Jays": "ok (100)",
     "GN Raptors": "ok (100)",
     "Electrek Tesla": "ok (100)",
-    "GN Tesla": "ok (45)",
+    "GN Tesla": "ok (43)",
     "The Verge AI": "ok (10)",
     "GN AI": "ok (100)",
-    "GN Local Safety": "ok (56)",
-    "GN TransLink": "ok (21)",
+    "GN Local Safety": "ok (50)",
+    "GN TransLink": "ok (23)",
     "GN BC Election": "ok (100)",
-    "GN Cost of Living": "ok (51)",
+    "GN Cost of Living": "ok (53)",
     "GN Apple": "ok (100)",
-    "GN AI Health": "ok (3)",
+    "GN AI Health": "ok (4)",
     "fantasy": "no roster on this runner: carried over 0 items from previous feed",
     "NHL scores": "ok",
     "NFL scores": "ok",
