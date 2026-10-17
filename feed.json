@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T23:37:30+00:00",
-  "generated_local": "Fri Oct 16, 4:37 PM PDT",
+  "generated": "2026-10-17T04:29:49+00:00",
+  "generated_local": "Fri Oct 16, 9:29 PM PDT",
   "scores": [
     {
       "league": "NFL",
@@ -10,25 +10,25 @@
     },
     {
       "league": "NBA",
-      "text": "TOR 26 @ DET 26 2:52 - 1st",
-      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard",
+      "text": "TOR 125 @ DET 129 F",
+      "url": "https://www.espn.com/nba/game/_/gameId/401908946/raptors-pistons",
       "fav": true
     },
     {
       "league": "NBA",
-      "text": "MIA 32 @ ORL 26 1:46 - 1st",
-      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard",
+      "text": "MIA 115 @ ORL 136 F",
+      "url": "https://www.espn.com/nba/game/_/gameId/401898406/heat-magic",
       "fav": false
     },
     {
       "league": "MLB",
-      "text": "TB 0 @ CLE 0 Delayed, Top 1st",
-      "url": "https://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard",
+      "text": "TB 0 @ CLE 0 F",
+      "url": "https://www.espn.com/mlb/game/_/gameId/401908026/rays-guardians",
       "fav": false
     },
     {
       "league": "NHL",
-      "text": "PIT @ COL 6:00 PM",
+      "text": "PIT 2 @ COL 5 F",
       "url": "https://www.nhl.com/gamecenter/pit-vs-col/2026/10/16/2026020119",
       "fav": false
     },
@@ -71,24 +71,24 @@
     {
       "league": "NBA",
       "team": "Raptors",
-      "last": "L 120-122 @ NY",
-      "next": "@ DET Today 4:00 PM",
-      "record": "2-2"
+      "last": "L 125-129 @ DET",
+      "next": null,
+      "record": "2-3"
     }
   ],
   "layout": "v2",
   "must_know": [
     {
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "ts": "2026-10-16T23:20:37+00:00",
+      "title": "Brent Crude Hits $110 as Global Wars Disrupt Oil Supplies",
+      "source": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTBqMl9KeW4xa1VnTHJ1ZWthWjJqMXBPM01kWUw1SWc5SXptY2FrR28tV09TQUt0LUxzX1ZaS0w2NUZUNjJ1eHRGVnZ5U3RRWHBidGU4cVJDV0F4ZHk4MlpEUUticWRENTdPMTkxUk94VjUwd3ZNMlFyUUlENmRuaVJVcEd0MnpqZGRTTjRLZElCS25DRVE1bHFOR1I5allZTE1iTlQxMXBhM3lGRkJhaWx2Tnh6TjFwWHhrUg?oc=5",
+      "ts": "2026-10-17T02:11:26+00:00",
       "category": "World",
       "section": "World",
-      "feed": "BBC World",
-      "score": 5.46,
+      "feed": "GN Geopolitics",
+      "score": 5.16,
       "hits": [],
-      "sources": 16,
+      "sources": 15,
       "severity": 2.5,
       "reason": "multi-source + severity"
     }
@@ -104,7 +104,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 14.7,
+      "score": 14.32,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -112,18 +112,17 @@
       ]
     },
     {
-      "title": "Sportsline: Arash Madani on the Blue Jays' collapse, Rogers' sports control and Raptors' title chances",
-      "source": "CHCH",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLThjZi05aW55SkdYS25jNVFKaDNDYjNld3VWNy1LQmlJYlgza01VMzVVVmpBSXZrei1IQmNUNU1DM0dzdW9xT09zaGdVVjFhcU0zN29ObUZ5eVlhQTllMzBJaWZfNG9FZG5zbTdnNWo2d2ZEYURXczA4eTkxcmZxdFBwVk9heTM1cGJxN0NJNDRwSkpSMXZiZmVBMnpRb0JONURVWHZLUE03eElOLUgzNzdoQmNGYWt0a0F4ZWxuNF81dFUxYlk2SA?oc=5",
-      "ts": "2026-10-15T19:50:55+00:00",
-      "category": "MLB",
-      "section": "Teams",
-      "feed": "GN Blue Jays",
-      "score": 12.87,
+      "title": "Tesla FSD Crash Liability: Who Is Responsible? [2026]",
+      "source": "https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05Ync1OGZGMU9raFdhTzMxV0dGdFQyeGRFMEpPdkV6VDdKVVZHSzJFOHd2UjlZN1c4UDB3c2RHZGR5ekFicERHZnpuUHAyR0hPS0hwdEVXeC03dGU0VHF3aXVJTEw3R1d0UVdqWW1xNGlLbzlMZ0FvNVZn?oc=5",
+      "ts": "2026-10-17T02:52:25+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "GN Tesla",
+      "score": 11.76,
       "hits": [
-        "blue jays",
-        "jays",
-        "raptors"
+        "tesla",
+        "fsd"
       ]
     },
     {
@@ -134,81 +133,80 @@
       "category": "Pharmacy",
       "section": "Health",
       "feed": "GN BC Health",
-      "score": 12.21,
+      "score": 11.58,
       "hits": [
         "outbreak",
         "measles"
       ]
     },
     {
-      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-      "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kajRCcnhqcVF4cnVLWC1YZW9kVC1uSEw5eGJDakpDQzNDVHlMbkNIellhTmdfODVFVFI4bUtTWGxMSkpObkZtY1BXaEk4T0ZGM29GVzkybXdMOFNxZEdWb0MzQXVvaEdlclF0T215YWZHRnRQV3c?oc=5",
-      "ts": "2026-10-16T20:49:04+00:00",
-      "category": "Tesla/EV",
-      "section": "Tech",
-      "feed": "GN Tesla",
-      "score": 12.09,
-      "hits": [
-        "tesla",
-        "fsd"
-      ]
-    },
-    {
-      "title": "Seahawks 'Have A Lot Of Faith' In Sam Darnold & Other Things From Mike Macdonald's Friday Press Conference",
-      "source": "Seattle Seahawks",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2VqUXdJdllfUUJiTjFhaWZraUcwaE9oV2ZuV3dLMjNhNFpOeGRjU21ySDJCUENGRW9Yc3VwUURTbnlwLXpUMjJMVWdyd0M1Q0l1N3NsMEF3Ujk2MkZEM2VQYkFPN2pORmIwNmEtVGlqZk5rZTc2NWkxemw0akdaM1YxQktDTjdjcnZtRXhRdVdqTG9wYlphZ0dBcUV4dnVTcWVOQ2VjNzd5Z29TTHFWcVhlYi0yMi1pZ19QWXB2T0ozajgxRUxpc2RkYUY?oc=5",
-      "ts": "2026-10-16T23:35:13+00:00",
+      "title": "Denver Broncos 17-14 Seattle Seahawks (OT): Denver defense overpowers Sam Darnold and defending champions",
+      "source": "Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVFkyRWNQTE9lVWVuNlBkelRYb0NHSElhRWRVRTd4TDFjZlJ1Z1lGZG0yYTE0ZWlQTGg0QUs2a1JlV2ZtR3g5OG1rUGRTTGtPeW5rcl93eVFqQmdGZjNJOVVjSklremNtWkZuRnFDMVNsOUhiR3JHUFpZeUVGMmNBMVRzRVFGcWs2NGRjeGVfOHhWd1l4NnlJZnNnS051OFVOamlKTzcwMzFvbUhHQUNmLWpfR0VwZ0hEUkpiZEYzSkhNTUlibFBRcHlveWJtSjVxeFppaC1QX01qM3RUT2tB?oc=5",
+      "ts": "2026-10-16T23:37:47+00:00",
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 11.99,
+      "score": 11.32,
       "hits": [
         "seahawks",
         "sam darnold"
       ]
     },
     {
-      "title": "╰┈➤LIVE🔥Detroit Pistons vs Toronto Raptors LIVE Free RESULTS: Card on SOON & NBA start time",
-      "source": "Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOeGdNREZoUEZKNl9fb1F2Tl9Ndkl3WUIwQ0J2QW0tNkZCck81Nl9acEJDWFpISms2aExvRkhyVmJFWjJJMDZCZWFYWXpwSWVjSlFVcS1MN0FGSG5XMGdOQ2lKOU93eUVpTTh0d05teEFlcUVXOUZITXE2RlAwNWNZcHlMZTZOVC1iX3F2M1lWOUEwUlA4T3A4UDdvaHY1WURfVGhTUW5qcURWT0wwTE1NdnFUMUtjSTlFdV82eDdiNVFjbVhmaTNjRlpTQTRmM2UzOHlSMG9WRmZIMTd0bUZzbUs1WmtQdGc2Tl9ST0pvS0xWZ0JuZ3JLM00yT2JVRVNsNDVTMkFTNXhVR1ZQY1FDeVUzSjhEaEdVZjhReXUtMnh5YjREdUNWc3dBTGJhTmFiUFpXVS1KS21TN1h4NURCSUt3RTJqVl84RHMtTElNdG1lRDEtMUtkRkFjSWlIS3BWSGhJdlhWQWRFS3dkRzcwaC1aNmRJd1VENEJwczBBVkxwMFNFY3RwWWVoN1ItSHYwZ2o0RDNBT0plN3NaZU5KZ3g4RTF1UVI1SzBmeEpzZDJjc28yQmc?oc=5",
-      "ts": "2026-10-16T23:04:14+00:00",
+      "title": "Detroit Pistons vs. Toronto Raptors - 3rd Quarter Highlights",
+      "source": "NBA.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHFmRW1VX2poY0VPc25IRWRBUmVuM19KMksyeDZHcHJKenZ4RjRaQXZEdGRMZmt2NUE2Vk1TdVlVOGc3bktqN1FFejRKQnh4SlBnR0VDSkxuc2psdTVUZjNoZ0pvXzJFQWdYeVMxbnFpQWZWbGdubWRCZW9yemFvbENGMGZCZlo5OXo2d0ZaZWF1c2ZDdG1LT0FGR1BETlhGYmI0UXVta3pyT2dHSExSME5PTWZYV29XdUNCY0MwOHdIRDZpbm1Z?oc=5",
+      "ts": "2026-10-17T02:27:32+00:00",
       "category": "NBA",
       "section": "Teams",
       "feed": "GN Raptors",
-      "score": 11.42,
+      "score": 11.2,
       "hits": [
         "raptors",
         "toronto raptors"
       ]
     },
     {
-      "title": "Grand Chief Stewart Phillip endorses B.C. Greens' Lowan, while backing Eby as premier",
+      "title": "Jackson-Davis has 23 points in Raptors' 129-125 loss to Pistons to end pre-season",
       "source": "Vancouver Is Awesome",
-      "url": "https://www.vancouverisawesome.com/national-news/grand-chief-stewart-phillip-endorses-bc-greens-lowan-while-backing-eby-as-premier-12901469",
-      "ts": "2026-10-16T23:05:08+00:00",
+      "url": "https://www.vancouverisawesome.com/national-sports/jackson-davis-has-23-points-in-raptors-129-125-loss-to-pistons-to-end-pre-season-12904994",
+      "ts": "2026-10-17T02:09:45+00:00",
       "category": "Local",
       "section": "Local",
       "feed": "Vancouver Is Awesome",
-      "score": 10.92,
+      "score": 11.16,
       "hits": [
-        "b.c.",
-        "eby"
+        "raptors"
       ]
     },
     {
-      "title": "VIDEO: Watch 27 B.C. election candidates face voters at Surrey forum",
-      "source": "Peace Arch News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUZCbkhXR0tHdTBuZUxzNUNucG04VldpSEdGTkhBNEVBZnVtdU9qQzhhQ0YtZHk4SVVqdzNVSVJCeEsyYWVpN0V3TURIcWMwTjF4YmV0cGZFSEswM1BjZHZqV0ZHVnhqN1Nud3F3S3IzOXB3LW9BbmttT0pjSUlwRS1UMU4xajhSTXlEanFyaUt5SHQxSE9VbHpIa1NycnNUVllKRFlKSQ?oc=5",
-      "ts": "2026-10-16T20:06:13+00:00",
+      "title": "One Bold Blue Jays Trade That Actually Makes Sense",
+      "source": "Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFNlU09KTmJUcXZrcHhiRzhkTl9MVHlLNmt1SFdDLUdqYzBZd0pfOXZORHB1SzU1NnpVTlZnSzZYNDBFb0lOeThQSG1NbHdiQndhUlJPcjAtTU5zclY4aVU1NE1wSzdkREk4VHdfSlhfTzZmSHFMemRtQTNqX3h4Z2pFRFZpclNVcks3RmdhNkw?oc=5",
+      "ts": "2026-10-16T17:00:02+00:00",
+      "category": "MLB",
+      "section": "Teams",
+      "feed": "GN Blue Jays",
+      "score": 11.07,
+      "hits": [
+        "trade",
+        "blue jays",
+        "jays"
+      ]
+    },
+    {
+      "title": "Surrey mayoral candidates eye the seat of a more powerful city if B.C. NDP keeps its promise",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUNnRteldLUmQxSFhpLV92NVRqaElFRlJwNnd0YkZ0Y2gxbVBNaXMwdWxDUVduOVRPSU4yYkJvTnp0bTJBelBzQjQwLTItcUZXNnhVME9tUWU3UQ?oc=5",
+      "ts": "2026-10-17T03:06:24+00:00",
       "category": "BC",
       "section": "Local",
       "feed": "GN BC Election",
-      "score": 10.49,
+      "score": 10.29,
       "hits": [
         "b.c.",
-        "surrey",
-        "election"
+        "surrey"
       ]
     },
     {
@@ -219,24 +217,38 @@
       "category": "AI",
       "section": "Tech",
       "feed": "GN AI",
-      "score": 10.33,
+      "score": 9.67,
       "hits": [
         "anthropic",
         "claude"
       ]
     },
     {
-      "title": "Oil Futures Rise on Middle East, Russia-Ukraine Concerns",
+      "title": "Oil Climbs as Fighting Flares in Middle East, Ukraine",
       "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlhVbW1hN3VaS2xQWTRNVHc1MGNIektPR0wzd2V5LWEtcmtZUXRSY1ZWYjJjSUVZZElTaFV4c0VfSnJhbHhBdGlHbjE4bkZDN0lfTnNxLXFxeFR3bnVqY21tSl9YdkZHTlY4VjYwYTVxZmFZV181ZHo0RXVFOEw0UDJoVXNYbWpfT1d2cHUza0FBekFXZzRRMTZlUkJYd2RUSlFxWEhLTHVRNjVZRk9xa0JhQzl0UQ?oc=5",
-      "ts": "2026-10-16T20:01:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
+      "ts": "2026-10-16T22:17:19+00:00",
       "category": "World",
       "section": "World",
       "feed": "GN Geopolitics",
-      "score": 9.98,
+      "score": 9.65,
       "hits": [
         "ukraine",
         "middle east"
+      ]
+    },
+    {
+      "title": "Argonauts' Chad Kelly ruled out vs. Redblacks with apparent injury",
+      "source": "Sportsnet.ca",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVhJTlhRUXRyTnUzWHlSU1VQTERYT3pydTZiLXBrMzE2Z0xZVnVWWWNwUmx4NEwyeU1kbUowaDJYdXV2cGg1dGNfY3pRczljOVNhY192LVllZXhNVW5yUUFZMWdkODZDSHRxZGVBOEJnX2ZybnMtbWxPbzlQTkF5WTFYVDNuY2t0NlJpNjgwdHN2OXVQNFJaWWZzWHQ2dlk?oc=5",
+      "ts": "2026-10-17T03:26:00+00:00",
+      "category": "CFL",
+      "section": "Teams",
+      "feed": "GN BC Lions",
+      "score": 9.34,
+      "hits": [
+        "injury",
+        "ruled out"
       ]
     },
     {
@@ -247,35 +259,21 @@
       "category": "Money/Policy",
       "section": "National",
       "feed": "GN Rates & Housing",
-      "score": 9.3,
+      "score": 8.91,
       "hits": [
         "interest rate",
         "bank of canada"
       ]
     },
     {
-      "title": "Week 20: BC Lions at Calgary Stampeders",
-      "source": "CFL",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rSUhjWjRzRXJiYzlTN09XSERYd0NzaF9GR0FBXy1sNmRqLU1aVjdiLWpKeDZEZ2hFbHo4NFNfam5iMUsxTzBIcXJ2dExVbE40eENZTEZvWGxnYm9qbXItZ09aRmFfUVJOZFI1SmJB?oc=5",
-      "ts": "2026-10-16T01:28:43+00:00",
-      "category": "CFL",
-      "section": "Teams",
-      "feed": "GN BC Lions",
-      "score": 8.2,
-      "hits": [
-        "bc lions",
-        "lions"
-      ]
-    },
-    {
-      "title": "Gas prices falling in Toronto and southern Ontario",
-      "source": "insauga.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVFiZi1rM21KSm5QWkZaczdQelA3VHVhRWRSaDI5VkROaUpGWUJYQVZIbExJTUh3XzZDYmtkWHR0MGpKOVo5S21GWFpMYUJLd0xFRHhteTdSVVQ0NkhmQWVoWHp4OHZ4eUcwUDE5ejFvUVZNVHpUUlpuOWJMcnhqZA?oc=5",
-      "ts": "2026-10-16T18:20:06+00:00",
+      "title": "COMMENTARY: What’s Up With Gas Prices, Anyway? – Grady Semmens",
+      "source": "EnergyNow",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ3NVTzExdlNCa2FlWlUzcHZoakhVa2Rja1dYQnpBVGZ4a2pMVHhDZjhMWmQtTURMTkFlak05R2xGUXktMzI3OFRxWW9PRk1NRktZVDlfSzhNMFl3N25XdlZXVkJSMm5lM2h0VWZpdVRORFg4eFpNeG1YRG50aHBSRW5nZjZHTldsX0dkYzdPdw?oc=5",
+      "ts": "2026-10-17T01:12:46+00:00",
       "category": "National",
       "section": "National",
       "feed": "GN Cost of Living",
-      "score": 7.26,
+      "score": 7.52,
       "hits": [
         "gas prices"
       ]
@@ -288,7 +286,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 13.07,
+      "score": 12.8,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -304,7 +302,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 12.8,
+      "score": 12.58,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -313,73 +311,75 @@
       ]
     },
     {
-      "title": "Canucks' Elias Pettersson: Nets third goal of season",
-      "source": "CBS Sports",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOME9IaExNaWFHekJHMmxITVVweWpIRTNoZEdMVlZ3Q1RYdUJ6b0JPMTVCd1g5aVA1UG9xZjBRXzFYYUFEYzBNVjl6dmUwNGpqeXd6X1kzOVlfZFI2NXdEb2pGeUdhd1RGNkpMVXZXNTF6U2lsWEthbWlJZ0RUYnh3OHJhWGJTS3JfQ29hUlo3MTdvbjBjdXBYeVpjTmVaQQ?oc=5",
-      "ts": "2026-10-16T17:22:11+00:00",
+      "title": "Maple Leafs acquire forward Aatu Raty from Vancouver Canucks",
+      "source": "Toronto Sun",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHp6OGVqUWdZcGlGTlBCaGhvaG01eDJwR3pGbkpMUm9XX1B0eGxzNWhyTlI1bHZRc1pGckVVZzZTdGtBZ0tjekN3ckJLclJCZlljaWxMY21QcDlaQ0JDcUtjQ29KQ3h2ZDZGb2FRWHhlTl9HLUszZHJZVldyNTJyTm1PczdFbDdjemI1ZUw2MXRoNDdYRDRhWk9jYWpaOWdBYmF1N0VNbWJwR1V1?oc=5",
+      "ts": "2026-10-16T06:16:27+00:00",
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 12.64,
+      "score": 12.2,
       "hits": [
         "canucks",
-        "pettersson"
+        "vancouver canucks",
+        "vancouver"
       ]
     },
     {
-      "title": "Tesla FSD crash injures 2 officers on Interstate 80",
-      "source": "NewsBytes",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTTN2M2Y1SlY4dDlOVnZ4Y1g0QUl5NmMwZXNGSVFfLTFQN0I5NXNiTF9KakdpZUhaUXlMeV80ZW84SWZrTzZDenNsX1MzbVJXV3Zub0pseFFyOHppcWhrTEttbXRMQnYzU0VBMWF2b2NpemJCNUxzMEV0cGFsaUZTNllQOEtQN0tDY0psaDBqTVBlV19oVi1JQnFaaw?oc=5",
-      "ts": "2026-10-16T22:41:59+00:00",
+      "title": "Pierre Ferragu Says Tesla FSD Could Be At An 'Inflection Point,' Compares It To The iPhone Playbook — 'Give Us 2 More Quarters'",
+      "source": "Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1VXbFFIak5YSjF2dUZvQ2R4TTd4dFpoMmdhWm81UGFwRnZwSnZ4UkNDeG9ERmpxMjlkQWNFbE8ycmVLVnVxRkZpNmFMMmNRVldEOXVYUTlIX2JBYVAxZ1d6WktMekZfdWNjTTlMZllDcTNLcXE1SXNHVm9tQkZ5aXZiUVRtNjVnZ25NdVM3ZV9TQjlXNUFvSS1kd1NkLTF2ek1aN25FQ0RISHVHVER5R3J3aklKVlNLMHFvNFJB?oc=5",
+      "ts": "2026-10-16T06:27:33+00:00",
       "category": "Tesla/EV",
       "section": "Tech",
       "feed": "GN Tesla",
-      "score": 11.86,
+      "score": 11.71,
+      "hits": [
+        "tesla",
+        "fsd",
+        "iphone"
+      ]
+    },
+    {
+      "title": "Sleeping Tesla Driver on FSD Injures 2 CHP Officers [2026]",
+      "source": "https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsZ0x0dkxUd1dCa09feXQ5bzNnTlR6THVBZkRiOGlzYV9wdzYtUlE5VG5zd3QwWER1VlRUVVloTnAyTEtYNEFucXROMktRY0kzLUx4S2k3Vi1IUmxfbE54bjVMVmJsenk3OFc2TXJsZ2lOOXpv?oc=5",
+      "ts": "2026-10-17T01:54:39+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "GN Tesla",
+      "score": 11.62,
       "hits": [
         "tesla",
         "fsd"
       ]
     },
     {
-      "title": "Tesla Running FSD Slams Into Police Cruiser After Driver Falls Asleep Behind the Wheel, Hospitalizing Two Officers With Serious Injuries",
-      "source": "Futurism",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zdVM5QmVBTWFEOGF3MnlZbXZGaVdFUU5WOUduWGdBbFlzeFA0NDJtVUh3czl5Q2swMTA2czYzdlpBdW1zMmhVUGlMNkhNZ2xXYkE5ZmhkVVZwaHNndU5rU29LU3BsRTIzWnZvcmJhM2FCSzZI?oc=5",
-      "ts": "2026-10-16T22:24:08+00:00",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kajRCcnhqcVF4cnVLWC1YZW9kVC1uSEw5eGJDakpDQzNDVHlMbkNIellhTmdfODVFVFI4bUtTWGxMSkpObkZtY1BXaEk4T0ZGM29GVzkybXdMOFNxZEdWb0MzQXVvaEdlclF0T215YWZHRnRQV3c?oc=5",
+      "ts": "2026-10-16T20:49:04+00:00",
       "category": "Tesla/EV",
       "section": "Tech",
       "feed": "GN Tesla",
-      "score": 11.82,
+      "score": 11.48,
       "hits": [
         "tesla",
         "fsd"
       ]
     },
     {
-      "title": "Seahawks QB Sam Darnold was brutally honest after loss to Broncos",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelJoWFJaczFyZXVUZTV6Y2pKRVEzbVp2X1pxRy1lS3ZLVE1vdVItX0YxblY0d3QzMlVMUzNsYkpJYnp2X3c4ajJvQksyckpYdjdDTEVjbDYyQzhnbkNYRHo4V2UtdU5VdFFkeVVENDhPcUc5Wi1rVmlrS1NzeU9LVnhzZlpWVWhs?oc=5",
-      "ts": "2026-10-16T21:30:51+00:00",
+      "title": "Seahawks 'Have A Lot Of Faith' In Sam Darnold & Other Things From Mike Macdonald's Friday Press Conference",
+      "source": "Seattle Seahawks",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2VqUXdJdllfUUJiTjFhaWZraUcwaE9oV2ZuV3dLMjNhNFpOeGRjU21ySDJCUENGRW9Yc3VwUURTbnlwLXpUMjJMVWdyd0M1Q0l1N3NsMEF3Ujk2MkZEM2VQYkFPN2pORmIwNmEtVGlqZk5rZTc2NWkxemw0akdaM1YxQktDTjdjcnZtRXhRdVdqTG9wYlphZ0dBcUV4dnVTcWVOQ2VjNzd5Z29TTHFWcVhlYi0yMi1pZ19QWXB2T0ozajgxRUxpc2RkYUY?oc=5",
+      "ts": "2026-10-16T23:35:13+00:00",
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 11.69,
+      "score": 11.31,
       "hits": [
         "seahawks",
         "sam darnold"
-      ]
-    },
-    {
-      "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
-      "ts": "2026-10-16T17:14:43+00:00",
-      "category": "Tesla/EV",
-      "section": "Tech",
-      "feed": "Electrek Tesla",
-      "score": 11.63,
-      "hits": [
-        "tesla",
-        "fsd"
       ]
     }
   ],
@@ -388,21 +388,21 @@
     "Global News BC": "ok (10)",
     "Vancouver Is Awesome": "ok (20)",
     "Langley Advance Times": "ok (10)",
-    "GN Langley": "ok (16)",
-    "GN BC Hazards": "ok (48)",
+    "GN Langley": "ok (12)",
+    "GN BC Hazards": "ok (43)",
     "CBC Canada": "ok (20)",
     "CBC Politics": "ok (20)",
     "Globe and Mail Canada": "ok (100)",
     "CBC Business": "ok (20)",
     "Bank of Canada": "ok (10)",
     "GN Rates & Housing": "ok (100)",
-    "GN Tariffs & Trade": "ok (72)",
-    "GN Canada Post & Transport": "ok (21)",
-    "BBC World": "ok (37)",
+    "GN Tariffs & Trade": "ok (67)",
+    "GN Canada Post & Transport": "ok (22)",
+    "BBC World": "ok (32)",
     "CBC World": "ok (20)",
     "GN Geopolitics": "ok (100)",
     "GN Pharmacy": "ok (100)",
-    "GN BC Health": "ok (12)",
+    "GN BC Health": "ok (10)",
     "GN Health Policy": "ok (1)",
     "GN Canucks": "ok (100)",
     "ESPN NHL": "no element found: line 1, column 0",
@@ -412,13 +412,13 @@
     "GN Blue Jays": "ok (100)",
     "GN Raptors": "ok (100)",
     "Electrek Tesla": "ok (100)",
-    "GN Tesla": "ok (56)",
+    "GN Tesla": "ok (72)",
     "The Verge AI": "ok (10)",
     "GN AI": "ok (100)",
-    "GN Local Safety": "ok (42)",
-    "GN TransLink": "ok (15)",
+    "GN Local Safety": "ok (57)",
+    "GN TransLink": "ok (20)",
     "GN BC Election": "ok (100)",
-    "GN Cost of Living": "ok (49)",
+    "GN Cost of Living": "ok (52)",
     "GN Apple": "ok (100)",
     "GN AI Health": "ok (4)",
     "fantasy": "no roster on this runner: carried over 0 items from previous feed",
