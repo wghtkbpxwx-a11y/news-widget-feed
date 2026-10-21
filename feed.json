@@ -1,7 +1,13 @@
 {
-  "generated": "2026-10-21T11:52:08+00:00",
-  "generated_local": "Wed Oct 21, 4:52 AM PDT",
+  "generated": "2026-10-21T17:14:19+00:00",
+  "generated_local": "Wed Oct 21, 10:14 AM PDT",
   "scores": [
+    {
+      "league": "NBA",
+      "text": "CHI @ TOR Wed 4:30 PM",
+      "url": "https://www.espn.com/nba/game/_/gameId/401909837/bulls-raptors",
+      "fav": true
+    },
     {
       "league": "NFL",
       "text": "KC @ SEA Sun 5:20 PM",
@@ -9,15 +15,9 @@
       "fav": true
     },
     {
-      "league": "CFL",
-      "text": "TAT 24 @ WBB 23 F",
-      "url": "https://site.api.espn.com/apis/site/v2/sports/football/cfl/scoreboard",
-      "fav": false
-    },
-    {
       "league": "NBA",
-      "text": "BOS 113 @ DET 121 F",
-      "url": "https://www.espn.com/nba/game/_/gameId/401909088/celtics-pistons",
+      "text": "ATL @ ORL Wed 4:00 PM",
+      "url": "https://www.espn.com/nba/game/_/gameId/401909834/hawks-magic",
       "fav": false
     },
     {
@@ -78,6 +78,22 @@
   "layout": "v2",
   "must_know": [
     {
+      "title": "Putin agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says",
+      "source": "Vancouver Is Awesome",
+      "url": "https://www.vancouverisawesome.com/the-mix/putin-agrees-to-resume-three-way-talks-on-ukraine-war-with-kyiv-and-washington-kremlin-says-12919157",
+      "ts": "2026-10-21T15:31:08+00:00",
+      "category": "Local",
+      "section": "Local",
+      "feed": "Vancouver Is Awesome",
+      "score": 9.74,
+      "hits": [
+        "ukraine"
+      ],
+      "sources": 4,
+      "severity": 3,
+      "reason": "multi-source + severity"
+    },
+    {
       "title": "After more than a year of measles transmission, Canada’s outbreak ends but its elimination status remains lost for now",
       "source": "Niagara This Week",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHZSWEthZkJscUZCX2c1OXVSTkM5TTlEMDhBUi1FNUw0dkp3TGs4U1FXeDZ5M0FnS19wLUdYUkxNTzdkNjkyTTFiSk9mMkRQMU1pVzAtZVBIZkNzRzVQMW9lQ1hEZkRrbUFNbW1Pbml3bVdtdy1BTFh4eV85aWdJY3g2X0k5SDJsYmthYXFSbkNrcGNsOHE3U3JWc0xIMzh3SlZWWXY0alZSdkRKcnJFdDZ0a04yVDdWT21UZUN6MGV3clZpdUp6Uw?oc=5",
@@ -85,45 +101,13 @@
       "category": "Pharmacy",
       "section": "Health",
       "feed": "GN BC Health",
-      "score": 9.82,
+      "score": 9.39,
       "hits": [
         "outbreak",
         "measles"
       ],
       "sources": 4,
       "severity": 2,
-      "reason": "multi-source + severity"
-    },
-    {
-      "title": "Langley harness driver killed in crash",
-      "source": "Langley Advance Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMnAySHd3dWo3ZEMzVkRDWXk0R21NNWVfSkNuMGVaYzFmWFF2RFdMNUZHZXRnRGFETGVlOFlOMk9LRnFsRGtVMGxEZ3YxNWw1MDYyZzJZYWVvUHlfblpLMk1LRm9FTjBIME5jLXI3QUJpMEgzd011RUEtZWw4N0ZIamxCZnVLMS1uWEE?oc=5",
-      "ts": "2026-10-20T16:12:57+00:00",
-      "category": "Local",
-      "section": "Local",
-      "feed": "GN Local Safety",
-      "score": 10.38,
-      "hits": [
-        "langley"
-      ],
-      "sources": 3,
-      "severity": 3,
-      "reason": "multi-source + severity"
-    },
-    {
-      "title": "Oil prices jump $2 as Iran knocks hopes of diplomatic progress",
-      "source": "Euronext Markets: Real-time Stock Market Data | live",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUFplSlVJaElqcFdWWl8yRXlhaThuMUVEaE1lcHlqeENzTmxUeXljM1FxRS1Wenhpb25hRVplTkxEdHYyakRoRHF0ZkFDc05RUEhsSV9YcHYxdnVfd2QtM09rZ0RwcXRrQjFyLXF3UG1vbWVBV3RHdWxueXctSVNKU2NxckxZOGYwb01GbVQ1ekc4cldvYm1wRndTakFyVl9M?oc=5",
-      "ts": "2026-10-21T11:10:23+00:00",
-      "category": "World",
-      "section": "World",
-      "feed": "GN Geopolitics",
-      "score": 7.39,
-      "hits": [
-        "oil prices"
-      ],
-      "sources": 3,
-      "severity": 3,
       "reason": "multi-source + severity"
     }
   ],
@@ -138,7 +122,7 @@
       "category": "Local",
       "section": "Local",
       "feed": "Langley Advance Times",
-      "score": 15.55,
+      "score": 14.98,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -146,34 +130,49 @@
       ]
     },
     {
-      "title": "Carolina Hurricanes at Vancouver Canucks - NHL Game Summary - Oct 20, 2026",
-      "source": "USA Today",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPczMtel85ckZ4RmF5VDdZU0VXNjhWVFMwenBxRE5FLTBGdFVjb3MweTExeDU1UUhQdmlrWEMwd2twdk00Szhqd240dGJUeHdfcGlCMkhLa25sWGxOeHBhZXJOVkl4bEdSWFJQdU9MNzNaU0ptYTRyMjdqMzNrQlFMYTk4TXc1YWdtWGNnQ29KaGNnSGlZTTNHeDNXYkZXajV5UTBQYXlRZFloTVhSX1dJR0p0ZThLaWJ4aDN0Mzh0N2pvSlFCZVNLZEFPU0cyV0hvY0xFS2N0cTZ0eEgybXYtbWR5aTc1TmJwb0d5RUwydw?oc=5",
-      "ts": "2026-10-21T04:50:15+00:00",
+      "title": "DEUCES WILD! Carolina Hurricanes Complete Regular Season Sweep of Vancouver Canucks Tuesday Night",
+      "source": "WLTX",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOMktHUjg2ZWFPOENOX085bWQ4QTRfelFvdTBhcFJ6THBMOU1hWUJFWm85N0ZGaThQcm5WekhGOEkzMGViNkp6R0hZaTVrSnJmSjZfb0tzLUVERUtlcEwtMk52UThIVzRuLXRkSFpIbENXdEhkUVo1NHkwUVhlT3JfZFRnZFF0MGs5TndhbVVhRDdNOFZPaWtMRkd1ODQtT3pPeENNMkZVSk5kVHJGNHEzcGx6dWdlclBHWnVFcFo0UndLSFV1WllxRUFTS3hIV1JaYjVRUURRamtlWHlKZFZOTE9xMVRLREE3bHJ5bFdPZU9nU3dual9DVGxOYlN2VXdXVmNnVngzT1BzOC1hYmFNYlYwZ1RKV29fVnZoRmNPMElOSU9meXJtakNkWWVRN0w0SFROQQ?oc=5",
+      "ts": "2026-10-21T14:59:00+00:00",
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 14.05,
+      "score": 14.17,
       "hits": [
         "canucks",
         "vancouver canucks",
-        "vancouver",
-        "nhl"
+        "vancouver"
       ]
     },
     {
-      "title": "Chicago Bulls Announce Injury Report for Season Opener vs. Toronto Raptors",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2dNVlJScTdtUWh3ZlRSMTlaeGdQcDZoVTRpaFA4VXF0X3ZwcGlCaVdGQnZPZS1ObVZMcDJxWVBjLVlwTTh5YW1RWV9EUmFfVzJsWWNWZGZhUDZTdXE1bVZPYjRFaWUyTEI0OGxNQWdVczhJc1pha283c3lwWVNHdTB0ZDV4bkg3OW9ZaU5B?oc=5",
-      "ts": "2026-10-21T05:10:00+00:00",
+      "title": "Toronto Raptors Injury Report and Analysis vs. Chicago Bulls",
+      "source": "roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUk0VzNkRFJXMlRzR1drLWVMODdDYmJyaEFkRThlaTdpc09IZEVNTnFpalNNdjZ0bXJQa2xwbzkybmJZS2o4RlJzb1pDczVRMmtTQnpmQ3FpcndqYnp4UTlGTXlVTlMyel9wV2ZKV01od1Zjakh4aHEzY21NaUhiWUxGU3FyOHZOenFHYi1HbDl6UUI3c0dYRm9tOS1oRHpnUmRnRUVTXzE?oc=5",
+      "ts": "2026-10-21T15:32:44+00:00",
       "category": "NBA",
       "section": "Teams",
       "feed": "GN Raptors",
-      "score": 12.09,
+      "score": 12.75,
       "hits": [
         "injury",
         "raptors",
         "toronto raptors"
+      ]
+    },
+    {
+      "title": "Seahawks Urged to Pursue Eagles RB Saquon Barkley in NFL Trade Deadline Move",
+      "source": "Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0VZMVgxcWlLWS15bFdoZy1Da0ZRUDlOR3R5blFybmgzU1htNFcwZzg5bktMXzFjTzRjb3RTeGwyNmFxN0VHQWF5S1Fuai1jMk1na29YRlhrNTg4eExnaktGczhKZ1dsaXlZeDJuZDc5UWtBemZlWVFZQlFHOS1GT3NsenhiR3NYR29iWERtYzNxRVVtLXFyakpvNHdFTlQyVWFaVWJaZ25QUml0TU9xR0lnVQ?oc=5",
+      "ts": "2026-10-21T13:00:03+00:00",
+      "category": "Football",
+      "section": "Teams",
+      "feed": "GN Seahawks",
+      "score": 12.4,
+      "hits": [
+        "trade",
+        "seahawks",
+        "trade deadline",
+        "nfl"
       ]
     },
     {
@@ -184,11 +183,39 @@
       "category": "BC",
       "section": "Local",
       "feed": "CBC BC",
-      "score": 11.86,
+      "score": 11.51,
       "hits": [
         "canucks",
         "vancouver canucks",
         "vancouver"
+      ]
+    },
+    {
+      "title": "Blue Jays Emerge as Top Landing Spot for 2 Coveted Free Agents",
+      "source": "Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMENDSEVZN0QydUtFVHJabkJJcVhBdFBsMVhQclZFemdqV003V09Md0pybXpXYWcxSll3VTRGTmtvZ1llX0JIcmR2Q1BGX09xN0VDejlMOGJmNWRpMFZLM0xETjI4Vm1uZW40RjdoNHh6b0phSlA2ei1EU25HUHkweUZlLXRIbndxRTA3alFTS3pkZU5aSVRv?oc=5",
+      "ts": "2026-10-21T17:00:01+00:00",
+      "category": "MLB",
+      "section": "Teams",
+      "feed": "GN Blue Jays",
+      "score": 11.46,
+      "hits": [
+        "blue jays",
+        "jays"
+      ]
+    },
+    {
+      "title": "How to talk to vaccine-hesitant patients: tips for pharmacists",
+      "source": "The Pharmacist",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFNNdGpsV0VvWmNwazJQb0I3WHNrZnRXM215c0otRS02cEFTcXlVb1pBbDZUQlRtZzRGcUNnbkp6cUZLMkR0SWg4MkZjQkVjRjhXUkV3cktTeXozc0lDRzdCdE5qdEd2SFp5RGtocjdqOGVnbmNndFYyajVuXzNRdDREWDZfWlluTGI4Z3pQSElMQjdWMmQtcTg2bUEzQ0dsR040dnZOQlZBZW8wN01ocjIwb29CNTVsaG4zNmZxN3hUZVVNLWNNMnU1OA?oc=5",
+      "ts": "2026-10-21T11:36:36+00:00",
+      "category": "Pharmacy",
+      "section": "Health",
+      "feed": "GN Pharmacy",
+      "score": 10.72,
+      "hits": [
+        "pharmacists",
+        "vaccine"
       ]
     },
     {
@@ -199,82 +226,38 @@
       "category": "Tesla/EV",
       "section": "Tech",
       "feed": "GN Tesla",
-      "score": 11.31,
+      "score": 10.69,
       "hits": [
         "tesla",
         "fsd"
       ]
     },
     {
-      "title": "Blue Jays Send Spencer Miles Warning After Breakout Heroics",
-      "source": "Yahoo News Singapore",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnMUFmNzhDV19jc2xVdjVjNGlaMnFwVjE2SkN5Z1J2cTljWGxwSlBRczU2MGpMNEUyY0IyZHJZeDRHMmZmZTVGZ2JMLS1NUmFIV2FLYy1KVGlxaFdSTEdDNmtYN0JSWFJjYkZSNHM3azJkRl81b2l6NA?oc=5",
-      "ts": "2026-10-21T10:00:00+00:00",
-      "category": "MLB",
-      "section": "Teams",
-      "feed": "GN Blue Jays",
-      "score": 11.22,
-      "hits": [
-        "blue jays",
-        "jays"
-      ]
-    },
-    {
-      "title": "How to talk to vaccine-hesitant patients: tips for pharmacists",
-      "source": "www.thepharmacist.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFNNdGpsV0VvWmNwazJQb0I3WHNrZnRXM215c0otRS02cEFTcXlVb1pBbDZUQlRtZzRGcUNnbkp6cUZLMkR0SWg4MkZjQkVjRjhXUkV3cktTeXozc0lDRzdCdE5qdEd2SFp5RGtocjdqOGVnbmNndFYyajVuXzNRdDREWDZfWlluTGI4Z3pQSElMQjdWMmQtcTg2bUEzQ0dsR040dnZOQlZBZW8wN01ocjIwb29CNTVsaG4zNmZxN3hUZVVNLWNNMnU1OA?oc=5",
-      "ts": "2026-10-21T08:35:02+00:00",
-      "category": "Pharmacy",
-      "section": "Health",
-      "feed": "GN Pharmacy",
-      "score": 11.02,
-      "hits": [
-        "pharmacists",
-        "vaccine"
-      ]
-    },
-    {
-      "title": "Seahawks Urged to Target Eagles Tight End Ahead of Trade Deadline",
-      "source": "Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGo2MjhscFVZVzdnQ2x1YTBFaG9WcE9zVzY5dkdPMk9yVjVzc3R4dVY1YmFjeTJlVDM1QXRyVTl1T2F2c3FGYlg5NUZ0VVA1RjZtM0EyUmw4OUtQcmZuZUxEbDYxbVJEbnVncFRiWklRRkNTMU1hWklaejJ5N29nelR0M3ctTHpfNms4dTlMbnB0WW56aEVLQjMydEZQTWJBNWJCeA?oc=5",
-      "ts": "2026-10-20T23:30:00+00:00",
-      "category": "Football",
-      "section": "Teams",
-      "feed": "GN Seahawks",
-      "score": 10.98,
-      "hits": [
-        "trade",
-        "seahawks",
-        "trade deadline"
-      ]
-    },
-    {
-      "title": "Replit Favors OpenAI for Agent, Keeps Claude Choice",
-      "source": "quasa.io",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUFVwSzlNX19JZHZPcW15ZmtPckY4V3djcjBNUGxJTDBqempZRnFTUWEtUng5YVFrRjVGN1NBUWFld3lJMUtxYjM0cDQ4RmhwSHo3WUhFTlhSNzdIUUs1VkdEY0Fvc0d0eEFNWHVxb0VaZ2wxRG9abC1GS1pmclp0OFo2TEN0Uk1UMXNLY0FDSUZfNnJFamoyWVhBY3I?oc=5",
-      "ts": "2026-10-21T10:00:00+00:00",
-      "category": "AI",
-      "section": "Tech",
-      "feed": "GN AI",
-      "score": 10.22,
-      "hits": [
-        "openai",
-        "claude",
-        "agent"
-      ]
-    },
-    {
-      "title": "Oil Prices Rise as Middle East Supply Concerns and US Inventory Decline Support Crude",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1Y3aHk2TEpMc2d0SlRteFJReFNYRXVjZEp5MnFEaDZ5b09Ea21yRzBvazRZb0QyMG1aZ3laQVF6ZnpUNVRVTWRIVkI3bFc4NExqNDBlUkVaNTAyQWljd3F6YTZXdjdUWkVPNTRBRklUUW5FTURRNVRYMzdHRWRQeEIwY0dlX0trS2RTZw?oc=5",
-      "ts": "2026-10-21T10:00:12+00:00",
+      "title": "Energy briefs–oil prices continue to be impacted by violent Middle East",
+      "source": "Oklahoma Energy Today",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLTNQdFduLVFfaEZZUjhxM2F2ajl4RGozSUtKMmhxRmNodThpM08xeUVSc1ZZX3pmUUw5d01BSVRDNF93OU5XOHZkb2JzdjNySEJqcTBteE9XMDBud1BPMEFwcVI3WndGWnVnNEZxT1dUbU9fNHFrSnQ4M2ZFWllMWUFGTFJ2dldDdTZGZWdSSHBReThQWlBOaUZuY0VPU1Q5ckhmQzVaZzBwdw?oc=5",
+      "ts": "2026-10-21T16:59:51+00:00",
       "category": "World",
       "section": "World",
       "feed": "GN Geopolitics",
-      "score": 9.72,
+      "score": 9.96,
       "hits": [
         "middle east",
         "oil prices"
+      ]
+    },
+    {
+      "title": "‘TRUMP’S BIGGEST GOOF-UP!’: Abdul El-Sayed Unleashes At Canada Tariffs; Declares Mark Carney’s Win",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWG4wWGIwZElGMEZqSFNJbVFrc2haSjRWcUpueV91cjljbzI3QWREQ0pXTV9sbTdBRElaMUtGaW1uZk4tLXBKazl5OG9sMlZydUpybFdGQTg5WURVU2lPT21YeHVhYmRsMmpsN3Z4NEJUR0l4bTZhV1Mxd0d4bFdRSzc4bWlRUXhuZWJvVUEyRVY2aHYweVcxNkF2Q1F5VXdMaHpUVUlsTWlYaXdVMi1FQjZZVFhXZVViLTVkZ2F5YURQczJZTkM5cDlkanZWTGVNVjB3OEtBS2JhWXJ3VWdsWWk0cGdub09qUTRIS1J4X0tsMldseFhsZ0tBRGFOeklqMEHSAYcCQVVfeXFMT0VGSDA5UTQ0NEV1MXg4YWhaZG4tMTlzbk9wem9iZUZJMk5YU1ZHeVJrdkVwVkpoandhWmlhT1hHckF0elJWWlFGcHpYM3UtbDdYb2twbERjMkdSbFFJWWIzeHVsMVZlT1hiUkFKZmpEUkF4bnp3TzFqQU93d3N0VjZGR3Y0dVZfR1phM2IxR2ttQUN6dVJWalljTDNMd21rRGNPRG1WTFR4NlRzVzNwOWJsa0Y3dzIzaFdpVzEtWEtweVNFRVRnbjRZTU40aXQ4Y29rVEF5YjltaVlVWU4tTmh3UjVMQkt6RmVMT01qeFZCYllyc204U3V0WEhFNWpmWmtBRGdqWnc?oc=5",
+      "ts": "2026-10-21T16:54:36+00:00",
+      "category": "Money/Policy",
+      "section": "National",
+      "feed": "GN Tariffs & Trade",
+      "score": 9.45,
+      "hits": [
+        "tariffs",
+        "carney"
       ]
     },
     {
@@ -285,11 +268,25 @@
       "category": "CFL",
       "section": "Teams",
       "feed": "GN BC Lions",
-      "score": 9.39,
+      "score": 9.22,
       "hits": [
         "vancouver",
         "bc lions",
         "lions"
+      ]
+    },
+    {
+      "title": "Citrini Research let Anthropic's Claude design scorpion antivenom: 211 proteins tested, 17 binders, then months of waiting on the lab",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWldMdUUxUHliNHltczFOUV9nY0hQVjFIaTlHRkQ5WkhBbW9pNERKOUhkNmI3VWNjaVlmRE01TXU2eVRkM2RhaWNvWVVXUS0yZF9SZWVWaDJPdTdSVFpJWWN5Q2hONm1WckpoWVI3bUJaeTd3ZWhkOGhEeWJGejJudlpORVVfR2k5aDZZVVBOODZWeXhjdVl0dUROVXNSN2xDSE1CaGZXSkgwZEd3S1drRGdXNE5FWG9WYTUySTViOE1kUy14bWtnRlFfU21mcjgzNzE2akJxRGRER2c5M21nSXA0OTNGWGdRZHJEWVAtUE03cG9lTnVJ?oc=5",
+      "ts": "2026-10-21T14:10:31+00:00",
+      "category": "AI",
+      "section": "Tech",
+      "feed": "GN AI",
+      "score": 9.05,
+      "hits": [
+        "anthropic",
+        "claude"
       ]
     },
     {
@@ -300,35 +297,21 @@
       "category": "National",
       "section": "National",
       "feed": "Globe and Mail Canada",
-      "score": 8.72,
+      "score": 8.03,
       "hits": [
         "b.c.",
         "election"
       ]
     },
     {
-      "title": "Lawsuit challenging Trump's tariffs against Canada filed in U.S. Court of International Trade",
-      "source": "CBC",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85dHdELUtqbUZOU2dvWHJqQ3dNd2ZxTVpUR3hndl9rUENQNjJyUkVpLWhSUm91VEttbFRJNHdERnFCZ2cwQUZsdkRtZ1c2M21kNnFXOVlVUTZUeTVXZlplbGp1S0kwbENmTmhkUlRR?oc=5",
-      "ts": "2026-10-20T23:14:13+00:00",
-      "category": "Money/Policy",
-      "section": "National",
-      "feed": "GN Tariffs & Trade",
-      "score": 8.46,
-      "hits": [
-        "trade",
-        "tariffs"
-      ]
-    },
-    {
       "title": "'It sucks losing': Vancouver Canucks struggling through eight-game winless skid",
-      "source": "Vancouver Is Awesome",
-      "url": "https://www.vancouverisawesome.com/national-sports/it-sucks-losing-vancouver-canucks-struggling-through-eight-game-winless-skid-12918656",
-      "ts": "2026-10-21T09:00:16+00:00",
-      "category": "Local",
-      "section": "Local",
-      "feed": "Vancouver Is Awesome",
-      "score": 15.08,
+      "source": "TSN",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOU9jSVFJcDdHaVhqU3pHdDNNSExPWlVRRnFEU0l4alZLdGZZTGxhS09MYklLY2NBRUgyVnpud1NJaUR4X05wNTdyU2NUbDJyVmdGWkFybU5rVEVvb1piUlliUE9WSm1ydHFvNnFxNXZPWXpsRTdDTFZIdFN0MjJ1dGRoc21QOTFnMHhLUFJqTWg4bk9uX0wtcnVfQVlVNlk?oc=5",
+      "ts": "2026-10-21T11:34:12+00:00",
+      "category": "Hockey",
+      "section": "Teams",
+      "feed": "GN Canucks",
+      "score": 13.72,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -343,7 +326,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 13.68,
+      "score": 13.18,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -352,14 +335,14 @@
       ]
     },
     {
-      "title": "Watch Carolina Hurricanes vs. Vancouver Canucks | Disney+",
+      "title": "Watch Carolina Hurricanes vs. Vancouver Canucks",
       "source": "Disney Plus",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3BLSEx4dkJJNlFQZlRmLXhjMDZaanQxd2FZWURBM3J2Z3BaZUJNOXI0T0tXYmZvT1V5YktEMC1feXFmLWJPWG1kUXh1UE9uSWJFRlBYT3d0dXJ4MnY1MTRJRkpWR183ai1kOHRzTXRvU1RtbXdqb2pUQm1TQXZpc0JkX1lqMDhTaFAw?oc=5",
-      "ts": "2026-10-21T05:51:49+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOS1ha1hBV1J1WnFsN0Y0VDFmZy1WajhlSDJGRUxDaXpuRmxuTEd2dUxtQ2RNMVVPVGxFaHRpRlRFeDhjTEhmUlQwWjJvalZaMFVEYlRSVEpvZTFYaklBRGh6ZllvWGtKaktsNVBYd1FjaHRqbVZ5dkp1ZXhQdkJaOHI5cnc1SHd2SDJN?oc=5",
+      "ts": "2026-10-21T05:25:54+00:00",
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 13.67,
+      "score": 13.04,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -367,65 +350,59 @@
       ]
     },
     {
-      "title": "Logan Stankoven with a Goal vs. Vancouver Canucks",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT1cxWGRvV1h6cVp5QV9oTEpITVBCd2t2S0xmaldHbFB4b1hydWttQkZ3OHptSlFxRVloSzE0bXdfZTlnWE4zdFgyeXJUVlBlOWZTYWhBYk1jaTIyX1VjZV9zNkZjVldobmwtRS1JUDY3UzY3V0d6TDFnYV81VDg0cGNnM28yYk0?oc=5",
-      "ts": "2026-10-21T04:48:00+00:00",
-      "category": "Hockey",
-      "section": "Teams",
-      "feed": "GN Canucks",
-      "score": 13.55,
-      "hits": [
-        "canucks",
-        "vancouver canucks",
-        "vancouver"
-      ]
-    },
-    {
-      "title": "SkyTrain pledges for Surrey in B.C. election campaign",
-      "source": "Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yZXNDN3F6bEU3MmpfT0xTM3ZxblZQaFNrc0l2RWRxTXU4OHVfMnBHOW40RzNlOXBwZTFucGlmeTQzVXpFZmVtOHBLT09TYUJSb2JtNTBRT2VoY3BfX1ZXLUxHS0pTVzlvZlJBY2hJaFZORTgyVXVv?oc=5",
-      "ts": "2026-10-21T01:36:00+00:00",
+      "title": "Rob Shaw: The battle for Surrey puts SkyTrain back on the election map",
+      "source": "Vancouver Is Awesome",
+      "url": "https://www.vancouverisawesome.com/economy-law-politics/rob-shaw-the-battle-for-surrey-puts-skytrain-back-on-the-election-map-12920207",
+      "ts": "2026-10-21T17:00:00+00:00",
       "category": "Local",
       "section": "Local",
-      "feed": "GN TransLink",
-      "score": 12.19,
+      "feed": "Vancouver Is Awesome",
+      "score": 12.96,
       "hits": [
-        "b.c.",
         "surrey",
         "skytrain",
         "election"
       ]
     },
     {
-      "title": "B.C. ELECTION: Key issues vary from debt to health care in Langley-Abbotsford riding",
-      "source": "Langley Advance Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdExxNV9BZllaRGRFYlMzTklRWjZmQkJwdWZHSTZQaGQwT1BXbzk4VUo1LWE3dzdEY3Q2dzlSTmkyY0JDNkRaZE04alNlcV9SX3ZsR0dHQVpGREotZ3l6NU9lekJTUWZONkJtb3dmTm1RczkxbU5LTWxSdU1ZTmRkbnhpM1B4T0RJUnpBS1ZPRE9hWndTRUltcQ?oc=5",
-      "ts": "2026-10-19T12:48:12+00:00",
-      "category": "Local",
-      "section": "Local",
-      "feed": "GN Langley",
-      "score": 12.15,
+      "title": "PATRICK MAHOMES AND UNDEFEATED KANSAS CITY CHIEFS VISIT SAM DARNOLD AND SEATTLE SEAHAWKS IN WEEK 7 EDITION OF SUNDAY NIGHT FOOTBALL ON NBC, PEACOCK AND UNIVERSO",
+      "source": "NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOLXIwdTc1SDh2em9Fbk9XVVgyLUdTTUVhaUhBUDBSV3RvTVFUUVRCR2Rac3BYa3pxbXpUdU41eV9rR0d0VGdTNmZha20xc3pVSklUVGw4N0RvdTJrOWRMRER5TWlVMUlMY3FIenM4WWpCU2JEakJhWmpiNFhZTXJpUXdPSjMzbkQtNUwtclBESkV1cXYtRm5Lb1JSVlJQLWlVM0lLQ3VYNFJLNE9XdnVZemdlUlBqM2M5aUVkc0VPUEEwdDU4ZHJPZXVnXzFVdUdaZ2FUbWRLMXItaWNubzNjWXBLY05MQWRiV0VhUWZnWC01Vk1sU2kxa0RZTE12MFAwTWY3UVdSVTZsLTJfWXFoT0ROOG42ZVg0VXpmQUJORjhtMjVZenpnc2N5WncwVDRBc3E0?oc=5",
+      "ts": "2026-10-21T16:07:23+00:00",
+      "category": "Football",
+      "section": "Teams",
+      "feed": "GN Seahawks",
+      "score": 11.83,
       "hits": [
-        "b.c.",
-        "langley",
-        "election"
+        "seahawks",
+        "sam darnold"
       ]
     },
     {
-      "title": "B.C. Election: Leaders try to win over voters in Surrey and Vancouver Island as campaign winds down",
-      "source": "Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kdVhLRGpzdzFjVHg4Y1Y1YzlqdEl4VVE1a3lKTFVHYjBFMWNnakFFa1BCZ013TG9qaHdKaTdCQTZoQjdQM19nNkRkUWhoYktSczA3VllTU3hoX3h1bk9uN3hDbGtuYkVucGNtaVE4Z09ub00?oc=5",
-      "ts": "2026-10-20T23:37:14+00:00",
-      "category": "BC",
-      "section": "Local",
-      "feed": "GN BC Election",
-      "score": 11.5,
+      "title": "Seahawks face looming Sam Darnold decision, and one huge detail makes Seattle's quarterback future even more debatable",
+      "source": "A to Z Sports",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2tackJEdUFNZDZYZkRHVmxGTy1icnZZeTRldVQ4bk90NktSTVN2MlJWbUR6LXZ2MUxVc25XaV9TNFVFT0VLLTVnZWFKcDB2V0QxUWEtTm1xbDNVMkQ1aEFyaWhvVEltMkd6LUd6WGVVby1wYkg5WUNMeHhVSHZNSmJjV05zaWIyb0xDZlVwcy0?oc=5",
+      "ts": "2026-10-21T16:03:08+00:00",
+      "category": "Football",
+      "section": "Teams",
+      "feed": "GN Seahawks",
+      "score": 11.82,
       "hits": [
-        "b.c.",
-        "vancouver",
-        "surrey",
-        "election"
+        "seahawks",
+        "sam darnold"
+      ]
+    },
+    {
+      "title": "Langley Rivermen drop two",
+      "source": "Langley Advance Times",
+      "url": "https://langleyadvancetimes.com/2026/10/21/langley-rivermen-drop-two/",
+      "ts": "2026-10-21T12:00:00+00:00",
+      "category": "Local",
+      "section": "Local",
+      "feed": "Langley Advance Times",
+      "score": 11.77,
+      "hits": [
+        "langley"
       ]
     }
   ],
@@ -434,37 +411,37 @@
     "Global News BC": "ok (10)",
     "Vancouver Is Awesome": "ok (20)",
     "Langley Advance Times": "ok (10)",
-    "GN Langley": "ok (13)",
-    "GN BC Hazards": "ok (18)",
-    "CBC Canada": "ok (19)",
+    "GN Langley": "ok (16)",
+    "GN BC Hazards": "ok (15)",
+    "CBC Canada": "ok (20)",
     "CBC Politics": "ok (20)",
     "Globe and Mail Canada": "ok (100)",
     "CBC Business": "ok (20)",
     "Bank of Canada": "ok (10)",
     "GN Rates & Housing": "ok (100)",
-    "GN Tariffs & Trade": "ok (100)",
-    "GN Canada Post & Transport": "ok (21)",
-    "BBC World": "ok (36)",
+    "GN Tariffs & Trade": "ok (98)",
+    "GN Canada Post & Transport": "ok (25)",
+    "BBC World": "ok (38)",
     "CBC World": "ok (20)",
     "GN Geopolitics": "ok (100)",
-    "GN Pharmacy": "ok (90)",
-    "GN BC Health": "ok (20)",
+    "GN Pharmacy": "ok (96)",
+    "GN BC Health": "ok (13)",
     "GN Health Policy": "ok (2)",
     "GN Canucks": "ok (100)",
     "ESPN NHL": "no element found: line 1, column 0",
     "GN Seahawks": "ok (100)",
     "ESPN NFL": "no element found: line 1, column 0",
-    "GN BC Lions": "ok (74)",
+    "GN BC Lions": "ok (80)",
     "GN Blue Jays": "ok (100)",
     "GN Raptors": "ok (100)",
     "Electrek Tesla": "ok (500)",
-    "GN Tesla": "ok (45)",
+    "GN Tesla": "ok (39)",
     "The Verge AI": "ok (10)",
     "GN AI": "ok (100)",
     "GN Local Safety": "ok (35)",
-    "GN TransLink": "ok (24)",
+    "GN TransLink": "ok (26)",
     "GN BC Election": "ok (100)",
-    "GN Cost of Living": "ok (26)",
+    "GN Cost of Living": "ok (15)",
     "GN Apple": "ok (100)",
     "GN AI Health": "ok (2)",
     "fantasy": "no roster on this runner: carried over 0 items from previous feed",
