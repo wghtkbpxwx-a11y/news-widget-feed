@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T17:14:19+00:00",
-  "generated_local": "Wed Oct 21, 10:14 AM PDT",
+  "generated": "2026-10-21T21:44:36+00:00",
+  "generated_local": "Wed Oct 21, 2:44 PM PDT",
   "scores": [
     {
       "league": "NBA",
@@ -78,36 +78,20 @@
   "layout": "v2",
   "must_know": [
     {
-      "title": "Putin agrees to resume three-way talks on Ukraine war with Kyiv and Washington, Kremlin says",
+      "title": "Carney, Ford unveil $9B plan to support industries hit by tariff war",
       "source": "Vancouver Is Awesome",
-      "url": "https://www.vancouverisawesome.com/the-mix/putin-agrees-to-resume-three-way-talks-on-ukraine-war-with-kyiv-and-washington-kremlin-says-12919157",
-      "ts": "2026-10-21T15:31:08+00:00",
+      "url": "https://www.vancouverisawesome.com/the-mix/carney-ford-unveil-9b-plan-to-support-industries-hit-by-tariff-war-12918878",
+      "ts": "2026-10-21T21:34:40+00:00",
       "category": "Local",
       "section": "Local",
       "feed": "Vancouver Is Awesome",
-      "score": 9.74,
+      "score": 11.47,
       "hits": [
-        "ukraine"
+        "tariff",
+        "carney"
       ],
-      "sources": 4,
-      "severity": 3,
-      "reason": "multi-source + severity"
-    },
-    {
-      "title": "After more than a year of measles transmission, Canada’s outbreak ends but its elimination status remains lost for now",
-      "source": "Niagara This Week",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHZSWEthZkJscUZCX2c1OXVSTkM5TTlEMDhBUi1FNUw0dkp3TGs4U1FXeDZ5M0FnS19wLUdYUkxNTzdkNjkyTTFiSk9mMkRQMU1pVzAtZVBIZkNzRzVQMW9lQ1hEZkRrbUFNbW1Pbml3bVdtdy1BTFh4eV85aWdJY3g2X0k5SDJsYmthYXFSbkNrcGNsOHE3U3JWc0xIMzh3SlZWWXY0alZSdkRKcnJFdDZ0a04yVDdWT21UZUN6MGV3clZpdUp6Uw?oc=5",
-      "ts": "2026-10-20T21:43:00+00:00",
-      "category": "Pharmacy",
-      "section": "Health",
-      "feed": "GN BC Health",
-      "score": 9.39,
-      "hits": [
-        "outbreak",
-        "measles"
-      ],
-      "sources": 4,
-      "severity": 2,
+      "sources": 9,
+      "severity": 4.5,
       "reason": "multi-source + severity"
     }
   ],
@@ -115,18 +99,17 @@
   "fantasy_refreshed": "2026-10-06T01:25:07+00:00",
   "items": [
     {
-      "title": "Three players net 2 apiece as Hurricanes dump Vancouver Canucks 6-3",
+      "title": "VIDEO: ‘Cheech’ tribute at Canucks game celebrates beloved broadcaster, Surrey resident",
       "source": "Langley Advance Times",
-      "url": "https://langleyadvancetimes.com/2026/10/20/three-players-net-2-apiece-as-hurricanes-dump-vancouver-canucks-6-3/",
-      "ts": "2026-10-21T04:50:33+00:00",
+      "url": "https://langleyadvancetimes.com/2026/10/21/video-cheech-tribute-at-canucks-game-celebrates-beloved-broadcaster-surrey-resident/",
+      "ts": "2026-10-21T19:17:00+00:00",
       "category": "Local",
       "section": "Local",
       "feed": "Langley Advance Times",
-      "score": 14.98,
+      "score": 14.14,
       "hits": [
         "canucks",
-        "vancouver canucks",
-        "vancouver"
+        "surrey"
       ]
     },
     {
@@ -137,7 +120,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 14.17,
+      "score": 13.58,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -145,14 +128,44 @@
       ]
     },
     {
+      "title": "Claude Duet Is Anthropic’s Answer to Muse, Grok Bot and OpenAI Dots",
+      "source": "iPhone in Canada",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdEI5WlQzcGhkQ3A2R1RJM0VuSFJSYk5sMG5FMUJJNUh2emdqUFZMTFNDbEZRZTlZSS1SSWs5dng4bW80cDRqQm8ta240dWswWFNJZHR5WEN0ZklKMHF0enN3QmREaVg0MGE5SHNLNzZvS0lQc3Q0aC1Fekx4UGZGSWh3?oc=5",
+      "ts": "2026-10-21T20:28:19+00:00",
+      "category": "AI",
+      "section": "Tech",
+      "feed": "GN AI",
+      "score": 13.31,
+      "hits": [
+        "openai",
+        "anthropic",
+        "claude",
+        "grok"
+      ]
+    },
+    {
+      "title": "Tesla FSD ‘subscriptions’ hit 1.74M, counted the way Musk’s pay package wants",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/",
+      "ts": "2026-10-21T20:45:18+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "Electrek Tesla",
+      "score": 12.35,
+      "hits": [
+        "tesla",
+        "fsd"
+      ]
+    },
+    {
       "title": "Toronto Raptors Injury Report and Analysis vs. Chicago Bulls",
-      "source": "roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUk0VzNkRFJXMlRzR1drLWVMODdDYmJyaEFkRThlaTdpc09IZEVNTnFpalNNdjZ0bXJQa2xwbzkybmJZS2o4RlJzb1pDczVRMmtTQnpmQ3FpcndqYnp4UTlGTXlVTlMyel9wV2ZKV01od1Zjakh4aHEzY21NaUhiWUxGU3FyOHZOenFHYi1HbDl6UUI3c0dYRm9tOS1oRHpnUmRnRUVTXzE?oc=5",
-      "ts": "2026-10-21T15:32:44+00:00",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGFhc2pWT3ZnV19hM3lQMjdKMFQ3bHp1bk5HVFh6QVAwbkpUTWJIeXBNc2Nxa2M2NFZVVEJhSjRFa2x0V1BUWUNES1YtV0MzMDdEdWNHYzlXdFhxMEVXRXQ0bDd2Z1dXY3p1TkFrMkQ4Zk56YXJYbl9HNEVMc0JvU3d1d3J5eDZNZlVmSUktbGI?oc=5",
+      "ts": "2026-10-21T15:04:18+00:00",
       "category": "NBA",
       "section": "Teams",
       "feed": "GN Raptors",
-      "score": 12.75,
+      "score": 12.09,
       "hits": [
         "injury",
         "raptors",
@@ -161,18 +174,32 @@
     },
     {
       "title": "Seahawks Urged to Pursue Eagles RB Saquon Barkley in NFL Trade Deadline Move",
-      "source": "Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0VZMVgxcWlLWS15bFdoZy1Da0ZRUDlOR3R5blFybmgzU1htNFcwZzg5bktMXzFjTzRjb3RTeGwyNmFxN0VHQWF5S1Fuai1jMk1na29YRlhrNTg4eExnaktGczhKZ1dsaXlZeDJuZDc5UWtBemZlWVFZQlFHOS1GT3NsenhiR3NYR29iWERtYzNxRVVtLXFyakpvNHdFTlQyVWFaVWJaZ25QUml0TU9xR0lnVQ?oc=5",
-      "ts": "2026-10-21T13:00:03+00:00",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEhQNndVa1NsbE5wYmFYXzkxYVZTRTJycDhaZWdnd0xBUW0zWElyWXc4YjBNTk50T3RkcGIxMWlTV21wSjV0Unk1U256UEFrREdrcHdjLUt3el9SbldKRFFMR1BIWi1Mei1scTZQU2diM29CM2UwX0ZHMGN6Y0xNNFFUVERUbVE?oc=5",
+      "ts": "2026-10-21T13:00:07+00:00",
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 12.4,
+      "score": 11.86,
       "hits": [
         "trade",
         "seahawks",
         "trade deadline",
         "nfl"
+      ]
+    },
+    {
+      "title": "Tarik Skubal Rumors Begin With 6 Landing Spots, Including Blue Jays",
+      "source": "Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkF1Z0xBaDYycUlEMTRsTUhINHdId08tNUtEeEdaWUpjalFJSWJrOHNWNEdUSHBQckNUYXRPSjBHQTNMWnN6eE0tWVlOQlJ1Q2dNY2hrRXV2aVVNc3VSN1AwbElqWmdVVHJYWXpMV0hjdjkyanNTa3V5TGFjN2FaYW9IWjFRTXo2dk1FckNfc0FNN0hJaUVMOUVadjdrTm12My1WS1VRel9OdFF0eHJmS2xmM19zQXBxYVE?oc=5",
+      "ts": "2026-10-21T21:00:01+00:00",
+      "category": "MLB",
+      "section": "Teams",
+      "feed": "GN Blue Jays",
+      "score": 11.39,
+      "hits": [
+        "blue jays",
+        "jays"
       ]
     },
     {
@@ -183,7 +210,7 @@
       "category": "BC",
       "section": "Local",
       "feed": "CBC BC",
-      "score": 11.51,
+      "score": 11.27,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -191,17 +218,17 @@
       ]
     },
     {
-      "title": "Blue Jays Emerge as Top Landing Spot for 2 Coveted Free Agents",
-      "source": "Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMENDSEVZN0QydUtFVHJabkJJcVhBdFBsMVhQclZFemdqV003V09Md0pybXpXYWcxSll3VTRGTmtvZ1llX0JIcmR2Q1BGX09xN0VDejlMOGJmNWRpMFZLM0xETjI4Vm1uZW40RjdoNHh6b0phSlA2ei1EU25HUHkweUZlLXRIbndxRTA3alFTS3pkZU5aSVRv?oc=5",
-      "ts": "2026-10-21T17:00:01+00:00",
-      "category": "MLB",
-      "section": "Teams",
-      "feed": "GN Blue Jays",
-      "score": 11.46,
+      "title": "Paul Martin: Rising oil prices could put Bank of Canada rate hikes back on the table",
+      "source": "MooseJawToday.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeXc0ejAtQ0FtQ3A4SkQwYlVnRHppa1lhYlpxLVhLMXBWbGZzSmtEa045SGlEa1hQTjlaZThCWUNnZzFLck1YdWttbVQ0MFh5QlFaS3lKMllXQmNzdXA1OTdEVmo1TFFySUtCTWNkNm52RWNTUUc5Nl9NNWlCZE9vVC1Ed0JpMktlZmR4SjhBVTZwSk9KenFqYktBcVdnQkNpd21ZU18tM1AyQVNQSjZ3X1N5VWtGVjdvcmJEX0IwWVpfbnMyXzBwcDlxMlJWM2R1QWVhbg?oc=5",
+      "ts": "2026-10-21T21:10:00+00:00",
+      "category": "Money/Policy",
+      "section": "National",
+      "feed": "GN Rates & Housing",
+      "score": 10.41,
       "hits": [
-        "blue jays",
-        "jays"
+        "bank of canada",
+        "oil prices"
       ]
     },
     {
@@ -212,52 +239,24 @@
       "category": "Pharmacy",
       "section": "Health",
       "feed": "GN Pharmacy",
-      "score": 10.72,
+      "score": 10.21,
       "hits": [
         "pharmacists",
         "vaccine"
       ]
     },
     {
-      "title": "Tesla FSD’s New Safety Trick: It Can Grab Control To Dodge A Crash",
-      "source": "Motor1.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZS13elFhalRlUkZjYm1KYXl3QjBPcXZIN1h4YnJ6NThtOWFDZTZydGR4QUstV3VrT1NMSXJhck1vMnFwYldzank4OXZVSkZrRlVmNEJPaGM0dHdJVUd1MDVGb1dwaHdQYWhKWFZwbDQ1eG4zTDZyZmliTnN4UQ?oc=5",
-      "ts": "2026-10-21T06:55:59+00:00",
-      "category": "Tesla/EV",
-      "section": "Tech",
-      "feed": "GN Tesla",
-      "score": 10.69,
-      "hits": [
-        "tesla",
-        "fsd"
-      ]
-    },
-    {
-      "title": "Energy briefs–oil prices continue to be impacted by violent Middle East",
-      "source": "Oklahoma Energy Today",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLTNQdFduLVFfaEZZUjhxM2F2ajl4RGozSUtKMmhxRmNodThpM08xeUVSc1ZZX3pmUUw5d01BSVRDNF93OU5XOHZkb2JzdjNySEJqcTBteE9XMDBud1BPMEFwcVI3WndGWnVnNEZxT1dUbU9fNHFrSnQ4M2ZFWllMWUFGTFJ2dldDdTZGZWdSSHBReThQWlBOaUZuY0VPU1Q5ckhmQzVaZzBwdw?oc=5",
-      "ts": "2026-10-21T16:59:51+00:00",
+      "title": "Ukraine says this drone can fly injured soldiers off the front line | About That",
+      "source": "CBC World",
+      "url": "https://www.cbc.ca/player/play/9.7390726?cmp=rss",
+      "ts": "2026-10-21T21:23:00+00:00",
       "category": "World",
       "section": "World",
-      "feed": "GN Geopolitics",
-      "score": 9.96,
+      "feed": "CBC World",
+      "score": 9.44,
       "hits": [
-        "middle east",
-        "oil prices"
-      ]
-    },
-    {
-      "title": "‘TRUMP’S BIGGEST GOOF-UP!’: Abdul El-Sayed Unleashes At Canada Tariffs; Declares Mark Carney’s Win",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWG4wWGIwZElGMEZqSFNJbVFrc2haSjRWcUpueV91cjljbzI3QWREQ0pXTV9sbTdBRElaMUtGaW1uZk4tLXBKazl5OG9sMlZydUpybFdGQTg5WURVU2lPT21YeHVhYmRsMmpsN3Z4NEJUR0l4bTZhV1Mxd0d4bFdRSzc4bWlRUXhuZWJvVUEyRVY2aHYweVcxNkF2Q1F5VXdMaHpUVUlsTWlYaXdVMi1FQjZZVFhXZVViLTVkZ2F5YURQczJZTkM5cDlkanZWTGVNVjB3OEtBS2JhWXJ3VWdsWWk0cGdub09qUTRIS1J4X0tsMldseFhsZ0tBRGFOeklqMEHSAYcCQVVfeXFMT0VGSDA5UTQ0NEV1MXg4YWhaZG4tMTlzbk9wem9iZUZJMk5YU1ZHeVJrdkVwVkpoandhWmlhT1hHckF0elJWWlFGcHpYM3UtbDdYb2twbERjMkdSbFFJWWIzeHVsMVZlT1hiUkFKZmpEUkF4bnp3TzFqQU93d3N0VjZGR3Y0dVZfR1phM2IxR2ttQUN6dVJWalljTDNMd21rRGNPRG1WTFR4NlRzVzNwOWJsa0Y3dzIzaFdpVzEtWEtweVNFRVRnbjRZTU40aXQ4Y29rVEF5YjltaVlVWU4tTmh3UjVMQkt6RmVMT01qeFZCYllyc204U3V0WEhFNWpmWmtBRGdqWnc?oc=5",
-      "ts": "2026-10-21T16:54:36+00:00",
-      "category": "Money/Policy",
-      "section": "National",
-      "feed": "GN Tariffs & Trade",
-      "score": 9.45,
-      "hits": [
-        "tariffs",
-        "carney"
+        "injured",
+        "ukraine"
       ]
     },
     {
@@ -268,25 +267,11 @@
       "category": "CFL",
       "section": "Teams",
       "feed": "GN BC Lions",
-      "score": 9.22,
+      "score": 9.11,
       "hits": [
         "vancouver",
         "bc lions",
         "lions"
-      ]
-    },
-    {
-      "title": "Citrini Research let Anthropic's Claude design scorpion antivenom: 211 proteins tested, 17 binders, then months of waiting on the lab",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWldMdUUxUHliNHltczFOUV9nY0hQVjFIaTlHRkQ5WkhBbW9pNERKOUhkNmI3VWNjaVlmRE01TXU2eVRkM2RhaWNvWVVXUS0yZF9SZWVWaDJPdTdSVFpJWWN5Q2hONm1WckpoWVI3bUJaeTd3ZWhkOGhEeWJGejJudlpORVVfR2k5aDZZVVBOODZWeXhjdVl0dUROVXNSN2xDSE1CaGZXSkgwZEd3S1drRGdXNE5FWG9WYTUySTViOE1kUy14bWtnRlFfU21mcjgzNzE2akJxRGRER2c5M21nSXA0OTNGWGdRZHJEWVAtUE03cG9lTnVJ?oc=5",
-      "ts": "2026-10-21T14:10:31+00:00",
-      "category": "AI",
-      "section": "Tech",
-      "feed": "GN AI",
-      "score": 9.05,
-      "hits": [
-        "anthropic",
-        "claude"
       ]
     },
     {
@@ -297,21 +282,21 @@
       "category": "National",
       "section": "National",
       "feed": "Globe and Mail Canada",
-      "score": 8.03,
+      "score": 7.54,
       "hits": [
         "b.c.",
         "election"
       ]
     },
     {
-      "title": "'It sucks losing': Vancouver Canucks struggling through eight-game winless skid",
-      "source": "TSN",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOU9jSVFJcDdHaVhqU3pHdDNNSExPWlVRRnFEU0l4alZLdGZZTGxhS09MYklLY2NBRUgyVnpud1NJaUR4X05wNTdyU2NUbDJyVmdGWkFybU5rVEVvb1piUlliUE9WSm1ydHFvNnFxNXZPWXpsRTdDTFZIdFN0MjJ1dGRoc21QOTFnMHhLUFJqTWg4bk9uX0wtcnVfQVlVNlk?oc=5",
-      "ts": "2026-10-21T11:34:12+00:00",
+      "title": "‘It sucks losing’: Vancouver Canucks struggling through 8-game winless skid",
+      "source": "CTV News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUV80bVEwVU51Mmd0YUIxMUdKZ3NMZzdCSGxjZ1hJSDRZVWZtOGJKZGk2djdsZWE2SkpsejZWSldCdWpFb0d0RjVVbzZEY2pwb3lYcGl6Yzh1ZFNsV0dMV1VmZHBiSzFzWHFvTVhhUGw2WTR4ODNNbFJmREZrYTBHcFkyMW9pa1lBTG90bm9PY2dBcjl5ZXJVQlJmNHk5elpRTktweWdqN1BDXzd1dTBCQk1ZNA?oc=5",
+      "ts": "2026-10-21T13:50:03+00:00",
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 13.72,
+      "score": 13.45,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -326,7 +311,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 13.18,
+      "score": 12.83,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -337,12 +322,12 @@
     {
       "title": "Watch Carolina Hurricanes vs. Vancouver Canucks",
       "source": "Disney Plus",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOS1ha1hBV1J1WnFsN0Y0VDFmZy1WajhlSDJGRUxDaXpuRmxuTEd2dUxtQ2RNMVVPVGxFaHRpRlRFeDhjTEhmUlQwWjJvalZaMFVEYlRSVEpvZTFYaklBRGh6ZllvWGtKaktsNVBYd1FjaHRqbVZ5dkp1ZXhQdkJaOHI5cnc1SHd2SDJN?oc=5",
-      "ts": "2026-10-21T05:25:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3BLSEx4dkJJNlFQZlRmLXhjMDZaanQxd2FZWURBM3J2Z3BaZUJNOXI0T0tXYmZvT1V5YktEMC1feXFmLWJPWG1kUXh1UE9uSWJFRlBYT3d0dXJ4MnY1MTRJRkpWR183ai1kOHRzTXRvU1RtbXdqb2pUQm1TQXZpc0JkX1lqMDhTaFAw?oc=5",
+      "ts": "2026-10-21T05:51:49+00:00",
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 13.04,
+      "score": 12.67,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -350,59 +335,63 @@
       ]
     },
     {
-      "title": "Rob Shaw: The battle for Surrey puts SkyTrain back on the election map",
-      "source": "Vancouver Is Awesome",
-      "url": "https://www.vancouverisawesome.com/economy-law-politics/rob-shaw-the-battle-for-surrey-puts-skytrain-back-on-the-election-map-12920207",
-      "ts": "2026-10-21T17:00:00+00:00",
-      "category": "Local",
-      "section": "Local",
-      "feed": "Vancouver Is Awesome",
-      "score": 12.96,
+      "title": "Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDJYNEVlX0RpSXZrNldLY2dmYjZtNVgwcERJTEN1MklkQVh5QUNoX25RX1hLYl9zWi1UMG90Ym5US2dsNEJKLU83aUhzOTNZVWp1WExoaEJwUC1sSFNEZEVjNmwwZF9fNjFqWFFYOGRieW1zQmg4aXhKdVVqa1phQ21DN0dMeW1BTDZjcW5zRHBRLWFVTXo0YzBzMWJUWm9kajQ5ZjJpZDFzclBsSFg0?oc=5",
+      "ts": "2026-10-21T21:08:33+00:00",
+      "category": "AI",
+      "section": "Tech",
+      "feed": "GN AI",
+      "score": 12.41,
       "hits": [
-        "surrey",
-        "skytrain",
-        "election"
+        "openai",
+        "anthropic",
+        "claude",
+        "agent"
       ]
     },
     {
-      "title": "PATRICK MAHOMES AND UNDEFEATED KANSAS CITY CHIEFS VISIT SAM DARNOLD AND SEATTLE SEAHAWKS IN WEEK 7 EDITION OF SUNDAY NIGHT FOOTBALL ON NBC, PEACOCK AND UNIVERSO",
-      "source": "NBC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOLXIwdTc1SDh2em9Fbk9XVVgyLUdTTUVhaUhBUDBSV3RvTVFUUVRCR2Rac3BYa3pxbXpUdU41eV9rR0d0VGdTNmZha20xc3pVSklUVGw4N0RvdTJrOWRMRER5TWlVMUlMY3FIenM4WWpCU2JEakJhWmpiNFhZTXJpUXdPSjMzbkQtNUwtclBESkV1cXYtRm5Lb1JSVlJQLWlVM0lLQ3VYNFJLNE9XdnVZemdlUlBqM2M5aUVkc0VPUEEwdDU4ZHJPZXVnXzFVdUdaZ2FUbWRLMXItaWNubzNjWXBLY05MQWRiV0VhUWZnWC01Vk1sU2kxa0RZTE12MFAwTWY3UVdSVTZsLTJfWXFoT0ROOG42ZVg0VXpmQUJORjhtMjVZenpnc2N5WncwVDRBc3E0?oc=5",
-      "ts": "2026-10-21T16:07:23+00:00",
+      "title": "Anthropic answers Meta and OpenAI with a new personal agent, Claude Duet",
+      "source": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkZFNGVZc2Q2Q3VJYWVFNjFlOUh1NE1aNWFrZHlzOFlEMVpQU0xFQkFDSW4ydXljV1gtRnBBVzZjWi11Z3dMQ0sxdl9EdXdJOWl0TWlYMnl1M1o5S3d4LXRuOW9lLUd3bS1lYkloUnFGVnhqbFNJSGtVRUt4ZnlWSVg1Q01YOHlrWF9tZ0RsQXptUjljR0MxVFVaWW0xTXMweUE?oc=5",
+      "ts": "2026-10-21T20:29:00+00:00",
+      "category": "AI",
+      "section": "Tech",
+      "feed": "GN AI",
+      "score": 12.31,
+      "hits": [
+        "openai",
+        "anthropic",
+        "claude",
+        "agent"
+      ]
+    },
+    {
+      "title": "Tesla energy revenue drops 16% as it refunds customers over tariffs",
+      "source": "Electrek",
+      "url": "https://electrek.co/2026/10/21/tesla-energy-revenue-drops-tariff-customer-refunds/",
+      "ts": "2026-10-21T21:18:18+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "Electrek Tesla",
+      "score": 11.93,
+      "hits": [
+        "tesla",
+        "tariffs"
+      ]
+    },
+    {
+      "title": "SEAHAWKS SQUAD SHOW: Is a Run Game Resurgence the Way to Unlock SAM DARNOLD?",
+      "source": "13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORHdXbTRxQVpXeU1nc2gwUk0tWmVCaGdTcHhoUGYtSU9OLUNGbzdKTm5aSTdoMHBaV25qTml2OWtsS0I2S09JUzVxQ1hwX01wdm5LRGJIV2JpZkVnZVZicnZFUERQQm9tdjJvWGlHOHZpdGN0ZjEzYVdsQ0dtdnZFUlRRR2pYUnZ0dVJVaXhZS0kySDNsajhUTUtoTUNRdUNsOUhDZTRtaW9tRGVvSENiTnVUNzFCS203a3RCTXpSSUpNR3dfREF4T25mY2hGSnRuLXVzWFhxWTlzSjZ4RWd0VkdoSHduM20tMjAyTWJ3a2ZNUXhMSTRCSS03WkJpakNRa1lVQXZDdHMybTBFTWJ2amw4Z196MVlHeFE?oc=5",
+      "ts": "2026-10-21T19:43:00+00:00",
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 11.83,
+      "score": 11.7,
       "hits": [
         "seahawks",
         "sam darnold"
-      ]
-    },
-    {
-      "title": "Seahawks face looming Sam Darnold decision, and one huge detail makes Seattle's quarterback future even more debatable",
-      "source": "A to Z Sports",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2tackJEdUFNZDZYZkRHVmxGTy1icnZZeTRldVQ4bk90NktSTVN2MlJWbUR6LXZ2MUxVc25XaV9TNFVFT0VLLTVnZWFKcDB2V0QxUWEtTm1xbDNVMkQ1aEFyaWhvVEltMkd6LUd6WGVVby1wYkg5WUNMeHhVSHZNSmJjV05zaWIyb0xDZlVwcy0?oc=5",
-      "ts": "2026-10-21T16:03:08+00:00",
-      "category": "Football",
-      "section": "Teams",
-      "feed": "GN Seahawks",
-      "score": 11.82,
-      "hits": [
-        "seahawks",
-        "sam darnold"
-      ]
-    },
-    {
-      "title": "Langley Rivermen drop two",
-      "source": "Langley Advance Times",
-      "url": "https://langleyadvancetimes.com/2026/10/21/langley-rivermen-drop-two/",
-      "ts": "2026-10-21T12:00:00+00:00",
-      "category": "Local",
-      "section": "Local",
-      "feed": "Langley Advance Times",
-      "score": 11.77,
-      "hits": [
-        "langley"
       ]
     }
   ],
@@ -411,37 +400,37 @@
     "Global News BC": "ok (10)",
     "Vancouver Is Awesome": "ok (20)",
     "Langley Advance Times": "ok (10)",
-    "GN Langley": "ok (16)",
-    "GN BC Hazards": "ok (15)",
+    "GN Langley": "ok (15)",
+    "GN BC Hazards": "ok (20)",
     "CBC Canada": "ok (20)",
     "CBC Politics": "ok (20)",
     "Globe and Mail Canada": "ok (100)",
     "CBC Business": "ok (20)",
     "Bank of Canada": "ok (10)",
     "GN Rates & Housing": "ok (100)",
-    "GN Tariffs & Trade": "ok (98)",
-    "GN Canada Post & Transport": "ok (25)",
+    "GN Tariffs & Trade": "ok (100)",
+    "GN Canada Post & Transport": "ok (27)",
     "BBC World": "ok (38)",
     "CBC World": "ok (20)",
     "GN Geopolitics": "ok (100)",
-    "GN Pharmacy": "ok (96)",
-    "GN BC Health": "ok (13)",
+    "GN Pharmacy": "ok (99)",
+    "GN BC Health": "ok (21)",
     "GN Health Policy": "ok (2)",
     "GN Canucks": "ok (100)",
     "ESPN NHL": "no element found: line 1, column 0",
     "GN Seahawks": "ok (100)",
     "ESPN NFL": "no element found: line 1, column 0",
-    "GN BC Lions": "ok (80)",
+    "GN BC Lions": "ok (90)",
     "GN Blue Jays": "ok (100)",
     "GN Raptors": "ok (100)",
     "Electrek Tesla": "ok (500)",
-    "GN Tesla": "ok (39)",
+    "GN Tesla": "ok (37)",
     "The Verge AI": "ok (10)",
     "GN AI": "ok (100)",
-    "GN Local Safety": "ok (35)",
-    "GN TransLink": "ok (26)",
+    "GN Local Safety": "ok (29)",
+    "GN TransLink": "ok (29)",
     "GN BC Election": "ok (100)",
-    "GN Cost of Living": "ok (15)",
+    "GN Cost of Living": "ok (9)",
     "GN Apple": "ok (100)",
     "GN AI Health": "ok (2)",
     "fantasy": "no roster on this runner: carried over 0 items from previous feed",
