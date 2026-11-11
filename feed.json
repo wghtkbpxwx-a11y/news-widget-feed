@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-10T21:18:35+00:00",
-  "generated_local": "Tue Nov 10, 2:18 PM MST",
+  "generated": "2026-11-11T06:26:27+00:00",
+  "generated_local": "Tue Nov 10, 11:26 PM MST",
   "scores": [
     {
       "league": "NFL",
-      "text": "ARI 3 @ SEA 17 F",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401873048/cardinals-seahawks",
+      "text": "SEA @ LV Sun 2:05 PM",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873062/seahawks-raiders",
       "fav": true
     },
     {
@@ -21,21 +21,21 @@
       "fav": false
     },
     {
-      "league": "NFL",
-      "text": "JAX 33 @ BAL 10 F",
-      "url": "https://www.espn.com/nfl/game/_/gameId/401873037/jaguars-ravens",
-      "fav": false
-    },
-    {
       "league": "NHL",
-      "text": "COL @ TOR 5:00 PM",
+      "text": "COL 6 @ TOR 3 F",
       "url": "https://www.nhl.com/gamecenter/col-vs-tor/2026/11/10/2026020286",
       "fav": false
     },
     {
       "league": "NBA",
-      "text": "MIL @ NY Tue 5:30 PM",
+      "text": "MIL 85 @ NY 117 F",
       "url": "https://www.espn.com/nba/game/_/gameId/401909960/bucks-knicks",
+      "fav": false
+    },
+    {
+      "league": "NFL",
+      "text": "WSH @ NYG Thu 6:15 PM",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401873052/commanders-giants",
       "fav": false
     }
   ],
@@ -79,51 +79,52 @@
   "layout": "v2",
   "must_know": [
     {
-      "title": "Oil Prices Retreat as Peace Hopes Grow",
-      "source": "Rigzone",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkxpZkF5MnRaTjB4R1pFVHVXcnpFSE9oSmpza3UxUUI5RDlLQVNTYjl1MnhMX1BMdzZGNnZYRlVrRXhwRkRaSTNhZVJtVFFQcTl2WkFlNGk0OUt5a3UwcnpvQ09jNlVQaGFfd3JUUUlMb3lKejJOU1NiVjJTOEFuRV9KdXJydkdJYVYwVEtlVktqTGZDYXJzbE42b29JZmVIY0E?oc=5",
-      "ts": "2026-11-10T21:02:00+00:00",
+      "title": "Oil Prices Rise as Iran Peace Optimism Fades",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWDBsRzB0VFR6VEJuTEY2ZjUyUGkzc3p1Ym1TbU5tVGF5LWxpX1V2NGdMNHBPYWtMeTNITk4tdS1xVTFIVGJrTzRUV2NZRVhtTTJYdjJaV0s5cEpzd01KcHhKZlhDUnFJQzJSVjhYc3UwQ3ppdVdnYnNWWi1xMUpwWXkyalhRNEdPQ3haMHZJUE9xWS1IQmdxbFNFZjFROWpyY3fSAacBQVVfeXFMUG53NEdOV1U4QUNwemlVcWJoZFNhcjVUMFJMa0hEaDAzakNSbWFjblJoQnc5MDFvZ1E4c0ROOW43Ri1SR3FVQVcwb0YxYlIyT09jWTRkZFA3Y2VicERZdTFwdUdBYnQ3RUlodmktVHdhN0sxUkEwUDRlTW1xZWNZSTlHZ1l1QkFSNWpIVklSZTZra3NLRWx6ZnBqS0xjaEZ4QlUyX19vTXM?oc=5",
+      "ts": "2026-11-11T05:45:00+00:00",
       "category": "World",
       "section": "World",
       "feed": "GN Geopolitics",
-      "score": 7.46,
+      "score": 7.39,
       "hits": [
         "oil prices"
       ],
-      "sources": 35,
-      "severity": 4.5,
-      "reason": "multi-source + severity"
-    },
-    {
-      "title": "Final vote count for snap election hands B.C. Conservatives 64 seat majority",
-      "source": "My Cariboo Now",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ05xWWpmcE5SWUpPdnR5RE1qSy1DblZtbWdESDhCbHNCY0h0ZFdXNWtVdU05alN5elFYeXhFa201c2EzUVluUnhRRkJReExQMGJaTDNuZW43N0pYYW5wWWdmUzJrcWhSVDVfWENfNWI2MmVDcndGYXVCYzJWUHBtTEo4WndyTXZ6Vm1kc1FzSUxRZTNaOTh1dlkwNkxySGhlNUVWcy1SSTNkeS10SXljUnVrSXZscTF0WDQ1OVpuQmtzUHc3?oc=5",
-      "ts": "2026-11-10T03:42:46+00:00",
-      "category": "BC",
-      "section": "Local",
-      "feed": "GN BC Election",
-      "score": 7.03,
-      "hits": [
-        "b.c.",
-        "election"
-      ],
-      "sources": 5,
+      "sources": 17,
       "severity": 3,
       "reason": "multi-source + severity"
     },
     {
-      "title": "Four grizzlies destroyed in Bella Coola following fatal attack",
-      "source": "Langley Advance Times",
-      "url": "https://langleyadvancetimes.com/2026/11/10/four-grizzlies-destroyed-in-bella-coola-following-fatal-attack/",
-      "ts": "2026-11-10T19:57:30+00:00",
-      "category": "Local",
-      "section": "Local",
-      "feed": "Langley Advance Times",
-      "score": 8.3,
-      "hits": [],
-      "sources": 3,
-      "severity": 3.5,
+      "title": "Oil prices climb as Hormuz attacks dampen hopes for Iran truce",
+      "source": "Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmhVVzZHT3hCZkJoLTVycF9QOFpkYjFURm00U3V0VlM0NFdOVVdHT19tZDZHbTNZTDJLajNUaHpqU3ZINkR0SE43V002eWFxQ1VmTHZSekJmSVZsZVd5cWZEUVgxc1dGRlNhX2pxMEJYbFNVT2xzcTMzWXRxNWw3bXhMTGFmWUV3ekw0?oc=5",
+      "ts": "2026-11-11T06:14:27+00:00",
+      "category": "World",
+      "section": "World",
+      "feed": "GN Geopolitics",
+      "score": 7.47,
+      "hits": [
+        "oil prices"
+      ],
+      "sources": 4,
+      "severity": 3,
       "reason": "multi-source + severity"
+    },
+    {
+      "title": "Pharmacist says lack of state of emergency in Copperhill causing issues",
+      "source": "WDEF",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk9ta01pZ0dmV2d4UzJicWdZS2ZtQ2RVU1JEYnNtelAxM3Fha0JRbjhpMTc0NmhmdFhWYXlEOWpYRFFiUVNjNHFjUWlFNWZUbng2VW1RY1RiZ1EzMmdxZnl1XzBDcERuRTFOaVlOVFRkTWJDM0lLRlh5eWpJWkpaWHpVUGJCenFXUWxTb1BjUEwxNDBQcDc4MQ?oc=5",
+      "ts": "2026-11-11T01:18:27+00:00",
+      "category": "Pharmacy",
+      "section": "Health",
+      "feed": "GN Pharmacy",
+      "score": 7.78,
+      "hits": [
+        "pharmacist"
+      ],
+      "sources": 1,
+      "severity": 6.5,
+      "reason": "alert + severity"
     }
   ],
   "fantasy_items": [],
@@ -133,11 +134,11 @@
       "title": "Vancouver Canucks claim Cameron Crotty on waivers from Minnesota Wild",
       "source": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUZVOUlyVkpjcmpIWWFuN1RHLV8yVVdKV1h6aUFjQ3puX0dfZ1lQNUxkVTlHSDd6ejdJZ0F0MDQ5QURYUkI1cHNXQ0NkeTNhdW5aZHl2YnJvTjVOZnRBSlBUMHFZZVNLS0xJVUxveVhieU1OVnRja1ZXMk1xRkFLNVVaa3FnR2RnVXBnVjc3amVWTlpNeFJTdg?oc=5",
-      "ts": "2026-11-10T19:38:44+00:00",
+      "ts": "2026-11-10T20:13:37+00:00",
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 14.25,
+      "score": 13.2,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -145,14 +146,29 @@
       ]
     },
     {
-      "title": "Seahawks NFL trade deadline 2026 tracker: Kirk Cousins returns to Vikings",
+      "title": "Pierre Ferragu Says Tesla FSD Could Be At An 'Inflection Point,' Compares It To The iPhone Playbook — 'Give Us 2 More Quarters'",
+      "source": "Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1VXbFFIak5YSjF2dUZvQ2R4TTd4dFpoMmdhWm81UGFwRnZwSnZ4UkNDeG9ERmpxMjlkQWNFbE8ycmVLVnVxRkZpNmFMMmNRVldEOXVYUTlIX2JBYVAxZ1d6WktMekZfdWNjTTlMZllDcTNLcXE1SXNHVm9tQkZ5aXZiUVRtNjVnZ25NdVM3ZV9TQjlXNUFvSS1kd1NkLTF2ek1aN25FQ0RISHVHVER5R3J3aklKVlNLMHFvNFJB?oc=5",
+      "ts": "2026-11-11T00:36:38+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "GN Tesla",
+      "score": 13.2,
+      "hits": [
+        "tesla",
+        "fsd",
+        "iphone"
+      ]
+    },
+    {
+      "title": "Seahawks' next opponent trades starting QB before NFL trade deadline",
       "source": "The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDF1N0g4ZUtCSGtZV1hRU0R2QmJqXzBac3E0ZTM0enNldXFHNHlScDhJSUZTQ1pBNEZ0RVZmaTNfUS1hS1NqamtfVHZoQ0l5b2NuSTgzcEFFUGhxcUYyenhJd0ZKcjhDRG1jYjl2V3UxQzFGNHN4a0gwZFYxRFVRaVhRU2FTOV85cndDaUs2YXg1bDBHQXFRdW1fZUxzUUE5MEVWQ3ZpS2lvZWJDX1p5QTNZblZLZGZG?oc=5",
-      "ts": "2026-11-10T21:16:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcGFISlF4TkR5Slk0RzNNMDhjYm1IWG1ocWx6TXNLS1lGUEJZZHdjUzA0LUhaWW5YNlZpQnYyc2VPRERRY3BOeEtXR0VVLTZFY2lDdkZ4U3c3MkZnQ3VUMDR4VHJtWFFicXZBdUpxVlA5NzVkdU90enVVa203ZmRoSk0wUmpNbm4yUm4tMW9XTWlsbGxfanhIMlhLUmdxTEV2dllVNW82UEl6T1dPYXdUNkMyNWZmaHFUOXRDSFFBQXI4ODJLSFFmZG8wdXdQdUFOeUNMeXV1bmJhY3RQ?oc=5",
+      "ts": "2026-11-11T05:30:16+00:00",
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 12.99,
+      "score": 12.86,
       "hits": [
         "trade",
         "seahawks",
@@ -161,48 +177,33 @@
       ]
     },
     {
-      "title": "SILVER LINING? The Toronto Raptors are SO injured, but it's sharpening the roster for the long haul",
-      "source": "ABC10",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNN1JOeXFyVVdTb2pOZUJzWVpnLWdET19zRm8zRDYwMEg1VHpPOFJKTDlaQVluYnFjZm1vSktjNlUzaG5ORWswdlp4NmtmdXpwYXpZbG5PNGF0eWhSeC0xRGl1LS1MbmM2X0RZN0t2WEJURVY1TTFob05tVnBWOWIzM3JNRWwtVGdDelF4VlpyMklaSnBWZEFuOHNyai11ZEdLa3h6U2dwbkNCbENEdFdzUlo5RTVCT2x2Qy1wRm9QWG1lYnZzdzZTZ0kwVmhjZlpzZzI4dUV1SDcwek0tWHcya0RQZk1RNkpBWHE0ZGU2QzNfdjlqNk5MODFtM3g2VWV2WGhBdFowVTFlajFneldMLWVfMWZtaXJITXJGYXZVTmpONHpsRE0tb2JjbG9POTA?oc=5",
-      "ts": "2026-11-10T20:01:00+00:00",
-      "category": "NBA",
-      "section": "Teams",
-      "feed": "GN Raptors",
-      "score": 12.81,
-      "hits": [
-        "injured",
-        "raptors",
-        "toronto raptors"
-      ]
-    },
-    {
-      "title": "Toronto Blue Jays Will Pay Injured All-Star Player $24 Million in 2027",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmFRcmdES0hfQVlYUGx3UnV4MHZCSklXM0pGWEpRR2hYWUk3bGZfLVRQbE41VVRpTnYyZjFmbk5oa1hWbWtTR0JVNVBEdTBCS3VRQVdjd1hPNlRwR0lwTU1veXdKWDR0WS1oMnNocnViUWVPUkJTZTd4SUZ0SEJrUk12SmU?oc=5",
-      "ts": "2026-11-10T19:23:24+00:00",
+      "title": "Blue Jays GM Meetings Notes: Infield trade market, Anthony Santander, bullpen options - The Athletic",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVpGTHZSc25pd3BBcGZra1I4NFJmQks5NDllLUlndE9WRFFFa0lDUVhKaVJKcjBrMnY5eXROWFBTRU9meWdkaGNSRGxJU2dhWXRlX0JobUc0cnZJcjhkbjRNSUxfUUVla21DX25FVFNxU0UzWmc1QW9FeGZ3ZnFQd2NYaGdEZ3R5NEowVkUtUW80dDQ3VDFRc253?oc=5",
+      "ts": "2026-11-11T01:57:00+00:00",
       "category": "MLB",
       "section": "Teams",
       "feed": "GN Blue Jays",
-      "score": 12.71,
+      "score": 11.86,
       "hits": [
-        "injured",
+        "trade",
         "blue jays",
         "jays"
       ]
     },
     {
-      "title": "Tesla Model Y Ranks Second in Imported Used Car Transactions; FSD Demand Draws Attention; 30s and 40s Make Up 73% of Buyers; Prices Range from 30 Million to 70 Million Won; Popularity of Used Model Y",
-      "source": "재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRcU9vdFlfQ19Xd09uc3dLc0VnMTJKQ29sTWEtcjlVbVZVLXBLTnlvck5FQmtZbU5yNjRUd0tCWFBRSFRSWGo1QzJnNGo2N29hR05nS0prOFZjeGpkdHMwUWxn?oc=5",
-      "ts": "2026-11-10T09:40:03+00:00",
-      "category": "Tesla/EV",
-      "section": "Tech",
-      "feed": "GN Tesla",
-      "score": 12.55,
+      "title": "SILVER LINING? The Toronto Raptors are SO injured, but it's sharpening the roster for the long haul",
+      "source": "firstcoastnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNRGZKT0VuLXZaeHlWNDM3eThlaEtHQzV3Q1A0SV9Vc1pmRk1QOHNMWEd2RGR5VnpPT2JjenJUR1RPNUpzaUhsNkUxdVBWSG9ZZVh2WEZhVl9VX0lIcFBXa0JDOXZPSmVDV1dMZXAzSnZlb1IzUUlOWHVqQkFKRXBUYkl6dTNTQWRpUjJUeXZ6XzVKYmlHTXNqUjVPNm9uU3hkQktEbW9ncExULS1BakhVeGZVSlFkMlIxamJZeS1iVWU4RkNsdmNqMU1nRGRPY3YxYUJSTktIT0JtLUR1X3h3ZkdEWmZ3ZXkzRFVxM0JrdTJDdFVWVm5IOFc4YXoyekNSUnp0cXpuWEM4NFdDT2lKQ0dXRFptZXBWd1pUNHcxTy1UbkF2WnY2R2NlTnU5UlM5MFJiSk9pMjBFUkU?oc=5",
+      "ts": "2026-11-10T20:01:00+00:00",
+      "category": "NBA",
+      "section": "Teams",
+      "feed": "GN Raptors",
+      "score": 11.68,
       "hits": [
-        "tesla",
-        "fsd",
-        "model y"
+        "injured",
+        "raptors",
+        "toronto raptors"
       ]
     },
     {
@@ -213,24 +214,65 @@
       "category": "Local",
       "section": "Local",
       "feed": "Langley Advance Times",
-      "score": 12.3,
+      "score": 11.18,
       "hits": [
         "langley"
       ]
     },
     {
-      "title": "BC Lions tickets on sale in Vancouver for Alouettes game",
-      "source": "TicketNews",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPal9Fc2xVMklScGtLUVdJRTUyZVNoekdnM0R3S1hqQjZxZTIwZUUxTzd0ZjJieTlJLVlURWJfanpRT1hBMklQYkF5MzdlX3c3aTlkTTRkd3VFb0luZEZ2ODhlOVNyT2FqRjRORm9hWkZoYW5hdFcxQU5jaklhTklqVnFBS2VUdXl0M0RaYjBhVW1UbW42eGtB?oc=5",
-      "ts": "2026-11-09T16:56:14+00:00",
+      "title": "Week 20: BC Lions at Calgary Stampeders",
+      "source": "CFL",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGRZU2xZdV9WREVESGZWdnRvM1ZfNFBIcWU0YThmMFhDalNaOGUteW1vSEhUMHlMbDJGTFpsQU1uWXhwNG1GUkMyby00Z0dER0liQy11cEhMR193Vm5HeFJUaWdYdGhRcXo3NzdldkIwZTRLRkV6Z2d5UEhob2lGQ1UtT280YnE4czM4ajN4aHg?oc=5",
+      "ts": "2026-11-11T04:09:58+00:00",
       "category": "CFL",
       "section": "Teams",
       "feed": "GN BC Lions",
-      "score": 9.84,
+      "score": 10.16,
       "hits": [
-        "vancouver",
         "bc lions",
         "lions"
+      ]
+    },
+    {
+      "title": "Further interest rate hikes might be needed: Bank of Canada",
+      "source": "BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTZBUmMzVUxBb2FmVENNa283TlRmSlNvd2RaVlpaQWlVZXB4TGRtRnJoUFdtdDFIVlVOQ0N4dF9sYXBEbHpYNlAwSlRzNE1Cc2hFVDRxWjdHZ3NnbkM5LUN1NW9wUllsYkItb2tlbFVnbUNxZDlxWU1LWk1pcVpsaGlobWMzVlJCY0t6ZDdJcjY4cUEyUU9wYmxyY1plLTdPb0RaR1dCS1drbzhRLUhJbndlYWhpTzFnUWw1ZDBDWi1GSWxBY3RGQkUyUU5aNU4xYW9uTW5kVQ?oc=5",
+      "ts": "2026-11-10T18:44:52+00:00",
+      "category": "Money/Policy",
+      "section": "National",
+      "feed": "GN Rates & Housing",
+      "score": 9.55,
+      "hits": [
+        "interest rate",
+        "bank of canada"
+      ]
+    },
+    {
+      "title": "TSMC Approves Up to $1 Billion Investment Plan in Anthropic, OpenAI",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3ZlYXlWNllKZkZETDl2YUpGcXdKYnBpc01rZ2pMenZYcXJrcmVhbFdlUW5oQnFWeTZ1dlN2S2RwVFFUaVJIUWk0UVJsOHk4R25nSGt4NnlfYTZVNXZvTzlrcXU4V2ZGNUNQQTY1amMwcHZ3bC00aTFBMTRKcFExdThaQlY2Nmp4ek1qSXRDdVVuLUlOSWVPQWMtSHlqT0g3RmlCbQ?oc=5",
+      "ts": "2026-11-11T05:29:57+00:00",
+      "category": "AI",
+      "section": "Tech",
+      "feed": "GN AI",
+      "score": 9.36,
+      "hits": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "title": "B.C. remembers: Watch the 2026 Vancouver Remembrance Day ceremony",
+      "source": "Global News",
+      "url": "https://globalnews.ca/news/12145457/bc-2026-vancouver-remembrance-day-ceremony/",
+      "ts": "2026-11-11T00:09:27+00:00",
+      "category": "BC",
+      "section": "Local",
+      "feed": "Global News BC",
+      "score": 8.64,
+      "hits": [
+        "b.c.",
+        "vancouver"
       ]
     },
     {
@@ -241,38 +283,10 @@
       "category": "Pharmacy",
       "section": "Health",
       "feed": "GN Pharmacy",
-      "score": 9.52,
+      "score": 8.62,
       "hits": [
         "pharmacist",
         "vaccine"
-      ]
-    },
-    {
-      "title": "Flood risks grow as B.C. faces deluge from a new atmospheric river",
-      "source": "The Weather Network",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzJtYS1fZjd0dmVXTkpTbUZoajdZSnRLVW5XZGYyVlJfX29Lcll3Y25hTU1qbmlwZlVHN1RnaFVTOEh5c1JKXy11T2lCb21RYldUUUFfb3M3emZwZ21XNDhxRE96dWVpc0tQS0Y2Z3JTSnlNUnFLZ2FjVWlGVlF0enJNUUxxbzVZOWVPQ3pwZVNvTml0VlpJaTdNbGI5eTVKR1lPSFdOeDJ0NHZlYlYtanltTWxRcDVtTjBnb2p1ZTlxd1U?oc=5",
-      "ts": "2026-11-10T17:42:00+00:00",
-      "category": "BC",
-      "section": "Local",
-      "feed": "GN BC Hazards",
-      "score": 9.48,
-      "hits": [
-        "b.c.",
-        "atmospheric river"
-      ]
-    },
-    {
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "source": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5",
-      "ts": "2026-11-10T20:52:13+00:00",
-      "category": "AI",
-      "section": "Tech",
-      "feed": "GN AI",
-      "score": 9.43,
-      "hits": [
-        "openai",
-        "anthropic"
       ]
     },
     {
@@ -283,37 +297,24 @@
       "category": "National",
       "section": "National",
       "feed": "Globe and Mail Canada",
-      "score": 8.54,
+      "score": 8.38,
       "hits": [
         "measles",
         "measles exposure"
       ]
     },
     {
-      "title": "Oil prices extend losses as fears of Middle East escalation ease",
-      "source": "سانا",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yaVpPZjFHWllpcGMwV2hDLUttSnJwUDEzcTVJUWdmckVkZDBfSTdaUE53ZEkyS29oVlhaRWdwUEwzS0hoSC1LUTdkakU?oc=5",
-      "ts": "2026-11-10T08:36:25+00:00",
+      "title": "Oil Prices Unlikely to Fall as Houthi Attacks Threaten Saudi Export Routes, Middle East Expert Warns",
+      "source": "EnergyNow",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2Z2bzhZNlVNUnNyNkpod0U3N2U1VDJvZzJKN1ZpM0NidVNiUGZISElDa1pFaHRxSjEzOVRmOGtpOEVfZUF1d3BHUDJ2bjZVYXlXdWtCaWdlVkxKNnJWOUgxRVBTM2lkQ3JBeXZZR19sTS05NXVyak1EdXdSRHRnSC1Zcm1VNTUzVDI2bVZmQTJwZ2htb0w4X3BmZnF2TmdIZTNnRFVLeXJ5bjhLbThZVmwyOXlVamxYZ1RjcEtlSFNBcEQxbGhOaQ?oc=5",
+      "ts": "2026-11-10T16:39:57+00:00",
       "category": "World",
       "section": "World",
       "feed": "GN Geopolitics",
-      "score": 8.45,
+      "score": 8.35,
       "hits": [
         "middle east",
         "oil prices"
-      ]
-    },
-    {
-      "title": "Bank of Canada proceeding carefully with future rate hikes, deliberations show",
-      "source": "Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2NIMnk5UkJsckFucjhEYTJ5SXpvSHNjdGIwYzhIZ053ZGZVUGxIZVh6b2J4MDRUZWVyTTVLYnprSUtzSjZGeHQ5SmRWQktmcVFUYkNhZ3BZWldiMlhKd0pUblVSYm9mZ1pibzduNk5IRmQwY25EcGc1dzdJSnVwdThsMkVjSnl2T1dwSktvRUw1Zw?oc=5",
-      "ts": "2026-11-10T20:32:43+00:00",
-      "category": "Money/Policy",
-      "section": "National",
-      "feed": "GN Rates & Housing",
-      "score": 8.38,
-      "hits": [
-        "bank of canada"
       ]
     },
     {
@@ -324,7 +325,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 13.02,
+      "score": 12.42,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -333,35 +334,19 @@
       ]
     },
     {
-      "title": "Seahawks stand pat at NFL trade deadline",
-      "source": "The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcUQ3Z3BnX1dLcEx2VXUtUjN5c0JzaFJhNkJzbXRoNC1fSloxY2VTMW1uUnBvaXgxTlV1MDFfbVdhUFpuOFo1SVowc1lNaFk5dVltWWlFZGJ0bmR2YmhuQUoyaVRTdF9nVmtuZG9jRmNzQTBVR0VycElPUzZteWZDNFpQNVFhUW1oWHl1eGctWQ?oc=5",
-      "ts": "2026-11-10T21:02:05+00:00",
+      "title": "Seahawks Land Ex-Chiefs 346-Pound Award Winner in 1st Move Minutes After NFL Trade Deadline",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUnVxTEZoOVM4aVZlQnJkN0tOVXBRYWkwbzhVX3I5MGl4Z3lidklQNnFGdzBzQmxLOTN6bG5GNzFoR09yMUo2ZGxFOXVYd3g2M19CV0hDTExkZHQ5aVdfWHZkNU9sVEVpRVVJLTkzSm9aV29iN2tHUGxQX2x0cmxIQ3pn?oc=5",
+      "ts": "2026-11-11T01:47:00+00:00",
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 12.96,
+      "score": 12.34,
       "hits": [
         "trade",
         "seahawks",
         "trade deadline",
         "nfl"
-      ]
-    },
-    {
-      "title": "Seahawks trade deadline: Will Seattle strike for a receiver on Tuesday?",
-      "source": "Seaside Joe",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtaU51RVZSUENiaDlUeTA4TVgxRkV4SWlQNUZzbVhKREoyMVdvUkFyaWJwVW9hYUtZMUZ3aWFTczRiS0xtem5lR1dTT3lCNHNodUR5MXpnYkhWZHdqOHJoY1VQMGFramNZOFpZV25KclF1MDQ?oc=5",
-      "ts": "2026-11-10T13:01:58+00:00",
-      "category": "Football",
-      "section": "Teams",
-      "feed": "GN Seahawks",
-      "score": 12.91,
-      "hits": [
-        "trade",
-        "seahawks",
-        "strike",
-        "trade deadline"
       ]
     },
     {
@@ -372,7 +357,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 12.88,
+      "score": 12.17,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -387,7 +372,7 @@
       "category": "Hockey",
       "section": "Teams",
       "feed": "GN Canucks",
-      "score": 12.76,
+      "score": 12.09,
       "hits": [
         "canucks",
         "vancouver canucks",
@@ -395,31 +380,49 @@
       ]
     },
     {
-      "title": "Seahawks Expect Drew Lock to Start vs. Raiders Through Oblique Injury as Sam Darnold Sits",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWdvV3d2a2djMzk0QnpRb1lqQks0UTQ4VGEyWHNGcVk4aTNLRm83TkdMQk1MdV9BM24xY1Zfc1pEYVNSN3FQcHhvaVhXWGV1MzNDQ1NNMEhScE4xZy1WYkt6SFBFZUltYmZINzNwZXhBMk5fSDhTVnJyNUdrU3l1b0tTTW0tMDQ?oc=5",
-      "ts": "2026-11-10T15:43:00+00:00",
+      "title": "Seahawks trade deadline: Will Seattle strike for a receiver on Tuesday?",
+      "source": "Seaside Joe",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtaU51RVZSUENiaDlUeTA4TVgxRkV4SWlQNUZzbVhKREoyMVdvUkFyaWJwVW9hYUtZMUZ3aWFTczRiS0xtem5lR1dTT3lCNHNodUR5MXpnYkhWZHdqOHJoY1VQMGFramNZOFpZV25KclF1MDQ?oc=5",
+      "ts": "2026-11-10T13:01:58+00:00",
       "category": "Football",
       "section": "Teams",
       "feed": "GN Seahawks",
-      "score": 12.72,
+      "score": 12.05,
       "hits": [
-        "injury",
+        "trade",
         "seahawks",
-        "sam darnold"
+        "strike",
+        "trade deadline"
       ]
     },
     {
-      "title": "Langley shelter invites homeless to take cover from the rain",
-      "source": "Langley Advance Times",
-      "url": "https://langleyadvancetimes.com/2026/11/10/langley-shelter-invites-homeless-to-take-cover-from-the-rain/",
-      "ts": "2026-11-10T18:45:00+00:00",
-      "category": "Local",
-      "section": "Local",
-      "feed": "Langley Advance Times",
-      "score": 12.12,
+      "title": "Fantasy Football Week 10 Guide: Top Starts And Waiver Wire Rankings",
+      "source": "Seattle Seahawks",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWVQR0ROMk9uYzBONGdabDZzbEVHN2xfMVlVZzJVUENUTzlRZS1ETGo3NkN2eC1xZF9tTFlIWUZ3Z0p5azF3RzI5OFE3R2ZnOFpXYVpEeWdrN1l0R1VwNWk0V19WRm9CeE15aXFiN3dGVUVWQi16SHVzSVZfSzVpTTdBTTRNOHlQaGczbjFjSTFWdDE3ZC1GbTRhc0NxTUFoZmhN?oc=5",
+      "ts": "2026-11-10T23:25:35+00:00",
+      "category": "Football",
+      "section": "Teams",
+      "feed": "GN Seahawks",
+      "score": 12.05,
       "hits": [
-        "langley"
+        "fantasy football",
+        "waiver",
+        "waiver wire"
+      ]
+    },
+    {
+      "title": "Tesla Model Y Ranks Second in Imported Used Car Transactions; FSD Demand Draws Attention; 30s and 40s Make Up 73% of Buyers; Prices Range from 30 Million to 70 Million Won; Popularity of Used Model Y",
+      "source": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRcU9vdFlfQ19Xd09uc3dLc0VnMTJKQ29sTWEtcjlVbVZVLXBLTnlvck5FQmtZbU5yNjRUd0tCWFBRSFRSWGo1QzJnNGo2N29hR05nS0prOFZjeGpkdHMwUWxn?oc=5",
+      "ts": "2026-11-10T09:40:03+00:00",
+      "category": "Tesla/EV",
+      "section": "Tech",
+      "feed": "GN Tesla",
+      "score": 11.8,
+      "hits": [
+        "tesla",
+        "fsd",
+        "model y"
       ]
     }
   ],
@@ -429,35 +432,35 @@
     "Vancouver Is Awesome": "ok (20)",
     "Langley Advance Times": "ok (10)",
     "GN Langley": "ok (21)",
-    "GN BC Hazards": "ok (22)",
+    "GN BC Hazards": "ok (25)",
     "CBC Canada": "ok (20)",
     "CBC Politics": "ok (20)",
     "Globe and Mail Canada": "ok (100)",
     "CBC Business": "ok (20)",
     "Bank of Canada": "ok (10)",
-    "GN Rates & Housing": "ok (90)",
-    "GN Tariffs & Trade": "ok (53)",
-    "GN Canada Post & Transport": "ok (17)",
-    "BBC World": "ok (35)",
-    "CBC World": "ok (19)",
+    "GN Rates & Housing": "ok (93)",
+    "GN Tariffs & Trade": "ok (50)",
+    "GN Canada Post & Transport": "ok (21)",
+    "BBC World": "ok (38)",
+    "CBC World": "ok (20)",
     "GN Geopolitics": "ok (100)",
-    "GN Pharmacy": "ok (51)",
+    "GN Pharmacy": "ok (55)",
     "GN BC Health": "ok (20)",
     "GN Health Policy": "ok (1)",
     "GN Canucks": "ok (100)",
     "ESPN NHL": "no element found: line 1, column 0",
     "GN Seahawks": "ok (100)",
     "ESPN NFL": "no element found: line 1, column 0",
-    "GN BC Lions": "ok (69)",
+    "GN BC Lions": "ok (59)",
     "GN Blue Jays": "ok (100)",
     "GN Raptors": "ok (100)",
     "Electrek Tesla": "ok (150)",
-    "GN Tesla": "ok (30)",
+    "GN Tesla": "ok (38)",
     "The Verge AI": "ok (10)",
     "GN AI": "ok (100)",
-    "GN Local Safety": "ok (40)",
-    "GN TransLink": "ok (10)",
-    "GN BC Election": "ok (84)",
+    "GN Local Safety": "ok (43)",
+    "GN TransLink": "ok (12)",
+    "GN BC Election": "ok (99)",
     "GN Cost of Living": "ok (27)",
     "GN Apple": "ok (100)",
     "GN AI Health": "ok (10)",
